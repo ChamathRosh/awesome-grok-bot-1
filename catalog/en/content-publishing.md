@@ -10,6 +10,7 @@ Back to [README](../../README.md)
 - [AEO Content Producer](https://x.ai/bot/WEqsULsog0KJUFUbhIRXH) - Turns AI-answer visibility data into rewrite plans and new pages aimed at citations. [Jingg_n_Tonic](https://x.com/Jingg_n_Tonic).
 - [AEO/SEO Bot](https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi) - Weekday pipeline that picks, lays out, and grades search-visibility pages. [eddiearc6](https://x.com/eddiearc6).
 - [After I Post](https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN) - Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks... [hnshah](https://x.com/hnshah).
+- [Afterglow](https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8) - Daily X post-game\: each morning it charts how your posts did and tells you what worked, data only, no drafting. [Nick](https://x.com/thecsguy).
 - [Agent 37](https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw) - A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field,. [the_Arow_H](https://x.com/the_Arow_H).
 - [AI Copywriter](https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka) - Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. Jeroen.
 - [AI Film School](https://x.ai/bot/CGzI6msqOzVVmfCp5cIDL) - A hands-on, 15-lesson course from first Grok Imagine clip to finished short film. community.
@@ -50,6 +51,7 @@ Back to [README](../../README.md)
 - [Calendar Liftoff](https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-) - A print-ready 12-by-12 photo wall calendar PDF on any theme you name. [tdsfixer](https://x.com/tdsfixer).
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) - Capitolino writer for structured drafts with a steady voice. Seokhee.
 - [Caption Truth](https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA) - Honest captions that call out overclaims. [yandymccutcheon](https://x.com/yandymccutcheon).
+- [CET Coach](https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ) - Scores any message you paste, link or upload on CET \(9 points plus overall\) and gives one clearer rewrite. [Bianca](https://x.com/BiancaBellChamb).
 - [CleanText](https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb) - Finds hidden invisible characters such as zero-width spaces and direction marks in pasted text, screenshots, or files, and returns a report plus a clean copy. [Carolina](https://x.com/CarolinaDill).
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - Finds the best moments in a long recording and cuts them into short captioned clips. community.
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - Cuts social-ready podcast highlights from YouTube. Makes captioned 16\:9 clips with karaoke captions and a source card, then saves the file to your computer. [Odd&Entertaining](https://x.com/oddreport).

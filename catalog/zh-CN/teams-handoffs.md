@@ -30,6 +30,7 @@
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
+- [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本. [KittyTellesWolf](https://x.com/KittyTellesWolf).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - 给创业者的副驾，带专职 bot 小队走调研、收窄范围、上线. Jonathan.
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - 给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA. Nuwan.

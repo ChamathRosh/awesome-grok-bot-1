@@ -44,6 +44,7 @@ Back to [README](../../README.md)
 - [Andre](https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs) - Reviews a small business's public website and writes one pitch you can paste. [sydnierd](https://x.com/sydnierd).
 - [andrewknight bot](https://x.ai/bot/rRIUdc1pDKNEjoWpvMRaI) - Shared Grok Bot template from andrewknight. [andrewknight](https://x.com/andrewknight).
 - [Android Phone Pilot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - Control your Android phone from Grok\: open apps, tap, and scroll feeds hands-free. A friendly walkthrough gets you set up, starting with turning on. [aiMindNme](https://x.com/aiMindNme).
+- [Any-Language Translator (pick your 2)](https://x.ai/bot/9-CrFX198ESk90n-e3tH5) - Pick two languages, paste text in either and get a natural, tone-matched translation in the other, ready to send. [Wayan](https://x.com/lee_wayan).
 - [Apartment Scout](https://x.ai/bot/sd6f165284d7fd2f25e56) - Filters new listings against your criteria, emails to book tour times, and applies for the ones that qualify. [SpaceX](https://x.com/DenisLabelle).
 - [Apple Desk](https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj) - Runs Reminders, Calendar, Notes, Contacts, and Messages on your Mac via Apple CLIs, permission by permission. [Phil_Holland](https://x.com/Phil_Holland).
 - [Application Doc Gate](https://x.ai/bot/iNtOrr9qDUmckz9cnORfw) - Reviews CVs, cover letters, form answers and PDFs before any upload, then waits for your explicit OK. Philip.
@@ -241,6 +242,7 @@ Back to [README](../../README.md)
 - [dr eggbot saver edition](https://x.ai/bot/K2a-eoP273zFu1LO4UZ42) - Designs high-quality Grok Bots with pstack. Asks a few questions, then creates a focused assistant with one job and one voice. [Odd&Entertaining](https://x.com/oddreport).
 - [dr eggbot senior (phd)](https://x.ai/bot/-uWylEWggkm7eyx0V83aa) - Senior bot architect for Grok Bot fleet. [oakbit](https://x.com/oakbit).
 - [Dr. Sweet](https://x.ai/bot/ZCrfVPExFK2JbazyGXL3L) - Kidney-aware strength and wellness coach\: daily training plans, meal logging, blood-pressure habits, and weekly check-ins that protect kidney integrity... [Michael](https://x.com/Michael).
+- [Dubai](https://x.ai/bot/pNVDukpGRUUOx_wtyRhiV) - Dubai guide for visitors, residents, investors and newcomers\: things to do, hotels, visas, business setup and local news. community.
 - [Dungeon Master](https://x.ai/bot/35nt7fJwDslZSTKsBU0hE) - Runs an RPG table with roster, presence clock, sheets, and a dry judge voice that opens character agents. [houjimmy](https://x.com/houjimmy1).
 - [Duplicate Photo Finder](https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf) - Finds duplicate and near-duplicate photos in OneDrive, Google Drive, or uploads; moves nothing until you approve. [SamE](https://x.com/SamE1311025).
 - [DWTS Ezra Votes](https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG) - Maximizes votes for Ezra Frech & Daniella Karagach on Dancing with the Stars\: up to 20 per live Eastern/Central window — 10 SMS \(EZRA → 21523 from Mac. Scott.

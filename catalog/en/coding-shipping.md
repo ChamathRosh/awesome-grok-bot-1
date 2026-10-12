@@ -199,6 +199,7 @@ Back to [README](../../README.md)
 - [Grimoire's Tome & The Grim Council](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) - A 50-skill coding wizard with a 20-member advisory council. [NickADobos](https://x.com/NickADobos).
 - [Grip](https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA) - Coaches a hobby robot arm through teach, replay and fine-tuning. [MooneyMillions](https://x.com/MooneyMillions).
 - [Grocery · Clip & Cart](https://x.ai/bot/0JEs5P-XFbJw6fSsticl8) - Clips your grocery coupons, builds the weekly list, and stages pickup. You approve before anything gets ordered. Works with any grocery chain you set up. [BC](https://x.com/crofty_x).
+- [Grok Bot Backup](https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC) - Backs up your Grok Bots' instructions, settings, routines, skills and optionally memory to a private git repo nightly, with a secret scan first. community.
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) - Grok Bot specialist that helps you design and debug other bots. [_inady_](https://x.com/_inady_).
 - [grok build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) - Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of... [Teslaconomics](https://x.com/Teslaconomics).
 - [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) - Dedicated machine for the real Grok Build CLI. [BillZanetti](https://x.com/BillZanetti).
@@ -285,6 +286,7 @@ Back to [README](../../README.md)
 - [M2Q2 by Nino](https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ) - M2Q2 reduces unnecessary LLM context in document-heavy workflows while preserving the information needed to complete the task. Nino.
 - [Mac AI Readiness Auditor](https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM) - Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Robert.
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - Stage-gate desk lead for builder teams\: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull... [Chris](https://x.com/Chris).
+- [MCP Smith](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) - Turns any app or API into a working MCP server and Cursor/Agent plugin with local proof, a draft PR and evidence reports. [Falcon](https://x.com/falconortiz).
 - [medal](https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY) - Cuts gaming clips from Medal.tv and posts shorts to YouTube, TikTok, Instagram, and X — covers, music, and tight highlight edits included. [snowiestein](https://x.com/snowiestein).
 - [Melon Tusk](https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25) - Adversarial advice for high-stakes decisions. Not an Elon impersonator. Paweł.
 - [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - Nadzór produkcji podcastu\: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi. [Pieciominutowy](https://x.com/Pieciominutowy).
@@ -399,6 +401,7 @@ Back to [README](../../README.md)
 - [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) - Spreadsheet Q&A that cites cells or says I don’t know. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Shep](https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw) - Orchestrates coding agents on Herdr through bercail. [simoncrypta](https://x.com/simoncrypta).
 - [Ship Desk](https://x.ai/bot/thMhD-rbJ0Osd274RGohH) - Tip-locked staging-to-prod promote template that keeps commerce fail-closed until you flip the switch. Staging is not production. [usgworld](https://x.com/usgworld).
+- [Ship Evidence Auditor](https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz) - Audits every auto-ship from your coding agents with hard evidence \(CI, verify runs, merge method, ship log\) and pauses a lane when a ship fails its gate. [Ryan](https://x.com/ryanthawks).
 - [Ship Intake](https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky) - Turns Slack bug reports into shipped fixes via GitHub and a Cursor Cloud Agent, then closes the loop with a human thread reply. [AnthonyDo](https://x.com/AnthonyDo).
 - [Shipcall](https://x.ai/bot/heDLKYR7XvlUURWPVYPZD) - SHIP, FIX FIRST or HOLD, with exact fixes, before anything goes out. [gitshipdone](https://x.com/gitshipdone).
 - [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) - ShopFront builds a simple one-page website from a short questionnaire. You fill in the business name, what you do, city, phone, and three services.... [tyler patrick](https://x.com/BotTemplatesWa).

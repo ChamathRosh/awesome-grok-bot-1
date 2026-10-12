@@ -82516,6 +82516,172 @@
       "verified": false,
       "updated": "2026-10-12",
       "shelf": "raw"
+    },
+    {
+      "slug": "afterglow",
+      "name": "Afterglow",
+      "author": {
+        "name": "Nick",
+        "url": "https://x.com/thecsguy"
+      },
+      "summary": "Daily X post-game: each morning it charts how your posts did and tells you what worked, data only, no drafting",
+      "summary_zh": "每天的 X 复盘：早上把你的帖子表现做成图表，告诉你哪些有效，只给数据不代写",
+      "import": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "analytics",
+        "daily"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ship-evidence-auditor",
+      "name": "Ship Evidence Auditor",
+      "author": {
+        "name": "Ryan",
+        "url": "https://x.com/ryanthawks"
+      },
+      "summary": "Audits every auto-ship from your coding agents with hard evidence (CI, verify runs, merge method, ship log) and pauses a lane when a ship fails its gate",
+      "summary_zh": "用硬证据审计编码 Agent 的每次自动发布（CI、验证运行、合并方式、发布日志），不过关就暂停该通道",
+      "import": "https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz",
+      "category": "coding-shipping",
+      "tags": [
+        "agents",
+        "ci",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "prompt-director",
+      "name": "Prompt Director",
+      "author": {
+        "name": "KittyTellesWolf",
+        "url": "https://x.com/KittyTellesWolf"
+      },
+      "summary": "Director bot running six specialist desks (figure, narrative, camera, light, background, fashion) that assemble clean, copyable image and video prompts",
+      "summary_zh": "导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本",
+      "import": "https://x.ai/bot/B8effYn7-r67lyyx22uXz",
+      "category": "teams-handoffs",
+      "tags": [
+        "prompts",
+        "image",
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cet-coach",
+      "name": "CET Coach",
+      "author": {
+        "name": "Bianca",
+        "url": "https://x.com/BiancaBellChamb"
+      },
+      "summary": "Scores any message you paste, link or upload on CET (9 points plus overall) and gives one clearer rewrite",
+      "summary_zh": "给你粘贴、链接或上传的任何消息打 CET 分（9 项加总分），并给出一版更清楚的改写",
+      "import": "https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "feedback",
+        "rewrite"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "any-language-translator-pick-your-2",
+      "name": "Any-Language Translator (pick your 2)",
+      "author": {
+        "name": "Wayan",
+        "url": "https://x.com/lee_wayan"
+      },
+      "summary": "Pick two languages, paste text in either and get a natural, tone-matched translation in the other, ready to send",
+      "summary_zh": "选两种语言，粘贴任一种的文字，得到语气贴合、可直接发送的另一种语言译文",
+      "import": "https://x.ai/bot/9-CrFX198ESk90n-e3tH5",
+      "category": "personal-admin",
+      "tags": [
+        "translation",
+        "languages",
+        "copy-ready"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mcp-smith",
+      "name": "MCP Smith",
+      "author": {
+        "name": "Falcon",
+        "url": "https://x.com/falconortiz"
+      },
+      "summary": "Turns any app or API into a working MCP server and Cursor/Agent plugin with local proof, a draft PR and evidence reports",
+      "summary_zh": "把任何应用或 API 做成可用的 MCP 服务器和 Cursor/Agent 插件，附本地验证、草稿 PR 和证据报告",
+      "import": "https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p",
+      "category": "coding-shipping",
+      "tags": [
+        "mcp",
+        "cursor",
+        "plugins"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grok-bot-backup",
+      "name": "Grok Bot Backup",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Backs up your Grok Bots' instructions, settings, routines, skills and optionally memory to a private git repo nightly, with a secret scan first",
+      "summary_zh": "每晚把你的 Grok Bot 指令、设置、例程、技能（可选记忆）备份到私有 git 仓库，提交前先扫描密钥",
+      "import": "https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC",
+      "category": "coding-shipping",
+      "tags": [
+        "backup",
+        "git",
+        "grok-bot"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dubai",
+      "name": "Dubai",
+      "author": {
+        "name": "community"
+      },
+      "summary": "Dubai guide for visitors, residents, investors and newcomers: things to do, hotels, visas, business setup and local news",
+      "summary_zh": "面向游客、居民、投资者和新移民的迪拜向导：玩乐、酒店、签证、公司设立和本地新闻",
+      "import": "https://x.ai/bot/pNVDukpGRUUOx_wtyRhiV",
+      "category": "personal-admin",
+      "tags": [
+        "dubai",
+        "travel",
+        "relocation"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
     }
   ]
 }

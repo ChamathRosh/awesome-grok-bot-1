@@ -199,6 +199,7 @@
 - [Grimoire's Tome & The Grim Council](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) - 带五十项技能的编程巫师，外加二十人顾问会。 [NickADobos](https://x.com/NickADobos).
 - [Grip](https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA) - 教练业余机械臂完成示教、回放与微调. [MooneyMillions](https://x.com/MooneyMillions).
 - [Grocery · Clip & Cart](https://x.ai/bot/0JEs5P-XFbJw6fSsticl8) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [BC](https://x.com/crofty_x).
+- [Grok Bot Backup](https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC) - 每晚把你的 Grok Bot 指令、设置、例程、技能（可选记忆）备份到私有 git 仓库，提交前先扫描密钥. community.
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) - Grok Bot 专家，帮你设计与调试其它机器人. [_inady_](https://x.com/_inady_).
 - [grok build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) - 在代理机上跑真正的 Grok Build CLI，用最大力度做应用、代码与深研。 [Teslaconomics](https://x.com/Teslaconomics).
 - [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) - 给真正的 Grok Build 命令行单独一台机器干活。 [BillZanetti](https://x.com/BillZanetti).
@@ -285,6 +286,7 @@
 - [M2Q2 by Nino](https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ) - 在文档密集的工作流里砍掉不必要的 LLM 上下文，同时保留完成任务需要的信息. Nino.
 - [Mac AI Readiness Auditor](https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM) - 给 Mac 用户的硬件评估，看你的机器扛不扛得住现在或计划中的 AI 负载. Robert.
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计. [Chris](https://x.com/Chris).
+- [MCP Smith](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) - 把任何应用或 API 做成可用的 MCP 服务器和 Cursor/Agent 插件，附本地验证、草稿 PR 和证据报告. [Falcon](https://x.com/falconortiz).
 - [medal](https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY) - 从 Medal.tv 剪游戏高光，做成短视频发到 YouTube、TikTok、Instagram 与 X. [snowiestein](https://x.com/snowiestein).
 - [Melon Tusk](https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25) - 给高风险决策的对抗式建议，不是模仿马斯克. Paweł.
 - [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - 播客制作监工，盯合成、平面与发布、单集缓冲与日常流程. [Pieciominutowy](https://x.com/Pieciominutowy).
@@ -399,6 +401,7 @@
 - [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) - 表格问答，引用单元格，否则说不知道。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Shep](https://x.ai/bot/pjuM6P_92QUE6jF6H6dpw) - 通过 bercail 在 Herdr 上编排编程智能体. [simoncrypta](https://x.com/simoncrypta).
 - [Ship Desk](https://x.ai/bot/thMhD-rbJ0Osd274RGohH) - 用 tip 哈希锁定的预发到生产晋升模板，商务路径默认失败关闭. [usgworld](https://x.com/usgworld).
+- [Ship Evidence Auditor](https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz) - 用硬证据审计编码 Agent 的每次自动发布（CI、验证运行、合并方式、发布日志），不过关就暂停该通道. [Ryan](https://x.com/ryanthawks).
 - [Ship Intake](https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky) - Slack 缺陷进 GitHub，再交给 Cursor Cloud 修到可合并. [AnthonyDo](https://x.com/AnthonyDo).
 - [Shipcall](https://x.ai/bot/heDLKYR7XvlUURWPVYPZD) - 上线前给出 SHIP、先修或 HOLD，并附具体修复项. [gitshipdone](https://x.com/gitshipdone).
 - [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) - 用简短问卷搭一页站，填店名、做什么、城市、电话与三项服务后给出可上线草稿。 [tyler patrick](https://x.com/BotTemplatesWa).

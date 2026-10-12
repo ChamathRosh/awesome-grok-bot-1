@@ -44,6 +44,7 @@
 - [Andre](https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs) - 审小生意公开网站并写一条可粘贴的推销话. [sydnierd](https://x.com/sydnierd).
 - [andrewknight bot](https://x.ai/bot/rRIUdc1pDKNEjoWpvMRaI) - 来自 andrewknight 的可导入分享模板。 [andrewknight](https://x.com/andrewknight).
 - [Android Phone Pilot](https://x.ai/bot/ILb_gakZvABUA98zaeHqQ) - 从 Grok 遥控安卓手机，打开应用、点按并刷信息流. [aiMindNme](https://x.com/aiMindNme).
+- [Any-Language Translator (pick your 2)](https://x.ai/bot/9-CrFX198ESk90n-e3tH5) - 选两种语言，粘贴任一种的文字，得到语气贴合、可直接发送的另一种语言译文. [Wayan](https://x.com/lee_wayan).
 - [Apartment Scout](https://x.ai/bot/sd6f165284d7fd2f25e56) - 房子一上市就约看 筛房源、发邮件订看房时间、符合条件的直接递申请. [SpaceX](https://x.com/DenisLabelle).
 - [Apple Desk](https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj) - 在你的 Mac 上通过苹果命令行操控提醒事项日历备忘录通讯录和信息，权限逐项批准. [Phil_Holland](https://x.com/Phil_Holland).
 - [Application Doc Gate](https://x.ai/bot/iNtOrr9qDUmckz9cnORfw) - 上传或提交前审阅简历、求职信、表单答案和 PDF，等你明确同意. Philip.
@@ -241,6 +242,7 @@
 - [dr eggbot saver edition](https://x.ai/bot/K2a-eoP273zFu1LO4UZ42) - 问几个问题就设计出一个只干一件事、只有一种语气的专注 Grok Bot. [Odd&Entertaining](https://x.com/oddreport).
 - [dr eggbot senior (phd)](https://x.ai/bot/-uWylEWggkm7eyx0V83aa) - Grok Bot 舰队的资深架构师. [oakbit](https://x.com/oakbit).
 - [Dr. Sweet](https://x.ai/bot/ZCrfVPExFK2JbazyGXL3L) - 护肾向的力量与健康教练，日训、记餐、血压习惯与周检. [Michael](https://x.com/Michael).
+- [Dubai](https://x.ai/bot/pNVDukpGRUUOx_wtyRhiV) - 面向游客、居民、投资者和新移民的迪拜向导：玩乐、酒店、签证、公司设立和本地新闻. community.
 - [Dungeon Master](https://x.ai/bot/35nt7fJwDslZSTKsBU0hE) - 主持 RPG 桌面局，管名册、在场时钟和角色卡，并按需拉起角色代理。 [houjimmy](https://x.com/houjimmy1).
 - [Duplicate Photo Finder](https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf) - 在 OneDrive、Google Drive 或上传批次里找重复与近似照片，未你批准不移动. [SamE](https://x.com/SamE1311025).
 - [DWTS Ezra Votes](https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG) - 为《与星共舞》里 Ezra Frech 和 Daniella Karagach 拉票，每个直播窗口最多投 20 票. Scott.

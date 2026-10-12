@@ -10,6 +10,7 @@
 - [AEO Content Producer](https://x.ai/bot/WEqsULsog0KJUFUbhIRXH) - 按你在 AI 回答里的曝光数据，排改写计划和冲引用的新稿。 [Jingg_n_Tonic](https://x.com/Jingg_n_Tonic).
 - [AEO/SEO Bot](https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi) - 工作日流水线，选题排版并给搜索可见页面打分。 [eddiearc6](https://x.com/eddiearc6).
 - [After I Post](https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN) - 发帖后继续跟进，挖出值得行动的人与想法，并留下改进下一帖的证据。 [hnshah](https://x.com/hnshah).
+- [Afterglow](https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8) - 每天的 X 复盘：早上把你的帖子表现做成图表，告诉你哪些有效，只给数据不代写. [Nick](https://x.com/thecsguy).
 - [Agent 37](https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw) - 标准答案不够时用的编码与策略机器人，先写下专家会怎么做再动手. [the_Arow_H](https://x.com/the_Arow_H).
 - [AI Copywriter](https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka) - 用 Dan Koe 的口吻写博客、落地页、邮件、广告、社媒和活动简报，每篇过一遍去 AI 味，不写视频脚本. Jeroen.
 - [AI Film School](https://x.ai/bot/CGzI6msqOzVVmfCp5cIDL) - 编码与交付助手. community.
@@ -50,6 +51,7 @@
 - [Calendar Liftoff](https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-) - 按主题生成可印刷的 12×12 照片挂历 PDF. [tdsfixer](https://x.com/tdsfixer).
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) - Capitolino 写手，结构化草稿且语气稳定. Seokhee.
 - [Caption Truth](https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA) - 诚实标题，点出过度宣称。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [CET Coach](https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ) - 给你粘贴、链接或上传的任何消息打 CET 分（9 项加总分），并给出一版更清楚的改写. [Bianca](https://x.com/BiancaBellChamb).
 - [CleanText](https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb) - 从粘贴的文字、截图或文件里找出零宽空格、方向标记等隐藏字符，给出报告和干净版本，本地运行不接任何连接器. [Carolina](https://x.com/CarolinaDill).
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - 从长录音里找出最精彩的片段，剪成带字幕的短片. community.
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - 从 YouTube 播客里剪出适合社交平台的 16\:9 高光片段，带卡拉 OK 字幕和来源卡，存到你的电脑. [Odd&Entertaining](https://x.com/oddreport).
