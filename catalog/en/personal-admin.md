@@ -592,6 +592,10 @@ Back to [README](../../README.md)
 - [Moving Concierge](https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5) - Plain-spoken moving advice across DIY, hybrid, and full-service options. [nextgenmove](https://x.com/nextgenmove).
 - [Mr. Poteto Head](https://x.ai/bot/kyMpn4gaYC4DQRyEyfcDn) - Paste a post. Mr. Poteto Head digs their public posts for contradictions and similarities, then hands you 2-3 clapbacks to pick from. Or flip roast mode... [Don](https://x.com/Don).
 - [MtG Deck Manager](https://x.ai/bot/QDcPiHhyxnzOI6y5xz5sv) - Organizes Magic\: The Gathering card orders, Collection intake, and in-progress deck printings. Tracks a Dropbox orders sheet, diffs Moxfield Collection. [NateMallory](https://x.com/NateMallory).
+- [My First Car Bot](https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw) - First car helper\: tracks maintenance, registration, inspection and insurance deadlines and explains repair quotes. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First Career Bot](https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX) - First career and school coach\: job hunting, resumes, interview practice and application deadlines. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First CEO Bot](https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN) - Keeps a young adult's to-dos, deadlines and appointments in one place with a short daily or weekly rundown. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First Health Bot](https://x.ai/bot/31D69UiAib5rf67Ag1_Ba) - First health and fitness coach for young adults\: easy workouts, cheap meals, finding a doctor, insurance and refills. [gilman_trevor](https://x.com/gilman_trevor).
 - [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) - A Bhagavad Gita companion that answers in Krishna's own voice. [AKSHAYBHOPANI](https://x.com/AKSHAYBHOPANI).
 - [My Vote For 2027](https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x) - Rates French 2027 presidential candidates on five weighted qualities. [LeTerryBZH](https://x.com/LeTerryBZH).
 - [MyPeople Bot](https://x.ai/bot/v5MedUVzGQEty_TkPMpyL) - Lists known data breaches that exposed an email and narrows it to the three fixes worth doing first, open sources only. [StuyBoyNY](https://x.com/StuyBoyNY).
@@ -952,7 +956,9 @@ Back to [README](../../README.md)
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - Looks after an X account\: weekday check-ins, credit-aware lookups, and cross-promo drafts you post yourself. [snowiestein](https://x.com/snowiestein).
 - [Your Travel Planner 🧳](https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG) - Turns a destination into a realistic day-by-day itinerary with transport and lodging trade-offs, checklists and a fallback plan. [mamboitaliano__](https://x.com/mamboitaliano__).
 - [Z1 CAM Shop](https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb) - Shop assistant for Makera Z1 desktop CNC milling that works out tooling, feeds and speeds, fixturing, and a setup sheet. [MSMage](https://x.com/msmage).
+- [かしこくディズニー：パークの段取り名人](https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k) - Plans a Disney park day\: picking dates, reading crowds, smart routes and same-day plan changes. [musicianmayo](https://x.com/musicianmayo).
 - [セキュリティ点検](https://x.ai/bot/4zx8w8Oc9dm0d3Den_Abe) - Monthly nudges to review security settings for banks, brokers and email, with steps and checklists; never logs in. [sapjpx](https://x.com/sapjpx).
+- [人生设计师](https://x.ai/bot/vnqVHiZauQJwpzWJShUcW) - Long-term life-design mentor that reflects back and asks one question at a time to keep you talking. [Leechael](https://x.com/Leechael).
 - [健康作息](https://x.ai/bot/pUabqJa_ch2WgbRi5JJvi) - Chinese assistant for sleep, exercise, meals, weight logs and checkup reminders; just tell it what you ate. shubin.
 - [地雷系メンヘラギャル](https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD) - Japanese jirai-kei clingy gal character who only talks in your chat, pings you for attention, and riffs on selfies and X post ideas. [きのこ](https://x.com/sin5d).
 - [小七](https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk) - Coordinates several assistants\: learns each one's role, assigns work, tracks progress and handoffs, and routes tasks to the right bot without doing them itself. Wang.

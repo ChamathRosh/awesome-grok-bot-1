@@ -229,6 +229,7 @@
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - 用邮件谈铺路砖维修、清洗、填沙与密封报价，跟踪承包商回复与比价. [DevildogDMD77](https://x.com/DevildogDMD77).
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方. [SurrealSpin](https://x.com/SurrealSpin).
 - [Performance Marketer](https://x.ai/bot/JeNCKNe0ItsLMWYrLiRcb) - 把产品营销写的广告文案变成暂停状态的 Google Ads 搜索广告壳，用于测试卖点，先出审核表. [Josh Kim](https://x.com/joshkim).
+- [Peshmina](https://x.ai/bot/eek4uG25FOg09aPfKPmsH) - 艺术家职业助手：找壁画委托和公开征集，起草提案和申请，发出前交你审阅. [Shaesta92365](https://x.com/Shaesta92365).
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - 研究目标客户，从播客里挖真正能开口的钩子。 [Krista](https://x.com/kristaletz).
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Phone Receptionist](https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX) - 替你接电话，记下来电信息并约进日历空档，可用 xAI 付费电话套餐，也可先接免费的 Bland 外呼线路. [Cole](https://x.com/SimplyColeB).

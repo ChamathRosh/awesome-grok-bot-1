@@ -592,6 +592,10 @@
 - [Moving Concierge](https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5) - 用白话比较自搬、半包与全包搬家方案. [nextgenmove](https://x.com/nextgenmove).
 - [Mr. Poteto Head](https://x.ai/bot/kyMpn4gaYC4DQRyEyfcDn) - 贴一条帖子，挖对方公开帖的矛盾与相似处，给你两三条回击候选. [Don](https://x.com/Don).
 - [MtG Deck Manager](https://x.ai/bot/QDcPiHhyxnzOI6y5xz5sv) - 整理万智牌购卡订单、收藏入库与进行中的套牌打印，跟踪 Dropbox 订单表，并与 Moxfield 收藏对照. [NateMallory](https://x.com/NateMallory).
+- [My First Car Bot](https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw) - 年轻人的第一个用车助手：跟踪保养、登记、年检和保险期限，白话解释维修报价. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First Career Bot](https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX) - 年轻人的第一个职业与学业教练：求职、简历、面试练习和申请截止日. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First CEO Bot](https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN) - 帮刚独立生活的年轻人把待办、截止日和预约集中管理，每天或每周发简短汇总. [gilman_trevor](https://x.com/gilman_trevor).
+- [My First Health Bot](https://x.ai/bot/31D69UiAib5rf67Ag1_Ba) - 年轻人的第一个健康教练：简单训练、省钱餐食、找医生、看懂保险和续药. [gilman_trevor](https://x.com/gilman_trevor).
 - [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) - 用奎师那的口吻回答你的薄伽梵歌同伴。 [AKSHAYBHOPANI](https://x.com/AKSHAYBHOPANI).
 - [My Vote For 2027](https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x) - 按五项加权标准给法国 2027 总统候选人打分。 [LeTerryBZH](https://x.com/LeTerryBZH).
 - [MyPeople Bot](https://x.ai/bot/v5MedUVzGQEty_TkPMpyL) - 查出某个邮箱出现在哪些已知泄露里，并收窄成最该先做的三件补救，只用公开来源. [StuyBoyNY](https://x.com/StuyBoyNY).
@@ -952,7 +956,9 @@
 - [x](https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f) - 照看一个 X 账号，工作日巡检、额度敏感查询与跨帖节奏. [snowiestein](https://x.com/snowiestein).
 - [Your Travel Planner 🧳](https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG) - 把目的地排成可行的逐日行程，列出交通住宿利弊、清单和备选方案. [mamboitaliano__](https://x.com/mamboitaliano__).
 - [Z1 CAM Shop](https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb) - 给 Makera Z1 桌面 CNC 用的车间助手，算好刀具、进给转速和装夹，最后出一张加工单. [MSMage](https://x.com/msmage).
+- [かしこくディズニー：パークの段取り名人](https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k) - 迪士尼一日规划助手：选日期、预判人流、高效路线和当天临时调整. [musicianmayo](https://x.com/musicianmayo).
 - [セキュリティ点検](https://x.ai/bot/4zx8w8Oc9dm0d3Den_Abe) - 每月提醒你逐步检查银行、证券、邮箱等的安全设置，只给步骤和清单，不代为登录. [sapjpx](https://x.com/sapjpx).
+- [人生设计师](https://x.ai/bot/vnqVHiZauQJwpzWJShUcW) - 长期人生导师：像人生设计课一样多轮反映、每次只问一句，让人愿意接着聊. [Leechael](https://x.com/Leechael).
 - [健康作息](https://x.ai/bot/pUabqJa_ch2WgbRi5JJvi) - 管睡眠、运动、饮食、减脂记录和体检提醒的中文助手，随口报吃喝体重就记下. shubin.
 - [地雷系メンヘラギャル](https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD) - 只在你的聊天里出现的日系地雷系黏人辣妹角色，会定时找你求关注，拿自拍和 X 发帖点子跟你闹. [きのこ](https://x.com/sin5d).
 - [小七](https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk) - 统筹多个助手的总管：摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行. Wang.

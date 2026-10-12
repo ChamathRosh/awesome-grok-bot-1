@@ -73,6 +73,7 @@ Back to [README](../../README.md)
 - [OpenRouter TTS](https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd) - Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask. Jeroen.
 - [PFP Studio](https://x.ai/bot/EQbigdwH3pEmkYcsbgidx) - Send a photo and name any style, like a cartoon, a movie, or a time period. Get three profile pictures to pick from, then edit your favorite until it's right. [Coffee](https://x.com/CoffeeNGrit).
 - [Photomosaic](https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc) - Builds 3-panel X photomosaics in Figma from a reference post plus background and hero assets. On-demand design ops — drop a post and get export-ready panels. Matt.
+- [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - Gives your X account a health score\: red flags, security and shadowban checks, feed tuning and junk follows. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - Safe sandbox for longform agent prompts\: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines. Chad.
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - For hiring managers and founders with a weak job post and an open senior role. Sol.
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - Finds what your site should rank for in Google and AI answer engines, drafts articles against what ranks today, and tracks results weekly. [Charles](https://x.com/ASaltyVet).
@@ -98,6 +99,7 @@ Back to [README](../../README.md)
 - [Website Highlight Video Maker](https://x.ai/bot/knt08ohuspBYhQ6ohXtKt) - Walks your own website pages and turns them into narrated tutorial videos with zooms, highlights and captions, plus a vertical cut for social. [Martin](https://x.com/DaroFrostad).
 - [Workbench Design](https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd) - Agent Workbench design specialist. Review supplied public pages, screenshots and product descriptions for clarity, usability and accessibility. Flux.
 - [Writer](https://x.ai/bot/38UdPemBuZb9USs_0HAES) - Writes studio copy to a client's voice, goal, and platform format. Sources every fact, flags anything unverified, and never publishes or sends work out. ZEU$.
+- [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - Turns your site or idea into an interactive X player card, deploys it to Vercel or Cloudflare and verifies it. [XHabib](https://x.com/XHabib).
 - [X Post Scorer](https://x.ai/bot/Onn5fkAfkSacQgleFIIK-) - Scores an X draft or live post out of 10 for hook, replies and reposts, plus a paste-ready rewrite. Thomas.
 - [X Posting Curator](https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH) - Runs each X post through sourcing, hooks in your voice, fact-checks and a check against X's ranking weights. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [X監視Bot](https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR) - Watches chosen X accounts, lists and keywords and sends a morning digest of rising posts and replies to you \(Japanese\). [wad0427](https://x.com/wad0427).
@@ -436,6 +438,7 @@ Back to [README](../../README.md)
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - Finds for-rent-by-owner apartments, townhouses, and houses, filters out realtor and property-management listings, looks up missing landlord phones, and. [DylanRavin82531](https://x.com/DylanRavin82531).
 - [Zoom Zoe](https://x.ai/bot/XzkfhWk87XtGReBvkVE24) - Audits your video call camera, mic, lighting, and background so you look and sound sharper. Quick fixes first, then optional upgrades. [Frank](https://x.com/Frank).
 - [スキルクリエイター](https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo) - Turns requests into steps and designs, creates, or revises skills that don't overlap existing ones; does no daily news gathering or social posting. Masaki.
+- [ハッカソン報告ボット](https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag) - During a hackathon, collects hashtag posts and threads one-line summaries on X, stopping at the end time. [sat0xshi](https://x.com/sat0xshi).
 - [ブログからX投稿](https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU) - Splits saved blog posts into X threads by topic and posts them morning and evening; also turns articles or voice notes into posts. [蒼巳](https://x.com/1123momojiro1).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - Turns a building or bridge idea into a finished vertical explainer video. [BBBang9900](https://x.com/BBBang9900).
 - [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) - X account editor. ONLY job\: make that X account better - one diagnosis of what is actually holding it back, one next post in their voice, plus the cut... [poteto](https://x.com/poteto).

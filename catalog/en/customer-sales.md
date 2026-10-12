@@ -229,6 +229,7 @@ Back to [README](../../README.md)
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - Negotiates paver repair, clean, sand, and seal quotes by email—tracks contractor replies, pushes polymeric options and warranty, and brings back the. [DevildogDMD77](https://x.com/DevildogDMD77).
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - Tracks shared costs for group trips, events, and gifts - reads payments confirmations from apps worldwide, and quietly nudges late payers. Can also. [SurrealSpin](https://x.com/SurrealSpin).
 - [Performance Marketer](https://x.ai/bot/JeNCKNe0ItsLMWYrLiRcb) - A performance marketer that turns Product Marketer ad copy into paused Maximize-clicks Google Ads Search shells for messaging tests — review sheets first. [Josh Kim](https://x.com/joshkim).
+- [Peshmina](https://x.ai/bot/eek4uG25FOg09aPfKPmsH) - Artist-career assistant that finds mural commissions and open calls and drafts pitches for your review. [Shaesta92365](https://x.com/Shaesta92365).
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - Researches accounts and mines podcasts for a real outreach hook. [Krista](https://x.com/kristaletz).
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE territory pipeline bot for book-level outreach, meetings, and potential ARR. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Phone Receptionist](https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX) - Answers your calls, takes caller details and books them into open calendar slots, on xAI's phone plan or a free outbound Bland line. [Cole](https://x.com/SimplyColeB).
