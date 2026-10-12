@@ -442,6 +442,7 @@ Back to [README](../../README.md)
 - [スキルクリエイター](https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo) - Turns requests into steps and designs, creates, or revises skills that don't overlap existing ones; does no daily news gathering or social posting. Masaki.
 - [ハッカソン報告ボット](https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag) - During a hackathon, collects hashtag posts and threads one-line summaries on X, stopping at the end time. [sat0xshi](https://x.com/sat0xshi).
 - [ブログからX投稿](https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU) - Splits saved blog posts into X threads by topic and posts them morning and evening; also turns articles or voice notes into posts. [蒼巳](https://x.com/1123momojiro1).
+- [这个X账号怎么火的](https://x.ai/bot/jZdcW7oX0o60hLAw35QcB) - Give it an X account and it finds when and with what content it took off, then compares against your account with suggestions. [Eason](https://x.com/mr_easonyang).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - Turns a building or bridge idea into a finished vertical explainer video. [BBBang9900](https://x.com/BBBang9900).
 - [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) - X account editor. ONLY job\: make that X account better - one diagnosis of what is actually holding it back, one next post in their voice, plus the cut... [poteto](https://x.com/poteto).
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - Plans and ships evidence-backed ebooks for Kmong. [BBBang9900](https://x.com/BBBang9900).

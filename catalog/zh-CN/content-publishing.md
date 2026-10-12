@@ -442,6 +442,7 @@
 - [スキルクリエイター](https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo) - 把需求拆成步骤，设计、创建和改进不与现有技能重叠的技能，不做每日新闻收集或发社媒. Masaki.
 - [ハッカソン報告ボット](https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag) - 黑客松期间抓取话题标签帖子，在 X 上以串推发一人一行摘要，结束时间自动停止. [sat0xshi](https://x.com/sat0xshi).
 - [ブログからX投稿](https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU) - 把攒下的博客文章按话题拆成 X 线程，早晚自动发帖；没有博客也能把读到的文章和日常想法整理成帖子，每周还给 3 个选题. [蒼巳](https://x.com/1123momojiro1).
+- [这个X账号怎么火的](https://x.ai/bot/jZdcW7oX0o60hLAw35QcB) - 丢一个 X 账号进去，找出它什么时候、靠什么内容火起来的，再对照你的号给出改进建议. [Eason](https://x.com/mr_easonyang).
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) - 把建筑或桥梁点子做成一支竖屏解说短视频。 [BBBang9900](https://x.com/BBBang9900).
 - [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) - 只做一件事，把指定 X 账号变好，一次诊断卡住的原因，再写一条对方口吻的下一帖。 [poteto](https://x.com/poteto).
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) - 按法规与官方依据，独自策划上架克梦电子书。 [BBBang9900](https://x.com/BBBang9900).

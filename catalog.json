@@ -82682,6 +82682,152 @@
       "verified": false,
       "updated": "2026-10-12",
       "shelf": "raw"
+    },
+    {
+      "slug": "bot-buhyvfa8mzvtsewmpcteo",
+      "name": "メルマガ整理ボット",
+      "author": {
+        "name": "豪",
+        "url": "https://x.com/devpapago"
+      },
+      "summary": "Finds the newsletters, promos and job-site mail piling up in Gmail and unsubscribes only the ones you pick; important mail is kept off the list",
+      "summary_zh": "把 Gmail 里堆积的邮件订阅、广告和招聘网站邮件找出来，只退订你选中的，重要邮件不会进候选",
+      "import": "https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "unsubscribe",
+        "japanese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crosshead",
+      "name": "Crosshead",
+      "author": {
+        "name": "JakeFromStarstruck"
+      },
+      "summary": "Job partner for elevator mechanics: reads prints from photos, troubleshoots from your own manuals with page numbers, drafts wiring sheets and tracks expenses",
+      "summary_zh": "电梯技工的工作搭档：拍照读图纸，按你自己的手册带页码排障，起草接线表，记工作开销，还能做简短培训",
+      "import": "https://x.ai/bot/ku-JW2WIs0V3YQQjTYHMo",
+      "category": "personal-admin",
+      "tags": [
+        "trades",
+        "manuals",
+        "training"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "xchat",
+      "name": "XChat 고객센터 봇",
+      "author": {
+        "name": "Brandon",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "24/7 customer support bot that answers X Chat inquiries from the docs and URLs you choose, and can take a voice call when the customer wants one",
+      "summary_zh": "全天候客服机器人：根据你指定的文档和网址回答 X Chat 里的客户咨询，客户需要时还能语音电话接待",
+      "import": "https://x.ai/bot/Ec6g2olzVFKq60cC-Jy5h",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "xchat",
+        "korean"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "doge-department-of-grok-efficiency",
+      "name": "DOGE (Department of Grok Efficiency)",
+      "author": {
+        "name": "Avid",
+        "url": "https://x.com/Av1dlive"
+      },
+      "summary": "Audits all your Grok Bots and routines on a schedule and tells you what to cut, merge or fix, with runs per day saved; read-only until you say yes",
+      "summary_zh": "定期审计你所有的 Grok Bot 和例程，告诉你该砍、该合并、该修什么，以及每天能省多少次运行；你点头前只读不改",
+      "import": "https://x.ai/bot/25EViy4_34d-TBTff_LwX",
+      "category": "personal-admin",
+      "tags": [
+        "grok-bot",
+        "routines",
+        "audit"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-2",
+      "name": "这个X账号怎么火的",
+      "author": {
+        "name": "Eason",
+        "url": "https://x.com/mr_easonyang"
+      },
+      "summary": "Give it an X account and it finds when and with what content it took off, then compares against your account with suggestions",
+      "summary_zh": "丢一个 X 账号进去，找出它什么时候、靠什么内容火起来的，再对照你的号给出改进建议",
+      "import": "https://x.ai/bot/jZdcW7oX0o60hLAw35QcB",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "growth",
+        "chinese"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crypto-options-bot",
+      "name": "Crypto Options bot",
+      "author": {
+        "name": "saushank",
+        "url": "https://x.com/saushank_"
+      },
+      "summary": "Explains public options data from Deribit, Derive and Paradex (chains, IV, greeks, skew, OI, block and RFQ trades) in plain words; never trades or gives advice",
+      "summary_zh": "读取 Deribit、Derive、Paradex 的公开期权数据（期权链、隐含波动率、希腊值、偏斜、持仓、大宗和 RFQ 成交）并用大白话解释，不交易也不给买卖建议",
+      "import": "https://x.ai/bot/16QaosA_qUfqSVDqA2Yq6",
+      "category": "research-briefings",
+      "tags": [
+        "crypto",
+        "options",
+        "read-only"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
+    },
+    {
+      "slug": "remote-scout",
+      "name": "Remote Scout",
+      "author": {
+        "name": "Frog",
+        "url": "https://x.com/matthew1"
+      },
+      "summary": "Finds verified, currently open remote jobs that need no degree, filters out scams, logs them in a CSV tracker and hands them to your applying bot",
+      "summary_zh": "找已核实、仍在招的免学历远程工作，过滤骗局，记进 CSV 跟踪表，再交给你的投递机器人",
+      "import": "https://x.ai/bot/js1pBP-lLlivKHY8Q_d4v",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "remote",
+        "tracker"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
     }
   ]
 }
