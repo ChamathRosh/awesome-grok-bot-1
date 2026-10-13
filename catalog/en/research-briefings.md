@@ -17,6 +17,7 @@ Back to [README](../../README.md)
 - [AI Digest Educator](https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF) - Personal AI educator. Nightly frontier AI digest with optional Kindle delivery. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) - Asks four rival AI models at once and merges what comes back. [Leonardo](https://x.com/leoclark).
 - [AI Official Account Radar](https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF) - Monitors official AI and coding-agent X accounts for new models, free credits and pricing changes, with morning and evening digests. [Chaosai0](https://x.com/Chaosai0).
+- [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - Watches official X accounts and primary sources for AI releases and sends only what matters, in your language, as breaking alerts and short digests. [Gota](https://x.com/gota_bara).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - Sweeps papers, code, lectures and forums into one reading stack. [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask. [Adam Tanguay](https://x.com/adamta).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors... [Miguel](https://x.com/seoforgpt).
@@ -252,6 +253,7 @@ Back to [README](../../README.md)
 - [Markets Brief Scout](https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T) - Weekday market cards with sources, plus draft posts you approve. [GainGlintGaz](https://x.com/GainGlintGaz).
 - [Markets Digest](https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY) - Weekday morning and evening markets digests in plain language with sourced stories. [Mark](https://x.com/marksoze).
 - [Markets Weekday Brief](https://x.ai/bot/s495_rZYq6LpYVTuurgkr) - Weekday pulse on watched prediction markets - clean card each morning, green YES buy ideas you place yourself. Odds from public Polymarket/Kalshi APIs;. [SpacedBraden](https://x.com/SpacedBraden).
+- [MARS CONTROL](https://x.ai/bot/H0BOD-ZBe2p_7BESvqbo_) - SpaceX-style mission control\: three missions track official announcements, catch failures and draft X posts from verified findings every 6 hours. Approval first. [gip](https://x.com/gippp69).
 - [Mason](https://x.ai/bot/P4UiFNUcfH-751NuybyV1) - Intake desk \(The Incorporator\). Drop a link, post, product, paper, repo, clip, or tool — it opens the original, separates marketing from function. AdamDesigns.
 - [Mat | Analytics](https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_) - Ask questions of your org schema and get reports and charts with no writes. [damianoredem](https://x.com/damianoredem).
 - [Math Researcher](https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK) - Rigorous math-research partner for proofs and heat-flow bounds with honest LEM-NUM-HEUR tagging. [Nathan](https://x.com/NathanAMeeks).

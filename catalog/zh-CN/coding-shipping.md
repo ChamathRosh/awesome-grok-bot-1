@@ -8,6 +8,7 @@
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - 通用 Agent Alpha 模板，覆盖编码与运维类交付任务. [Joshua](https://x.com/Telephantix).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - 盯着本机编程代理反复改，直到验收测试通过。 [dancingteeth](https://x.com/dancingteeth).
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - 多 Bot 工作区的清洁工，不让垃圾越堆越多。 [Chip](https://x.com/chiplay).
+- [Agent 重置提醒](https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8) - 盯着 X 上的官方公告，Claude、Codex、Grok、Cursor、Antigravity 的编程套餐一宣布全局重置用量，就第一时间提醒你. [lixing](https://x.com/bylixing).
 - [agent-notify](https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc) - 免费的邮件提醒，只发给你自己，只在要紧时才发，读不了你的收件箱，一键部署到 Cloudflare. [Cyris](https://x.com/SudoLabsNZ).
 - [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) - AgentStack 平台助手，经 MCP 覆盖托管、DNA、App Studio 与已上线应用. [AgentStack](https://x.com/AgentStackTech).
 - [AI Agent Monitor](https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f) - 盯你电脑上的 AI agent 层：MCP 服务器配置、agent 规则文件、AI 浏览器和编辑器插件、明文 AI 密钥. Ritvik.

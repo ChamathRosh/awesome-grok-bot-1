@@ -678,6 +678,7 @@ Back to [README](../../README.md)
 - [Optimist Prodigionous](https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D) - A continuity-first human-AI collaboration partner that stays positive and treats constraint as the frontier. [KobiJohnson916](https://x.com/KobiJohnson916).
 - [OptionTheta](https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV) - Tasty-style options desk for high-IV cash-secured puts \(~0.25 delta\) plus a bullish day sleeve, weekday premarket briefs, and Wheel Phase 2 covered. [Ben](https://x.com/Creainteractiva).
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - A personal desk for every parcel, receipt and refund you are waiting on. [wafffls](https://x.com/wafffls).
+- [Overwatch](https://x.ai/bot/BYrG021uQQXbASS9X6t5b) - Give it a GPS point and it profiles nearby risks and resources in 1, 3 and 5 mile rings, maps them, plans exit routes and writes a PDF report. [Luke](https://x.com/PrairieWatcher).
 - [Owl](https://x.ai/bot/lMGxli1bCAdof_EqRRdvH) - Calm, dry-witted life-order coach that tidies mail and projects and gives one next step at a time. community.
 - [Ox-Alpha🤠](https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb) - A-share momentum helper\: send a ticker to pull live quotes and get chase, hold, or cut plus the number that would change its mind; no made-up prices or orders. say.
 - [Packages](https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d) - Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes. [Davor](https://x.com/davorb89).
@@ -954,6 +955,7 @@ Back to [README](../../README.md)
 - [TripConcierge](https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5) - Travel concierge that researches a sourced trip brief with flights, hotels, sights, safety, daily plans, and budget, and only recommends. [Carolina](https://x.com/CarolinaDill).
 - [TripScout](https://x.ai/bot/JOqKmRtk249knj1lWv3dl) - Researches destinations, flights, hotels, and itineraries with verified options. [HaimBahari](https://x.com/HaimBahari).
 - [Trump Bot](https://x.ai/bot/s-V4NelC14ibWLzNQLncx) - Thinks and talks like President Trump. [Papawalk](https://x.com/Papawalk).
+- [TuneBot](https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl) - Conversational investigator of human behaviour built on Tuning Theory\: unpacks a pattern you repeat, what keeps it going, and one small reversible experiment. [Steinunn](https://x.com/steinolina).
 - [Tuner](https://x.ai/bot/1LJHCwlTnAXBPkPo_Zbag) - Finds free public TV streams in the iptv-org catalog and checks which ones actually load. [Forrest](https://x.com/typicalfo).
 - [Tutor](https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0) - Any subject, taught in small lessons anchored to one everyday picture. [anandVragav](https://x.com/anandVragav).
 - [Tutor](https://x.ai/bot/KaR3Qn_JsXYOfT2Rwe1Hz) - Walks kids through homework and schoolwork by grade level instead of handing over the answers. [Jason](https://x.com/Jasonturcotte).

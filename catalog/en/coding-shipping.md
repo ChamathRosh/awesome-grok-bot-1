@@ -8,6 +8,7 @@ Back to [README](../../README.md)
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - General-purpose agent Alpha template for shipping tasks across coding and ops workflows. [Joshua](https://x.com/Telephantix).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - Keeps a local coding agent iterating until your acceptance test passes. [dancingteeth](https://x.com/dancingteeth).
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) - A janitor for multi-bot workspaces that stops cruft piling up. [Chip](https://x.com/chiplay).
+- [Agent 重置提醒](https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8) - Watches official X posts and alerts you the moment Claude, Codex, Grok, Cursor or Antigravity coding plans announce a global usage reset. [lixing](https://x.com/bylixing).
 - [agent-notify](https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc) - Free email alerts sent only to you and only when something matters, with no inbox access and a one-click Cloudflare deploy. [Cyris](https://x.com/SudoLabsNZ).
 - [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) - Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship. [AgentStack](https://x.com/AgentStackTech).
 - [AI Agent Monitor](https://x.ai/bot/vyJij4Ld7g4egW8CAxA2f) - Watches the AI-agent layer on your PC\: MCP server configs, agent rules files, AI browser and editor extensions, and plaintext AI keys. Ritvik.

@@ -24,6 +24,7 @@ Back to [README](../../README.md)
 - [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - Runs an FTC robotics skills program\: training guides, quizzes, mentor practicals and Drive organization. Nick.
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - Persistent portable memory for a whole bot fleet, wrapping a local SQLite brain every bot can share, with optional IDE MCP attach. [Edward](https://x.com/edtadros).
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - Right-hand aide and bot smith for a chief; designs tenured bots and densifies skills and guardrails. [samuel_riccardi](https://x.com/samuel_riccardi).
+- [JANUS](https://x.ai/bot/tdEYPzh9G8vkOjkH4wQsN) - Two-way relay between your local coding agent and your other Grok Bot assistants, passing notes through a shared file mailbox and keeping secrets out. [Ron](https://x.com/RonJohnson562).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - Walks you through importing a five-bot job-application team of Executive, Writer, Doc Gate, Scout, and Inbox and configuring each one. [Philip](https://x.com/spakoozy).
 - [Job Post + Applicant Screen](https://x.ai/bot/qi2CyXfRCicQHuUbiw_O0) - Posts open roles, screens applicants against your quals, schedules interviews for clears, and emails the applicant packet attached to the calendar invite. [Jshet05](https://x.com/Jshet05).
 - [Joseph](https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u) - TrustedRouter relay named Joseph\: takes requests from your owner and routes them to the right teammate bots. [Ben](https://x.com/Ben).

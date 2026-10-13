@@ -678,6 +678,7 @@
 - [Optimist Prodigionous](https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D) - 强调连续性的人机协作搭子，不带负向开场，把约束当成探索边界. [KobiJohnson916](https://x.com/KobiJohnson916).
 - [OptionTheta](https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV) - Tasty 风格期权桌，做高隐含波动现金担保卖出加看涨日袖，含工作日前盘简报与车轮二阶段. [Ben](https://x.com/Creainteractiva).
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) - 把你在等的包裹、小票和退款收成一张个人台面。 [wafffls](https://x.com/wafffls).
+- [Overwatch](https://x.ai/bot/BYrG021uQQXbASS9X6t5b) - 给一个 GPS 坐标，按 1、3、5 英里范围梳理周边风险和资源，画地图、规划撤离路线，并写成 PDF 报告. [Luke](https://x.com/PrairieWatcher).
 - [Owl](https://x.ai/bot/lMGxli1bCAdof_EqRRdvH) - 沉稳又冷幽默的生活秩序教练，整理邮件和项目，每次只给一个下一步. community.
 - [Ox-Alpha🤠](https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb) - A 股追涨杀跌助手：甩代码就拉真实行情，给出追、拿着或砍，外加会让它改口的数字，不编价、不代下单. say.
 - [Packages](https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d) - 跟踪订单和快递直到签收，每天安静查一次，有变化才提醒你. [Davor](https://x.com/davorb89).
@@ -954,6 +955,7 @@
 - [TripConcierge](https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5) - 旅行礼宾，为任意目的地整理带出处的行程简报，涵盖航班、酒店、景点、安全、每日安排和预算，只推荐不预订. [Carolina](https://x.com/CarolinaDill).
 - [TripScout](https://x.ai/bot/JOqKmRtk249knj1lWv3dl) - 调研目的地、机票酒店与行程，只给可核验选项与直链. [HaimBahari](https://x.com/HaimBahari).
 - [Trump Bot](https://x.ai/bot/s-V4NelC14ibWLzNQLncx) - 按特朗普总统的思路与口吻说话. [Papawalk](https://x.com/Papawalk).
+- [TuneBot](https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl) - 基于 Tuning Theory 的对话式行为分析，帮你看清反复出现的模式和维持它的原因，再给一个小而可撤回的实验. [Steinunn](https://x.com/steinolina).
 - [Tuner](https://x.ai/bot/1LJHCwlTnAXBPkPo_Zbag) - 在公开 iptv-org 目录里找可播的免费电视流，并检查链接是否可用. [Forrest](https://x.com/typicalfo).
 - [Tutor](https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0) - 任何科目，用一张日常图钉住的小课来教。 [anandVragav](https://x.com/anandVragav).
 - [Tutor](https://x.ai/bot/KaR3Qn_JsXYOfT2Rwe1Hz) - 按年级带着孩子过作业与功课，讲思路而不是直接给答案. [Jason](https://x.com/Jasonturcotte).

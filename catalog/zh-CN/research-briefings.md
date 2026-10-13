@@ -17,6 +17,7 @@
 - [AI Digest Educator](https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF) - 个人 AI 教育向导，每晚整理前沿 AI 摘要，可选投递 Kindle. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) - 同时问四个 AI 模型，再把回答合成一份。 [Leonardo](https://x.com/leoclark).
 - [AI Official Account Radar](https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF) - 监控 AI 和编程 agent 官方 X 账号，提醒新模型、免费额度和定价变化，早晚各一份汇总. [Chaosai0](https://x.com/Chaosai0).
+- [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - 盯官方 X 账号和一手来源里的 AI 发布，只把重要的用你的语言推给你，分即时提醒和简短摘要. [Gota](https://x.com/gota_bara).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - 把论文、代码、讲座和论坛扫进一摞阅读清单。 [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - 检查 AI 助手与谷歌会不会推荐你、又点了谁的名，从买家真会问的问题起步。 [Adam Tanguay](https://x.com/adamta).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - 品牌 GEO 自动运营，监测大模型答案里的露出，挖竞品占位并给出可执行补强。 [Miguel](https://x.com/seoforgpt).
@@ -252,6 +253,7 @@
 - [Markets Brief Scout](https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T) - 工作日整理带出处的行情卡片，并起草待你拍板的帖子。 [GainGlintGaz](https://x.com/GainGlintGaz).
 - [Markets Digest](https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY) - 工作日早晚各一份白话市场新闻摘要，带出处，不荐股. [Mark](https://x.com/marksoze).
 - [Markets Weekday Brief](https://x.ai/bot/s495_rZYq6LpYVTuurgkr) - 关注预测市场的工作日脉搏，每天早上干净卡片，绿YES买入想法仍由你下单. [SpacedBraden](https://x.com/SpacedBraden).
+- [MARS CONTROL](https://x.ai/bot/H0BOD-ZBe2p_7BESvqbo_) - 仿 SpaceX 任务控制台，三个任务每 6 小时追官方公告、抓故障，并按核实结果起草 X 帖子，发布或改动前都要你批准. [gip](https://x.com/gippp69).
 - [Mason](https://x.ai/bot/P4UiFNUcfH-751NuybyV1) - 接收台：丢个链接、帖子、产品、论文、仓库、视频或工具，它打开原件，把营销和实际功能分开. AdamDesigns.
 - [Mat | Analytics](https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_) - 只读查询组织模式，产出报表与图表且不做写入. [damianoredem](https://x.com/damianoredem).
 - [Math Researcher](https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK) - 严谨的数学研究搭档，做证明与热流上界，并用 LEM-NUM-HEUR 诚实标注，避免过度宣称. [Nathan](https://x.com/NathanAMeeks).

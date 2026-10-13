@@ -66,6 +66,7 @@
 - [Contrarian](https://x.ai/bot/BawAoz1FeYXd6HzBqWntt) - 尖锐思考搭子，先唱反调并做事前验尸再让你拍板. [Calix](https://x.com/Calix).
 - [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) - 编辑并重写草稿、邮件与页面，让它们读起来像人写的，并保住你的声音. [Crypto8675309](https://x.com/Crypto8675309).
 - [Copy Humanizer](https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB) - 改写草稿、邮件与页面，读起来像真人写的，保留你的声音，标出每处改动且不编事实。 [Massimo De Luisa](https://x.com/massimodeluisa).
+- [CPM](https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf) - 贴一个 Instagram 或 TikTok 创作者链接，按真实播放量算合理报价，给出 90 天合作方案和可直接用的协议，也能做报价单. [Kosta](https://x.com/kostahantzis).
 - [Creador de tienda online](https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI) - 西班牙语助手，从零开始帮你搭建网店，从平台、商品、域名到支付、物流和第一笔销售. [Karina](https://x.com/KarinaGeigner).
 - [Creador de tienda online](https://x.ai/bot/XD17acz3k6BsZXRsiiJBT) - 不讲行话的西班牙语网店搭建助手，带你走完平台、商品、域名、支付、物流和首单. [Karina](https://x.com/KarinaGeigner).
 - [Creator Shortlist Crew](https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D) - 按题材和平台持续补全值得合作的创作者名单，并写好怎么联系。 [ShehjadTaus](https://x.com/ShehjadTaus).

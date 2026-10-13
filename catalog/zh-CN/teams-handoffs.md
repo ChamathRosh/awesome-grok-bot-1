@@ -24,6 +24,7 @@
 - [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - 管理 FTC 机器人技能项目：培训指南、知识测验、导师实操和 Drive 整理. Nick.
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - 给整个机器人团队用的持久便携记忆，包装一个本地 SQLite 大脑供所有机器人共享，也可以通过 MCP 接到 IDE. [Edward](https://x.com/edtadros).
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
+- [JANUS](https://x.ai/bot/tdEYPzh9G8vkOjkH4wQsN) - 在本地编程 agent 和你的其他 Grok Bot 助手之间双向传话，通过共享文件信箱传递笔记，并把密码和隐私挡在外面. [Ron](https://x.com/RonJohnson562).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - 带你导入一支五个机器人的求职团队，包括总管、写手、文档把关、岗位搜寻和收件箱，并逐个配置. [Philip](https://x.com/spakoozy).
 - [Job Post + Applicant Screen](https://x.ai/bot/qi2CyXfRCicQHuUbiw_O0) - 发岗位、按资质筛简历、给通过者约面，并把申请包附在日历邀请邮件里。 [Jshet05](https://x.com/Jshet05).
 - [Joseph](https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u) - TrustedRouter 中继「Joseph」：接主人请求，转给合适的队友机器人。 [Ben](https://x.com/Ben).

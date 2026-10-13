@@ -85782,6 +85782,153 @@
       "verified": false,
       "updated": "2026-10-13",
       "shelf": "raw"
+    },
+    {
+      "slug": "mars-control",
+      "name": "MARS CONTROL",
+      "author": {
+        "name": "gip",
+        "url": "https://x.com/gippp69"
+      },
+      "summary": "SpaceX-style mission control: three missions track official announcements, catch failures and draft X posts from verified findings every 6 hours. Approval first",
+      "summary_zh": "仿 SpaceX 任务控制台，三个任务每 6 小时追官方公告、抓故障，并按核实结果起草 X 帖子，发布或改动前都要你批准",
+      "import": "https://x.ai/bot/H0BOD-ZBe2p_7BESvqbo_",
+      "category": "research-briefings",
+      "tags": [
+        "mission-control",
+        "monitoring",
+        "x-drafts"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "overwatch-2",
+      "name": "Overwatch",
+      "author": {
+        "name": "Luke",
+        "url": "https://x.com/PrairieWatcher"
+      },
+      "summary": "Give it a GPS point and it profiles nearby risks and resources in 1, 3 and 5 mile rings, maps them, plans exit routes and writes a PDF report",
+      "summary_zh": "给一个 GPS 坐标，按 1、3、5 英里范围梳理周边风险和资源，画地图、规划撤离路线，并写成 PDF 报告",
+      "import": "https://x.ai/bot/BYrG021uQQXbASS9X6t5b",
+      "category": "personal-admin",
+      "tags": [
+        "safety",
+        "maps",
+        "emergency-planning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "aka"
+    },
+    {
+      "slug": "ai-radar",
+      "name": "AI Radar",
+      "author": {
+        "name": "Gota",
+        "url": "https://x.com/gota_bara"
+      },
+      "summary": "Watches official X accounts and primary sources for AI releases and sends only what matters, in your language, as breaking alerts and short digests",
+      "summary_zh": "盯官方 X 账号和一手来源里的 AI 发布，只把重要的用你的语言推给你，分即时提醒和简短摘要",
+      "import": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
+      "category": "research-briefings",
+      "tags": [
+        "ai-news",
+        "alerts",
+        "digest"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cpm",
+      "name": "CPM",
+      "author": {
+        "name": "Kosta",
+        "url": "https://x.com/kostahantzis"
+      },
+      "summary": "Paste an Instagram or TikTok creator link for a fair fee from real view counts, a 90-day deal menu and a paste-ready agreement. Also rate cards",
+      "summary_zh": "贴一个 Instagram 或 TikTok 创作者链接，按真实播放量算合理报价，给出 90 天合作方案和可直接用的协议，也能做报价单",
+      "import": "https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf",
+      "category": "customer-sales",
+      "tags": [
+        "creators",
+        "influencer-marketing",
+        "pricing"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "agent-reset-reminder",
+      "name": "Agent 重置提醒",
+      "author": {
+        "name": "lixing",
+        "url": "https://x.com/bylixing"
+      },
+      "summary": "Watches official X posts and alerts you the moment Claude, Codex, Grok, Cursor or Antigravity coding plans announce a global usage reset",
+      "summary_zh": "盯着 X 上的官方公告，Claude、Codex、Grok、Cursor、Antigravity 的编程套餐一宣布全局重置用量，就第一时间提醒你",
+      "import": "https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8",
+      "category": "coding-shipping",
+      "tags": [
+        "usage-limits",
+        "alerts",
+        "coding-agents"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tunebot",
+      "name": "TuneBot",
+      "author": {
+        "name": "Steinunn",
+        "url": "https://x.com/steinolina"
+      },
+      "summary": "Conversational investigator of human behaviour built on Tuning Theory: unpacks a pattern you repeat, what keeps it going, and one small reversible experiment",
+      "summary_zh": "基于 Tuning Theory 的对话式行为分析，帮你看清反复出现的模式和维持它的原因，再给一个小而可撤回的实验",
+      "import": "https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl",
+      "category": "personal-admin",
+      "tags": [
+        "behaviour",
+        "coaching",
+        "self-reflection"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "janus",
+      "name": "JANUS",
+      "author": {
+        "name": "Ron",
+        "url": "https://x.com/RonJohnson562"
+      },
+      "summary": "Two-way relay between your local coding agent and your other Grok Bot assistants, passing notes through a shared file mailbox and keeping secrets out",
+      "summary_zh": "在本地编程 agent 和你的其他 Grok Bot 助手之间双向传话，通过共享文件信箱传递笔记，并把密码和隐私挡在外面",
+      "import": "https://x.ai/bot/tdEYPzh9G8vkOjkH4wQsN",
+      "category": "teams-handoffs",
+      "tags": [
+        "coding-agents",
+        "relay",
+        "multi-agent"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
     }
   ]
 }
