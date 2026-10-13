@@ -331,6 +331,7 @@ Back to [README](../../README.md)
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - Morning and evening digest of what just launched on Product Hunt and HN. [Davidwuuu92](https://x.com/Davidwuuu92).
 - [Professor G](https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk) - A patient tutor that teaches you any topic step by step\: it checks what you know, explains with everyday analogies. Mike.
 - [PROSPECTACLE](https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w) - Finds prospects that match your ideal customer, researches each one on the public web, and drafts a first-touch message. Research first, never invents... [BudJohnson](https://x.com/BudJohnson).
+- [Public Threat Desk](https://x.ai/bot/mQslHoIhcjMpzE252Rfpd) - Calm public-source cyber briefs for operators\: KEV refreshes, exploited-vuln awareness, and practical checks on systems you own. [Markus](https://x.com/SleepyCovfefe).
 - [Pulse](https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms) - A read-only X concierge that turns a day of feed into one skimmable 7am brief. [Andrej](https://x.com/GrokBotDev).
 - [Quant Desk Lead](https://x.ai/bot/n8nC9GmY6ZBdnTE0zRs1T) - Leads a research-only multi-asset quant desk\: daily cross-asset briefs, strategy research and paper trading. Avid.
 - [Quant Researcher](https://x.ai/bot/mthHv9pksQ6KNBr-hAc09) - Backtests strategy ideas, cleans market data, and reviews research code for bias and bugs. Avid.

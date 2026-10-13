@@ -85697,6 +85697,91 @@
       "verified": false,
       "updated": "2026-10-12",
       "shelf": "raw"
+    },
+    {
+      "slug": "memory-transfer",
+      "name": "Memory Transfer",
+      "author": {
+        "name": "Brian"
+      },
+      "summary": "Moves what Claude, ChatGPT, or another AI knows about you into Grok Bot; you review each item and keep only what you choose",
+      "summary_zh": "把 Claude、ChatGPT 或其他 AI 里关于你的记忆迁到 Grok Bot，逐条审核，只保留你想留下的",
+      "import": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
+      "category": "personal-admin",
+      "tags": [
+        "memory",
+        "migration",
+        "personal"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "foundersales",
+      "name": "FounderSales",
+      "author": {
+        "name": "Carolina",
+        "url": "https://x.com/CarolinaDill"
+      },
+      "summary": "Founder-led sales helper: researches prospects, drafts outreach for your approval, and keeps follow-ups from slipping",
+      "summary_zh": "创始人自销助手：调研潜客、起草待你拍板的外联，并盯紧跟进不漏",
+      "import": "https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "outreach",
+        "founder"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "open-source-ai-studio",
+      "name": "Open Source AI Studio",
+      "author": {
+        "name": "Karata",
+        "url": "https://x.com/karatademada"
+      },
+      "summary": "Beginner-friendly tutor for AI pictures and videos with free open-source tools: what your machine can run, easy setup, starter models",
+      "summary_zh": "面向新手的开源 AI 图视频导师：看清本机跑什么、最简安装路径和入门模型",
+      "import": "https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "images",
+        "opensource",
+        "education"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "public-threat-desk",
+      "name": "Public Threat Desk",
+      "author": {
+        "name": "Markus",
+        "url": "https://x.com/SleepyCovfefe"
+      },
+      "summary": "Calm public-source cyber briefs for operators: KEV refreshes, exploited-vuln awareness, and practical checks on systems you own",
+      "summary_zh": "给运维看的公开来源网络威胁简报：KEV 更新、在野利用提醒，以及对自有系统的务实检查",
+      "import": "https://x.ai/bot/mQslHoIhcjMpzE252Rfpd",
+      "category": "research-briefings",
+      "tags": [
+        "security",
+        "cyber",
+        "kev",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
     }
   ]
 }

@@ -114,6 +114,7 @@ Back to [README](../../README.md)
 - [Founder CMO](https://x.ai/bot/yZVpgdDnnbdaEjroYM-Ky) - Ships a founder’s brand end-to-end\: utility-first narrative, content calendar, Design PASS → Meta Suite, Soft Launch Ads monitoring. Benjamín.
 - [Founder Growth Bot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) - Finds targets and drafts personal notes; never sends without you. [guysuter](https://x.com/guysuter).
 - [Founder OS](https://x.ai/bot/QcUllqY5WpAPMMWjWkn71) - Finds the one thing capping your revenue, runs its playbook, and reviews your numbers weekly. steven.
+- [FounderSales](https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi) - Founder-led sales helper\: researches prospects, drafts outreach for your approval, and keeps follow-ups from slipping. [Carolina](https://x.com/CarolinaDill).
 - [Fractional Inbox Triage](https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9) - Triages a busy founder or CISO inbox\: drafts polite vendor declines, flags Director+ and personal threads, and summarizes what needs a human. [CarbeneAI](https://x.com/CarbeneAI).
 - [Fulcrum](https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH) - Draft-only X reply and quote opportunities ranked for high-fit organic outreach. [Code Solutions](https://x.com/CodeSolutionsIL).
 - [Gamel](https://x.ai/bot/z5UAhMwtF2ReWHMZP7Fsb) - An inbox-cleanup bot that unsubscribes marketing mail, keeps receipts and tracking you care about, and runs staggered morning sweeps for Gmail and Yahoo. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).

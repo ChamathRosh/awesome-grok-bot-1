@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 3955 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 3959 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -107,15 +107,15 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 541 |
 | [Inbox & calendar](#inbox--calendar) | 153 |
-| [Research & briefings](#research--briefings) | 498 |
-| [Customer & sales](#customer--sales) | 347 |
+| [Research & briefings](#research--briefings) | 499 |
+| [Customer & sales](#customer--sales) | 348 |
 | [Finance & ops](#finance--ops) | 476 |
-| [Content & publishing](#content--publishing) | 464 |
-| [Personal admin](#personal-admin) | 1041 |
+| [Content & publishing](#content--publishing) | 465 |
+| [Personal admin](#personal-admin) | 1042 |
 | [Teams & handoffs](#teams--handoffs) | 435 |
-| **Total** | **3955** |
+| **Total** | **3959** |
 
-All 3955 share pages returned HTTP 200 on 13 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3955 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+All 3959 share pages returned HTTP 200 on 13 Oct 2026. Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 3959 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -261,11 +261,11 @@ Full list (153 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar
 
 ## Research & briefings
 
-Full list (498 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (499 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (347 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (348 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
@@ -273,11 +273,11 @@ Full list (476 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (464 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (465 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (1041 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (1042 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
 
 ## Teams & handoffs
 
