@@ -7,6 +7,12 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
+const check = process.argv.includes("--check");
+const outputs = new Map();
+function emit(path, content) {
+  outputs.set(path, content);
+}
+
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const catalog = JSON.parse(readFileSync(join(root, "catalog.json"), "utf8"));
 if (!Array.isArray(catalog.entries)) {
@@ -37,7 +43,8 @@ const entries = catalog.entries.map((e) => {
 });
 
 const index = {
-  generated: catalog.generated || new Date().toISOString().slice(0, 10),
+  // No wall-clock fallback: an omitted date must produce identical bytes tomorrow.
+  generated: catalog.generated || "",
   source: catalog.source || "https://github.com/majiayu000/awesome-grok-bot",
   count: entries.length,
   verified,
@@ -47,10 +54,7 @@ const index = {
 };
 
 const out = join(root, "docs", "catalog-index.json");
-writeFileSync(out, JSON.stringify(index));
-console.log(
-  `Wrote docs/catalog-index.json (${entries.length} entries, ${Buffer.byteLength(JSON.stringify(index))} bytes)`
-);
+emit(out, JSON.stringify(index));
 
 // Publish the same catalog as HTML so it remains readable before JavaScript loads.
 const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (character) => ({
@@ -75,22 +79,97 @@ const highlightCard = (entry) => `<article class="card ${entry.shelf}">
 const featured = entries.filter(entry => entry.shelf === "featured");
 const doors = entries.filter(entry => entry.shelf === "studio-door").slice(0, 8);
 const pagePath = join(root, "docs", "index.html");
-let page = readFileSync(pagePath, "utf8").replace(
-  /<!-- generated:catalog-start -->[\s\S]*?<!-- generated:catalog-end -->/,
-  `<!-- generated:catalog-start -->\n${cards}\n<!-- generated:catalog-end -->`,
-).replace(/(<strong id="count">)[^<]*(<\/strong>)/, `$1${entries.length}$2`);
-for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {
-  page = page.replace(new RegExp(`<!-- generated:${region}-start -->[\\s\\S]*?<!-- generated:${region}-end -->`), `<!-- generated:${region}-start -->\n${list.map(highlightCard).join("\n")}\n<!-- generated:${region}-end -->`);
-  page = page.replace(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`), `$1${list.length ? "" : " hidden"}$2`);
+function replaceRequired(text, pattern, replacement, label) {
+  const matches = [...text.matchAll(new RegExp(pattern.source, "g"))];
+  if (matches.length !== 1) {
+    throw new Error(`docs/index.html: expected exactly one ${label}, found ${matches.length}`);
+  }
+  return text.replace(pattern, replacement);
 }
-writeFileSync(pagePath, page);
-writeFileSync(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
+function replaceRegion(text, region, content) {
+  const start = `<!-- generated:${region}-start -->`;
+  const end = `<!-- generated:${region}-end -->`;
+  for (const marker of [start, end]) {
+    if (text.split(marker).length !== 2) {
+      throw new Error(`docs/index.html: expected exactly one ${marker}`);
+    }
+  }
+  return replaceRequired(text, new RegExp(`${start}[\\s\\S]*?${end}`),
+    () => `${start}\n${content}\n${end}`, `${region} marker pair in order`);
+}
+// Validate the original template before any replacement can erase malformed
+// markers or anchors nested inside another generated region.
+const originalPage = readFileSync(pagePath, "utf8");
+const regions = ["catalog", "featured", "doors"].map((region) => {
+  replaceRegion(originalPage, region, "");
+  const start = `<!-- generated:${region}-start -->`;
+  const end = `<!-- generated:${region}-end -->`;
+  return { region, start: originalPage.indexOf(start), end: originalPage.indexOf(end) + end.length };
+}).sort((a, b) => a.start - b.start);
+for (let i = 1; i < regions.length; i++) {
+  if (regions[i].start < regions[i - 1].end) {
+    throw new Error(`docs/index.html: generated regions overlap (${regions[i - 1].region}, ${regions[i].region})`);
+  }
+}
+function validateAnchor(pattern, label) {
+  replaceRequired(originalPage, pattern, "", label);
+  const match = originalPage.match(pattern);
+  if (regions.some(({ start, end }) => match.index < end && match.index + match[0].length > start)) {
+    throw new Error(`docs/index.html: ${label} overlaps a generated region`);
+  }
+}
+validateAnchor(/(<strong id="count">)[^<]*(<\/strong>)/, "count anchor");
+for (const section of ["featuredBlock", "doorsBlock"]) {
+  validateAnchor(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
+    `${section} section anchor`);
+}
+let page = replaceRegion(originalPage, "catalog", cards);
+page = replaceRequired(page, /(<strong id="count">)[^<]*(<\/strong>)/,
+  (_, start, end) => `${start}${entries.length}${end}`, "count anchor");
+for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {
+  page = replaceRegion(page, region, list.map(highlightCard).join("\n"));
+  page = replaceRequired(page, new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
+    (_, start, end) => `${start}${list.length ? "" : " hidden"}${end}`, `${section} section anchor`);
+}
+emit(pagePath, page);
+emit(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://majiayu000.github.io/awesome-grok-bot/</loc></url>
 </urlset>
 `);
-writeFileSync(
+emit(
   join(root, "docs", "robots.txt"),
   "User-agent: *\nAllow: /\n\nSitemap: https://majiayu000.github.io/awesome-grok-bot/sitemap.xml\n",
 );
-console.log(`Wrote static catalog HTML (${entries.length} shares), sitemap, and robots.txt`);
+
+// Keep discovery metadata in sync without changing its hand-written links/prose.
+const llmsPath = join(root, "llms.txt");
+let llms = readFileSync(llmsPath, "utf8");
+for (const [pattern, replacement] of [
+  [/^> \d+ live x\.ai\/bot shares/m, `> ${entries.length} live x.ai/bot shares`],
+  [/^\d+ live shares in catalog\.json:/m, `${entries.length} live shares in catalog.json:`],
+  [/^Shelf \(editorial\): .*? — see docs\/studio-doors\.md$/m,
+    `Shelf (editorial): featured ${shelves.featured}, ${shelves.solid ? `solid ${shelves.solid}, ` : ""}studio-door ${shelves["studio-door"]}, aka ${shelves.aka}, raw ${shelves.raw} — see docs/studio-doors.md`],
+]) {
+  const matches = [...llms.matchAll(new RegExp(pattern.source, "gm"))];
+  if (matches.length === 0) throw new Error(`llms.txt: missing generated count line (${pattern})`);
+  if (matches.length !== 1) throw new Error(`llms.txt: expected exactly one generated count line (${pattern}), found ${matches.length}`);
+  llms = llms.replace(pattern, () => replacement);
+}
+emit(llmsPath, llms);
+
+let stale = false;
+for (const [path, content] of outputs) {
+  if (check) {
+    let current;
+    try { current = readFileSync(path, "utf8"); } catch { /* missing output is stale */ }
+    if (current !== content) {
+      console.error(`${path.slice(root.length + 1)}: missing or stale generated output; run npm run build:pages`);
+      stale = true;
+    }
+  } else {
+    writeFileSync(path, content);
+  }
+}
+if (stale) process.exitCode = 1;
+if (!stale) console.log(`${check ? "Checked" : "Wrote"} generated catalog outputs (${entries.length} entries)`);
