@@ -5,8 +5,10 @@ Back to [README](../../README.md)
 - [Ad Aether](https://x.ai/bot/UQ8ppcPzUj7-5gj58VPjh) - Tell it what's overwhelming you; it gives one next step with a 24-hour deadline and nags you through inbox and deadlines. Ξ.
 - [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - Watches your job-application email, digests what needs a reply, and drafts messages for your OK. Philip.
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message. Bosotter.
+- [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - Ultra-aggressive SI chief of staff. [Screaming_Chkn](https://x.com/Screaming_Chkn).
 - [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - A comms gate for one owner that whitelists who reaches you by person, channel, and topic, drafts replies, and never auto-sends. [Carlos](https://x.com/carlosbedia).
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags conflicts with options+Default, and drafts invites only after you confirm. [Josh](https://x.com/joshkim).
+- [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - A chief of staff for small business owners. It tracks compliance and filings, drafts emails and social posts for your approval. [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - Builds and deploys your own Apple Mail-style app for your Grok Bot email. [krushalkalkani](https://x.com/krushalkalkani).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - Sorts your Gmail every morning and suggests today's to-dos in priority order, in Japanese, as a report or as input for your main bot. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - First line of defense on email, Slack, and DMs. Read-only by default — surfaces the ~3 that are both important and urgent. Never answers as you. [Josh](https://x.com/joshkim).
@@ -14,12 +16,15 @@ Back to [README](../../README.md)
 - [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - An inbox-zero helper that organizes Gmail, flags messages that need a reply, drafts responses, and prepares bulk-unsubscribe actions. Sultanov.
 - [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - Twice-daily brief from inbox, Slack, and meeting notes. Digests what you saw and didn’t — company context that affects you, open follow-ups. [Josh](https://x.com/joshkim).
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds. [Komil](https://x.com/Limok_igit).
+- [Newsletter Unsubscriber](https://x.ai/bot/dp0WMDV_rIj6Q77wZ2dFO) - Cleans up your Outlook.com or Gmail inbox\: unsubscribes newsletters and marketing mail, and blocks senders that a bot can't unsubscribe from. [puravidamae](https://x.com/puravidamae).
 - [nudge](https://x.ai/bot/uM7mhMmiokRwN379jNvsX) - Calm reminders bot that turns what and when, or a photo of an appointment, into a Google Calendar event and pings you when it is due. [gabriel](https://x.com/gabrielramans).
 - [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - Watches school email in Gmail or Outlook, learns when mail arrives, trashes clear junk, and pings only when something needs real action. [Gabriel](https://x.com/GabeHernandezOK).
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message. Bosotter.
+- [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - Train it with AI to fight Outlook spam and malicious mail. Bosotter.
 - [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - Books Skedda meeting rooms for your calls and checks you in before auto-cancel; quiet unless something fails. Shawn.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
+- [Weekly Wins](https://x.ai/bot/FDohHBN7D4epFCV1bSYCW) - Friday weekly wins draft from your connected calendar \(optional sent-mail peek\). [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. [Caleeeb](https://x.com/gearcaleeeb).
 - [メルマガ整理ボット](https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO) - Finds the newsletters, promos and job-site mail piling up in Gmail and unsubscribes only the ones you pick; important mail is kept off the list. [豪](https://x.com/devpapago).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).

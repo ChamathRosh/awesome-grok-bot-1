@@ -3,12 +3,14 @@
 返回 [README](../../README.zh-CN.md)
 
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - 帮早期创始人把公司看板保持真实和最新，用一张大白话卡片列出眼下最重要的赌注、过往尝试和下一步谁做什么. [Ivelin](https://x.com/ivelini).
+- [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - 自称最聪明的机器人：丢最难的问题，看它怎么拆。 [TSLAshareholder](https://x.com/TSLAshareholder).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - 先采访你想自动化什么，再起草其他 bot 的指令、日程和连接. Sultanov.
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - 你 bot 团队的统一出口：专员汇报给它，它负责分派、把关和汇总，免得你被三重提醒. [Josh](https://x.com/joshkim).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - 工作日给 bot 队伍做教练，收紧资料、日程和技能，再给管理 bot 发一份汇总. duyet.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - 给机器人团队当建设负责人，把批准的目标拆成计划分派下去，确认线上结果无误才算完成. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - 管家里的日历和待办跑腿，工作日早上发一条概要，把出行、邮箱和简报的活转给你别的 bot 并追到办完. [Hank](https://x.com/hjackson2).
+- [Chief of Legal Staff](https://x.ai/bot/J_fIC4VKMLmT6inJRIO4e) - 诉讼律所的法务幕僚长：督导所内其他机器人并安排交接。 [suyashverma](https://x.com/suyashverma).
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - 统筹你的一队 Grok Bot：分派工作、共享规则和信任等级、抽查结果，只有需要你点头时才打扰你. [Hank](https://x.com/hjackson2).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西. [sravanjay](https://x.com/sravanjay).
 - [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - 记下每个 bot 的承诺和悬而未决的问题，找出卡点，推动逐项关闭. Kris.
@@ -21,14 +23,19 @@
 - [foreman](https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS) - Matt Whitney 的建筑运营入门包，唯一任务是让成长中的建筑公司一次推进两三步. lauren.
 - [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - 管理 FTC 机器人技能项目：培训指南、知识测验、导师实操和 Drive 整理. Nick.
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - 给整个机器人团队用的持久便携记忆，包装一个本地 SQLite 大脑供所有机器人共享，也可以通过 MCP 接到 IDE. [Edward](https://x.com/edtadros).
+- [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - 带你导入一支五个机器人的求职团队，包括总管、写手、文档把关、岗位搜寻和收件箱，并逐个配置. [Philip](https://x.com/spakoozy).
+- [Job Post + Applicant Screen](https://x.ai/bot/qi2CyXfRCicQHuUbiw_O0) - 发岗位、按资质筛简历、给通过者约面，并把申请包附在日历邀请邮件里。 [Jshet05](https://x.com/Jshet05).
+- [Joseph](https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u) - TrustedRouter 中继「Joseph」：接主人请求，转给合适的队友机器人。 [Ben](https://x.com/Ben).
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - 你唯一需要对话的机器人，在后台指挥一群小黄人机器人，Dr. Nefario 每周复盘它们，基于 Firstmate 改造. [Jared](https://x.com/Jaredtherich).
 - [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - 总调度 bot：分派给专职席位、组织圆桌，不可逆操作需人工批准. Mado.
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - MBTI 主题 Bot 团队的前台：接需求、分派给队友、转达并汇总回复. [nishiyama_dev](https://x.com/nishiyama_dev).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
+- [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Everything Bots 的地面指挥：粉红猪玩偶管看板、点出下一步，帮你摆脱卡住。 Ξ.
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
+- [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - 守住终极理想——在所有时间尺度上让人变得更好的思想、言语与行动集合。 littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本. [KittyTellesWolf](https://x.com/KittyTellesWolf).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).

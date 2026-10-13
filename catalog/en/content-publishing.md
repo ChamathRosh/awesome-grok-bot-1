@@ -42,6 +42,7 @@ Back to [README](../../README.md)
 - [Berliner](https://x.ai/bot/YhRPa_eYk4yramoMJOo6F) - A weekly Berlin techno playlist with notes on what you are hearing. [mattvagni](https://x.com/mattvagni).
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) - Plans the whole edit from your footage and returns a review-ready cut. [XFreeze](https://x.com/XFreeze).
 - [Bid Desk Bot](https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs) - For a single-owner logistics startup that needs contracting opportunities at scale. Frames bids to real companies after a customer request instead of. [RoskrLC](https://x.com/RoskrLC).
+- [Bio Drafter](https://x.ai/bot/83DeYSXYKuk5BQcwb76_R) - Turns the facts you give into a short bio in three lengths \(one-liner, ~50 words, ~150 words\), first or third person. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [blogdrafter](https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi) - Drafts and edits blog posts in your voice from rough notes to something publishable. [daisuke](https://x.com/daisuke).
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) - Paste a landing page address and get a senior marketer's unvarnished critique. [Tal](https://x.com/Talsiach).
 - [Bochi-Chan](https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY) - Shy Bocchi-inspired chatbot for comedy-horror, indie JRPGs, and rare music. [kittenworth](https://x.com/kittenworth).
@@ -52,15 +53,22 @@ Back to [README](../../README.md)
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) - Capitolino writer for structured drafts with a steady voice. Seokhee.
 - [Caption Truth](https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA) - Honest captions that call out overclaims. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [CET Coach](https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ) - Scores any message you paste, link or upload on CET \(9 points plus overall\) and gives one clearer rewrite. [Bianca](https://x.com/BiancaBellChamb).
+- [Character Reference Sheet](https://x.ai/bot/QYL4wlIxzVr5tBpzZLCo0) - Turns one character image into a locked reference sheet and scene prompts that keep the character consistent across any image model. [RiddleSphere](https://x.com/RiddleSphere).
+- [Claims Checker](https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN) - Paste a draft post, title or pitch and it marks each claim as sourced, shaky, or needs a cite before you publish. [prorookiegamer](https://x.com/prorookiegamer).
 - [CleanText](https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb) - Finds hidden invisible characters such as zero-width spaces and direction marks in pasted text, screenshots, or files, and returns a report plus a clean copy. [Carolina](https://x.com/CarolinaDill).
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - Finds the best moments in a long recording and cuts them into short captioned clips. community.
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - Cuts social-ready podcast highlights from YouTube. Makes captioned 16\:9 clips with karaoke captions and a source card, then saves the file to your computer. [Odd&Entertaining](https://x.com/oddreport).
+- [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - A creator's studio and clip assistant that works with the setup you already have. [CannaMuffinMan](https://x.com/CannaMuffinMan).
+- [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - A clipping assistant for short-form creators. Every week it finds video segments you can import into your clipping tool. [techgent6](https://x.com/techgent6).
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - For marketers and founders who need conversion copy across pages, email, social, SMS, and creative. Pranav.
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick. Mike.
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line. ZEU$.
+- [Dexterity](https://x.ai/bot/tnCzDOAzLalXoROVAGevY) - Turns a clinician's de-identified visit notes into paste-ready physical therapy documentation that matches their EMR template. [ahua0323](https://x.com/ahua0323).
 - [Dojo Remix](https://x.ai/bot/zVd3aZG061Qi2kyusWFXA) - Remixes your Suno songs into Twista-style double-time chopper flows or a reference track's style, then generates the new version in Suno. [Dividend_Dojo](https://x.com/Dividend_Dojo).
 - [Editor](https://x.ai/bot/wxFNc5b_yBkJraLqZXvI7) - A quality gate for drafts before they ship. Checks each piece against the client's voice and banned list, verifies every factual claim has a source. ZEU$.
+- [Elon](https://x.ai/bot/doPgoyO6qCC58cXU_AEJD) - Strategic mentor in Elon Musk's style, in Portuguese\: challenges assumptions, applies first principles and The Algorithm, and tracks weekly habits. [simonejlima](https://x.com/simonejlima).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - Turns a Figma frame into a build spec, and audits your components, tokens, and motion. community.
+- [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - Makes faceless illustrated folklore videos\: picks a genre, writes the story, locks one art look, narrates with your SpaceXAI voice key. [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - A credit-saver generation desk for people who make pictures, video, voice, and long scripts. Odd&Entertaining.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - Returns exactly one picture per request of a gnome wearing the haircut you describe in words or a photo. [neatobird](https://x.com/neatobird).
 - [GTM GOAT](https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv) - Portfolio GTM desk for founders with weekly product ranking, pass or kill calls on creative, positioning, and free SEO and ads analysis. [Christian](https://x.com/MeechYourGoals).
@@ -71,16 +79,19 @@ Back to [README](../../README.md)
 - [Linkedin Post Writer](https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd) - Pulls useful insights from your work and turns them into LinkedIn posts. ar33b.
 - [Listing Auditor](https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M) - Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready. Sean.
 - [Minecraftクラッシュ解析](https://x.ai/bot/xmtIugWcfHgTDcUofX6rS) - Reads Minecraft crash logs to pinpoint the culprit mod, conflict, or version mismatch and gives a short fix; no posting or destructive changes without your OK. Masaki.
+- [MixTape](https://x.ai/bot/l1Blgb3rpmujoNZ6gf1BH) - Writes songs about what you've actually been building, in any style you pick, makes the track in a connected music tool. [XyberRun](https://x.com/XyberRun).
 - [Music Video](https://x.ai/bot/1Et06G_Q820_RNat-_0tQ) - Generates a track from your lyrics, syncs every line to the beat, and renders kinetic-typography visuals into a draft music video. [bossriceshark](https://x.com/bossriceshark).
 - [OpenRouter TTS](https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd) - Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask. Jeroen.
 - [PFP Studio](https://x.ai/bot/EQbigdwH3pEmkYcsbgidx) - Send a photo and name any style, like a cartoon, a movie, or a time period. Get three profile pictures to pick from, then edit your favorite until it's right. [Coffee](https://x.com/CoffeeNGrit).
 - [Photomosaic](https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc) - Builds 3-panel X photomosaics in Figma from a reference post plus background and hero assets. On-demand design ops — drop a post and get export-ready panels. Matt.
+- [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - A creative director for short vertical videos\: picks hot topics, writes punchy scripts with scroll-stopping hooks, and directs motion design. [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - Gives your X account a health score\: red flags, security and shadowban checks, feed tuning and junk follows. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - Safe sandbox for longform agent prompts\: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines. Chad.
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - For hiring managers and founders with a weak job post and an open senior role. Sol.
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - Finds what your site should rank for in Google and AI answer engines, drafts articles against what ranks today, and tracks results weekly. [Charles](https://x.com/ASaltyVet).
 - [Shortform Scaler](https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT) - Turns long-form podcast tape into a daily short-form ship packet. [Eric](https://x.com/ericosiu).
 - [Site Audit](https://x.ai/bot/_rzRrKKlUyBD3znUN5b3Q) - SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence URLs. Monthly diff. No invented metrics. community.
+- [Small Business Marketing Crew by Kelly Baltzell from...](https://x.ai/bot/okSl3Ri74UQjSca8Hjkc_) - A marketing crew lead for small businesses that plans, writes, and schedules your social posts in your brand voice, makes pictures labeled Made with…. Kelly.
 - [Social Media Manager](https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo) - Learns your voice from your own posts, keeps a weekly content calendar, drafts posts and replies per platform, and adjusts from what performed. [Charles](https://x.com/ASaltyVet).
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-ups. Tibor.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps. Jeroen.
@@ -88,9 +99,11 @@ Back to [README](../../README.md)
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Sol.
 - [Suno Song Creator](https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5) - Brainstorms song ideas and writes ready-to-paste lyrics, style prompts and titles for Suno. Tim.
 - [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) - Builds and manages your courses inside Kajabi so the platform housekeeping stops eating your week. [Dave](https://x.com/gambrill).
+- [T. S. Eliot](https://x.ai/bot/LjDRYoJZtHs0r3pd-kAY6) - Talk with T. S. Eliot about his poems, plays, criticism, and life, or bring him your own work to collaborate on. [Meleagers_Fire](https://x.com/Meleagers_Fire).
 - [Tarantino](https://x.ai/bot/-PewQ9-5OJOire4J4GI4L) - Legendary Hollywood movie producer and visual storytelling master. FatDon.
 - [Tesla Paint Booth](https://x.ai/bot/0I8SH6XKWmBYc2HynER9i) - Designs custom Tesla wraps in chat from a prompt or image and hands back a preview plus a Paint Shop-ready file. [Matthew](https://x.com/Matty_O_D).
 - [Tesla Wrap Builder](https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5) - Designs custom wraps for your Tesla's on-screen 3D car in Paint Shop \(not real vinyl\)\: your logo, photo, pattern, text or colours. Mike.
+- [The Desk](https://x.ai/bot/Aivgqmi_yMB2s_tZ26PQ4) - A daily briefing newsletter bot. It reads your notes, research, and market checks each morning and emails you a short issue with what matters. [Av1dlive](https://x.com/Av1dlive).
 - [TikTok Downloader](https://x.ai/bot/d-8Ufl3xjScgPS7putqr7) - Paste a TikTok link and get the video, or just its audio, saved to your computer. Heidi.
 - [Trial Reels](https://x.ai/bot/HktaB2ID5y5djGCrRAxvf) - Cuts long-form video into trial Reels, spins overlay variants, and reports which ones beat that day's median so you can promote winners. [Eric](https://x.com/ericosiu).
 - [Videe](https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT) - Plans multicam edits for podcast and YouTube footage\: camera cuts, trims, cleanup, and captions for the full episode and vertical clips. [nickgaiski](https://x.com/nickgaiski).

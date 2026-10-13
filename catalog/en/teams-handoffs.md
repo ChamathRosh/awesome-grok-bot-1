@@ -3,12 +3,14 @@
 Back to [README](../../README.md)
 
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - Keeps an early founder's company board honest and current as a plain card showing the one bet that matters, past bets, and who does what next. [Ivelin](https://x.com/ivelini).
+- [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - the smartest bot u will ever talk to. send it ur hardest problem and watch what happens. [TSLAshareholder](https://x.com/TSLAshareholder).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - Interviews you about what you want automated, then drafts the other bots' instructions, schedules, and connections. Sultanov.
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and consolidates so you are not triple-pinged. [Josh](https://x.com/joshkim).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - Weekday fleet coach that tightens bot profiles, routines and skills, then sends one digest to your manager bot. duyet.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - Build lead for a bot fleet that turns an approved goal into a plan, delegates each piece, and verifies the live result before calling it done. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - Walks you through self-hosting Buzz with Tailscale for teammates, standing up a first Grok Build agent, and turning bots into channel teammates. [Justin](https://x.com/jschnett).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots. [Hank](https://x.com/hjackson2).
+- [Chief of Legal Staff](https://x.ai/bot/J_fIC4VKMLmT6inJRIO4e) - For litigation firms\: a Chief of Legal Staff that supervises the firm's other bots, routes handoffs. [suyashverma](https://x.com/suyashverma).
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK. [Hank](https://x.com/hjackson2).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - A coordinator over six life-area helpers \(projects, health, relationships, calendar, notes\) that rolls up one morning briefing; nothing sent without sign-off. [sravanjay](https://x.com/sravanjay).
 - [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - Keeps a ledger of every bot promise and open answer, finds what stalled the team, and drives items to closed. Kris.
@@ -21,14 +23,19 @@ Back to [README](../../README.md)
 - [foreman](https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS) - Matt Whitney's construction ops starter \(from @MattWhitneyReal\). ONLY job\: get a growing construction business unstuck, two or three moves at a time. lauren.
 - [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - Runs an FTC robotics skills program\: training guides, quizzes, mentor practicals and Drive organization. Nick.
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - Persistent portable memory for a whole bot fleet, wrapping a local SQLite brain every bot can share, with optional IDE MCP attach. [Edward](https://x.com/edtadros).
+- [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - Right-hand aide and bot smith for a chief; designs tenured bots and densifies skills and guardrails. [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - Walks you through importing a five-bot job-application team of Executive, Writer, Doc Gate, Scout, and Inbox and configuring each one. [Philip](https://x.com/spakoozy).
+- [Job Post + Applicant Screen](https://x.ai/bot/qi2CyXfRCicQHuUbiw_O0) - Posts open roles, screens applicants against your quals, schedules interviews for clears, and emails the applicant packet attached to the calendar invite. [Jshet05](https://x.com/Jshet05).
+- [Joseph](https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u) - TrustedRouter relay named Joseph\: takes requests from your owner and routes them to the right teammate bots. [Ben](https://x.com/Ben).
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - The only agent you talk to, running a crew of minion bots behind the scenes while Dr. Nefario reviews them weekly, forked from Firstmate. [Jared](https://x.com/Jaredtherich).
 - [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - Lead bot that triages to specialist seats and runs roundtables, keeping irreversible actions behind approval. Mado.
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - Front desk for an MBTI-themed bot team\: takes requests, routes them to teammates and relays answers. [nishiyama_dev](https://x.com/nishiyama_dev).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - When your plan changes, finds every bot still on the old one and quotes each stale line; also drafts one-job teams. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - Overnight steward that nudges your other bots to stay efficient and tidy, speaking up only when something is wrong. [MorriganCora](https://x.com/MorriganCora).
+- [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Oink is Ground Control for The Everything Bots\: a pink plush pig who runs your board, names your one next move, and oinks you out of a stall. Ξ.
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - Boss bot for owners of several businesses, built in hotels and holiday lets, with one weekday briefing across every company and email drafts you approve. [Rob](https://x.com/xdeanozoff).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - Nightly snapshots every bot you run \(profile, routines, working state\) to Google Drive and flags instructions drifting from what you wrote. [_The_Lake](https://x.com/_The_Lake).
+- [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - Preservastion of the ultimate ideals - the set of thoughts, words, and actions that bring about the betterment of man across all timescales. littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - Runs your team's projects from Notion\: one row per project, a channel per project, and tasks your specialist bots claim. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - Director bot running six specialist desks \(figure, narrative, camera, light, background, fashion\) that assemble clean, copyable image and video prompts. [KittyTellesWolf](https://x.com/KittyTellesWolf).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - Watches Slack, suggests comments on interesting threads, and rewrites short updates from teammate bots into a casual times-channel voice. [Kento](https://x.com/AoToLog_).

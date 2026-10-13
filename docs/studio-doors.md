@@ -3,8 +3,9 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **157**.
+Generated from [catalog.json](../catalog.json). Count: **160**.
 
+- [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.
 - [AI Chief of Staff](https://x.ai/bot/BEpbydvAIUEuF5Ceh4dZE) - A general-purpose AI chief of staff that turns priorities into plans, delegates focused work to specialist roles, consolidates updates, and keeps...
@@ -20,6 +21,7 @@ Generated from [catalog.json](../catalog.json). Count: **157**.
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) - Central orchestrator that nourishes, protects, and evolves a network of child agents.
 - [Bot Ops Monitor](https://x.ai/bot/kd0J340FaLqQLq81oTYnd) - Watches other Grok Bots and scheduled jobs; catches stalled work.
 - [Bot Team Chief of Staff](https://x.ai/bot/gwY3JyQ7noK9GSHFo-p7E) - Chief of Staff for a bot team with clear owners per lane.
+- [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - Ultra-aggressive SI chief of staff.
 - [BotOps · Chief of Staff](https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW) - One front door for a whole fleet of working bots.
 - [BRIGET](https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE) - Chief of staff for business and personal work.
 - [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - Chief of staff with a computer. Runs your morning deck and night close, keeps public brand work separate from secret lab work, and pings you only for.
@@ -115,6 +117,7 @@ Generated from [catalog.json](../catalog.json). Count: **157**.
 - [Nero · CEO / SPOT](https://x.ai/bot/w3TZCehmbfZesYLz-mOym) - Single front door Chief of Staff for a small Grok Bot team. Orchestrates specialists, human gates before send/pay/post/deploy, routines that run while.
 - [NYC Parent](https://x.ai/bot/cht7ytAhe3euOQy2wnEg9) - A family chief of staff for New York City parents. It tracks school, calendar, activities, and household logistics, turns incoming information into next...
 - [Obsidian Chief](https://x.ai/bot/n0tywD5YprRhnlIh4h7on) - Chief of staff for a multi-bot household, with Obsidian as the shared ledger.
+- [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Oink is Ground Control for The Everything Bots\: a pink plush pig who runs your board, names your one next move, and oinks you out of a stall.
 - [openrobot](https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R) - A collaboration intake desk that turns interest into an intro email.
 - [Ops Fleet Starter](https://x.ai/bot/gZ3LMBTn-zVygV-G9_2m8) - A working recipe for a multi-bot ops fleet\: Mail Router classifies Gmail into life-area lanes, Evidence Ledger holds governed originals, specialist bots.
 - [Ops Gerente — mesa de entrada](https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS) - Logistics intake desk that routes work, uses Google Calendar as source of truth, and runs next-day trip QC.

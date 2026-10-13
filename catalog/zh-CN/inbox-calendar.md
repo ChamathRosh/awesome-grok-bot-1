@@ -5,8 +5,10 @@
 - [Ad Aether](https://x.ai/bot/UQ8ppcPzUj7-5gj58VPjh) - 说出压力来源，它给一个 24 小时内的下一步，帮你清收件箱、催截止. Ξ.
 - [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - 盯求职邮箱，汇总需要回复的邮件并起草，等你确认. Philip.
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - Atomic Mail for Agents 的收件箱助手：读和搜邮件，在聊天里起草回复，你确认具体内容后才发. Bosotter.
+- [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - 超强硬的 SI 幕僚长。 [Screaming_Chkn](https://x.com/Screaming_Chkn).
 - [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - 替一个人把守消息入口，按人、渠道和话题设白名单，回复只起草不自动发送. [Carlos](https://x.com/carlosbedia).
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - 日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请. [Josh](https://x.com/joshkim).
+- [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - 小老板的幕僚长：盯合规与申报，起草邮件与社媒帖等你拍板。 [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - 为你的 Grok Bot 邮箱搭建并部署一个 Apple Mail 风格的邮件应用. [krushalkalkani](https://x.com/krushalkalkani).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - 每天早上整理你的 Gmail，用日语按优先级列出今天要做的事，可以只发报告，也可以交给主机器人. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - 邮件、Slack 和私信的第一道防线，默认只读，只挑出约 3 条既重要又紧急的，从不替你回复. [Josh](https://x.com/joshkim).
@@ -14,12 +16,15 @@
 - [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - 帮你清空收件箱：整理 Gmail，标出需要回复的邮件，起草回复，准备批量退订. Sultanov.
 - [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - 每天两次从邮箱、Slack 和会议记录汇总简报：你看到和没看到的、影响你的公司动态、未完成的跟进. [Josh](https://x.com/joshkim).
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - 开会前 90 秒内备好带出处的参会人、议程和未结事项. [Komil](https://x.com/Limok_igit).
+- [Newsletter Unsubscriber](https://x.ai/bot/dp0WMDV_rIj6Q77wZ2dFO) - 清理 Outlook.com/Gmail：退订通讯与营销信，机器人退不掉的发件人则拉黑。 [puravidamae](https://x.com/puravidamae).
 - [nudge](https://x.ai/bot/uM7mhMmiokRwN379jNvsX) - 安静的提醒机器人，说清做什么和什么时候，或者拍一张预约单，它就记进谷歌日历并按时提醒你. [gabriel](https://x.com/gabrielramans).
 - [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - 盯着 Gmail 或 Outlook 里的学校邮件，摸清来信时段，清掉明显的垃圾，只在需要处理时提醒你. [Gabriel](https://x.com/GabeHernandezOK).
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - 查看 Outlook 日程，起草新建、修改或取消供你审核，批准具体改动后才写入. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
+- [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - 用 AI 训练，帮你清理 Outlook 垃圾与恶意邮件。 Bosotter.
 - [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - 为你的会议预订 Skedda 会议室并在自动取消前签到，出错才提醒. Shawn.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - 清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动. ʞɔɐz.
+- [Weekly Wins](https://x.ai/bot/FDohHBN7D4epFCV1bSYCW) - 周五从已连接日历（可选偷看已发邮件）起草本周战果。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - 读取家里共享的日历，把生日、预约和学校活动整理成一份早间简报给忙碌的家长. [Caleeeb](https://x.com/gearcaleeeb).
 - [メルマガ整理ボット](https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO) - 把 Gmail 里堆积的邮件订阅、广告和招聘网站邮件找出来，只退订你选中的，重要邮件不会进候选. [豪](https://x.com/devpapago).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 [A-A-ron](https://x.com/theaaron).
