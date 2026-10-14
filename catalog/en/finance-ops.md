@@ -18,7 +18,9 @@ Back to [README](../../README.md)
 - [Ally](https://x.ai/bot/6baJd8-Tp-s03m3ccb6AO) - Shopify store ops partner for soft launch, catalog hygiene, Admin API work when the browser is blocked, creatives, and margin-minded fixes — funds. [zepp1985](https://x.com/zepp1985).
 - [Alpaca](https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L) - A paper-only desk for rehearsing options and equity decisions. [swartzendruber](https://x.com/swartzendruber).
 - [Am I Covered?](https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a) - Answers Am I Covered with policy text you provide, not guesses. Bryce.
+- [Amazon](https://x.ai/bot/nKNpAPZZaDJmDPd4QwTIX) - Shopping and savings bot for Amazon cart and wishlist deal watching, USA-made product search, and optional local listings. [from_glasses](https://x.com/from_glasses).
 - [Amazon ranking](https://x.ai/bot/RtJUdCQlpUeoc_LV_N1Ve) - Spy your Amazon market every day\: organic rank and price for every ASIN × keyword. [automation_ngch](https://x.com/automation_ngch).
+- [Amazon Shopping](https://x.ai/bot/YAzSULV-SRvnKlxOzcx3L) - Shops Amazon for you through the Amazon phone app, using iPhone Mirroring, an Android phone over Tailscale, or a virtual Android phone. [IsaacLatterell](https://x.com/IsaacLatterell).
 - [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) - Ops and finance analyst that runs a weekly portfolio brief after the US close — per-holding levels, a tracked 12-month index sleeve, and standing. [dfer2dfer](https://x.com/dfer2dfer).
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - Turns denial letters and EOBs into appeal packages without treating the plan as orders. [MSaintjour](https://x.com/MSaintjour).
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) - Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account. Chris Everett.
@@ -32,6 +34,7 @@ Back to [README](../../README.md)
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - Watches your deliveries and speaks up the moment one stops moving. [liam_fallen](https://x.com/liam_fallen).
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - Sweep mail and receipts for trials, renewals, price hikes, and duplicates. Recommend keep / review / cancel. Draft cancel and refund asks - never. [Don](https://x.com/Screaming_Chkn).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - Watches bills and due dates so surprises shrink. [DennisW_15](https://x.com/DennisW_15).
+- [Billing Clerk](https://x.ai/bot/TlgFUI0v3nXXmOmMdvGvR) - A careful billing clerk for independent contractors, consultants, and production crews. [CoCaptive](https://x.com/CoCaptive).
 - [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) - Wealth and business assistant you aim at company cash, a media business, or personal wealth once you set the focus. [Diego](https://x.com/innrstand).
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) - A bill-shopping assistant that sweeps every recurring bill you pay \(car, home, renters, and health insurance, plus electricity, gas, internet, and. [ashen_one](https://x.com/ashen_one).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - A personal shopper that hunts down secondhand designer pieces and can buy them. [jediahkatz](https://x.com/jediahkatz).
@@ -53,6 +56,7 @@ Back to [README](../../README.md)
 - [Burn Watch](https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn) - Usage CFO for Grok Bot\: soft and hard burn stops, estimates, cheaper paths, fleet overview and routine audits. Calix.
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
 - [Buy](https://x.ai/bot/O9XbjNnFDHDqkOZy87nox) - Compiles shoppable trade studies\: picks a winner, hunts the best real price, checks buy links, and delivers a chat chart plus full Notion/Docs/Sheets write-up. Paul.
+- [Buyer](https://x.ai/bot/UYl9ANy65KCyA2bC1KDHr) - Purchasing assistant for trade shops\: rolls up invoices, compares prices, drafts restock carts. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) - Personal shopping researcher and buying adviser. Maps the market first, asks a few closed questions, shortlists best-fit options, then recommends. [d_ilash](https://x.com/d_ilash).
 - [Call](https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG) - Places and steers live phone calls through a SIP voice-model bridge. [iserflott](https://x.com/iserflott).
 - [Captain](https://x.ai/bot/SkSHokoCm92z9E-NFNmjr) - A main point-of-contact bot that takes your tasks, delegates to specialist agents \(email, calendar, drive, travel, payments, site\), and reports results. [imagineinquiry](https://x.com/imagineinquiry).
@@ -103,6 +107,7 @@ Back to [README](../../README.md)
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) - Turns one health question into a three-minute brief. [GuleidAmina](https://x.com/GuleidAmina).
 - [Counsel & Filings](https://x.ai/bot/HnlULNW1ElGeMRx604UQ1) - Drafts founder contracts and filing prep with review before send. JD.
 - [Count](https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL) - A physical inventory count desk for small businesses. It builds pre-filled count sheets, and it writes real counts into your master stock file only. [Richard Garrick](https://x.com/RichGarrick).
+- [Cousin Earl, the Biscuit Runner](https://x.ai/bot/rPwl9myovurldixTcbPux) - Your Chuckle Chow Shopper. Hand him a Sunday Supper grocery list and he fills your grocery cart at Amazon Fresh, Walmart, Publix, Costco, or Instacart. [Barclay53012457](https://x.com/Barclay53012457).
 - [Coverage Desk](https://x.ai/bot/Xf744EvEIun3bzP0zdp0u) - Explains insurance declarations and coverage lists in plain English and never sells. [Brian](https://x.com/lonzom10).
 - [CPA Bot](https://x.ai/bot/g5C4pS87enYiK85j9Oa4F) - Small-business bookkeeping assistant from linked banks and cards. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [CPA Desk](https://x.ai/bot/0LaV3RGCg4b-VN4QYmWbq) - Bookkeeping desk that reads linked banks and cards into clear financial reports. [Javier](https://x.com/AdeptusMec71933).
@@ -110,6 +115,7 @@ Back to [README](../../README.md)
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - Production desk for political and government filmmakers\: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - Tells you which card to use for a purchase to maximise points and perks. [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - Advises which credit card to use for a given purchase to maximize points, cash back, and perks. community.
+- [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - Reviews your Equifax, Experian, and TransUnion reports, disputes the tradelines you want corrected, and tracks every response in a ledger. [nbayoungdork](https://x.com/nbayoungdork).
 - [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) - Keeps one ledger of your cards with balances, due dates, perks, and promos, flags duplicate charges, and puts fee and promo deadlines on your calendar. [Kong](https://x.com/TeslaTranslated).
 - [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) - Walks AnnualCreditReport.com for free Equifax, Experian, and TransUnion reports, handles email and phone OTP, then saves the PDFs. [Jered Taylor](https://x.com/jeredtaylor).
 - [Crew Chief](https://x.ai/bot/pzOyKHLO2umBr2Flo31py) - Back office for small field-service crews that keeps the board from crew texts, flags down equipment and unpaid invoices, and sends a morning brief. [Witty](https://x.com/TherealWitty22).
@@ -126,8 +132,11 @@ Back to [README](../../README.md)
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) - A household budgeting coach that builds a zero-based budget for each credit card statement cycle from your take-home income and keeps you on track. It. [wrowston](https://x.com/wrowston).
 - [DCA Bot](https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf) - Dynamic dollar-cost averaging that buys more when price, volume, and sentiment look bad and less when the asset is hyped, within your monthly cap. [Ash](https://x.com/Must_be_Ash).
 - [Deal Desk Coordinator](https://x.ai/bot/sb434ef300dea2b88aa58) - Draft contextual internal deal notes from past emails, Salesforce, and calls, then submit in Salesforce once you approve. [SpaceX](https://x.com/DenisLabelle).
+- [Deal Detective](https://x.ai/bot/p36qEKy4qL_Gksm00iJus) - Your personal bargain hunter. Finds real grocery and retail discounts, compares unit prices, and builds shopping lists that save money. [ashleyschendel](https://x.com/ashleyschendel).
 - [Deal finder](https://x.ai/bot/F1gmAaLQNmXDj-PH_CEx3) - Watches products you care about and only pings you when the price actually drops below your baseline — or a real sale shows up. Built for quiet weekday. [bradgarcia](https://x.com/bradgarcia).
+- [Deal Hunter](https://x.ai/bot/uxcM5uC4wtA_w3fhqprBU) - Finds the best prices on what you want to buy, from online retailers, eBay, and local listings near you. [Brian](https://x.com/tradeseekers).
 - [Deal Scout](https://x.ai/bot/R9KJ5NXBENQMscLmj8_Mk) - Tech deal hunter with live receipts and dual scores. community.
+- [Deal Tracker](https://x.ai/bot/g9v8bbELyrTJpnQnnGj6m) - Watches prices on the things you want to buy, researches each item's price history to tell you when it's a true deal. [Ricky_Retard0](https://x.com/Ricky_Retard0).
 - [Dealer ERP Ops Snapshot](https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ) - Weekday read-only health checks for a dealer ERP\: open service calls, missing or stale meters, invoice-queue failures, parts below min, and AR/credit. [abstally](https://x.com/abstally).
 - [DealScout](https://x.ai/bot/cYyDDpxpj7v6Yz9fct4Pk) - Finds the best-reviewed products at good prices, compares options across stores, and can watch for price drops. For anyone who wants smart buys without the…. [CarolinaDill](https://x.com/CarolinaDill).
 - [DeckLens (Pitch Deck Analyzer)](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) - Interviews you to build a review rubric, then scores pitch decks against it. [BrianDEvans](https://x.com/BrianDEvans).
@@ -144,6 +153,7 @@ Back to [README](../../README.md)
 - [Earnest](https://x.ai/bot/t1qudulqFK7nq4rOnxlem) - Earnings report grading bot. Plain-English quarter briefs from SEC filings. [Thomas](https://x.com/tkinfinance).
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints. [Sachiv](https://x.com/SachivM99).
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) - Helps an adult child manage an aging parent’s money\: care costs, investment drawdowns, registered-plan withdrawals, banking, and advisor follow-ups. [c_murray](https://x.com/c_murray).
+- [Elis by LC Labs](https://x.ai/bot/6loWNSbGUUXVTCrTo_NMR) - An educational financial planner for Brazilian personal and small-business finances\: budgets, debt and taxes. [Lucas](https://x.com/lucasalpes).
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) - Elliott Wave analyst for liquid crypto and listed stocks. Labels structure, projects Fibonacci targets, and states invalidation. Preferred plus. [BitrockLLC](https://x.com/BitrockLLC).
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - Paper A/B trading desk chief of staff that digests markets and coordinates coworker bots. [fernando_brawn](https://x.com/fernando_brawn).
 - [Email Bot](https://x.ai/bot/CunRrFqccrsoG7DFDqz5Y) - A Gmail-focused assistant that drafts and sends polished emails in your voice, keeps your signature intact, and handles recurring mail busywork like. [DSGFalcon9](https://x.com/DSGFalcon9).
@@ -153,6 +163,7 @@ Back to [README](../../README.md)
 - [Evelyn](https://x.ai/bot/OZn5dOvIhkqsG5CG-Ow2D) - Accounts receivable agent for multi-entity service companies. [MattesonAI](https://x.com/MattesonAI).
 - [Exavior](https://x.ai/bot/8AqubfDXL0mTjxfyA20ym) - Turn trading ideas into chart tools you can test, with clear signals. community.
 - [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) - An engineering-morning brief, with draft replies left for you to send. [kumarkandgule](https://x.com/kumarkandgule).
+- [Expense Buddy](https://x.ai/bot/OzxWY8fbeJ7UaelSF62wY) - Calculate your expenses. Send receipts or amounts in chat — Expense Buddy logs them by category, tracks your monthly budget, watches subscriptions. [sofialeoz](https://x.com/sofialeoz).
 - [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) - Builds the weekly summary from your expense tool and sheets, logs receipts arriving by email, and chases missing ones. [SpaceX](https://x.com/DenisLabelle).
 - [Family Desk](https://x.ai/bot/MD5wdycMY1OdZW9-TNp85) - Helps two caregivers keep kids’ activities straight and finish parenting decisions that need a shared yes - school, screens, sports, health, and money. [MirceaTrofim](https://x.com/MirceaTrofim).
 - [Family Wealth Planner](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) - UHNW-style planner for tax, estate, retirement, and entities. [rob_evj](https://x.com/rob_evj).
@@ -163,7 +174,9 @@ Back to [README](../../README.md)
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) - Fantasy football co-manager\: daily digests, waiver and start-sit advice, and trade help for Sleeper and similar leagues — half-PPR, Superflex/2QB, and. [AnthonyBozzo](https://x.com/AnthonyBozzo).
 - [Finance](https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB) - Household money seat\: bills due, subscriptions, cash flow, and what’s off - asks before moving money or contacting banks. [stevenvillarino](https://x.com/stevenvillarino).
 - [Finance](https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR) - Read-only money coach that watches spending, bills, and subscriptions and builds an HTML dashboard. [Brad](https://x.com/bradshannon).
+- [Finance Bot](https://x.ai/bot/MY7NJmE2egN-855ZN6vSh) - Tracks your income and spending from linked accounts, turns a savings goal into weekly targets and month-end checkpoints. [lmickyd](https://x.com/lmickyd).
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) - Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and... [maail](https://x.com/maail).
+- [Finance Fish](https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo) - Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only; never moves money without your yes. [CaptPirateBo](https://x.com/CaptPirateBo).
 - [Financial Advisor](https://x.ai/bot/FlK_S-je8TVcA-kH9r40p) - Everyday budgeting and savings planning over your own account balances. [shamash31](https://x.com/shamash31).
 - [Find Good Stocks](https://x.ai/bot/2vgMdaQRj4mBWUMygUThf) - Tests your stock thesis against public info and can track catalysts weekly; no trade advice. [chen](https://x.com/TSLARKLBTSM).
 - [Fine Print](https://x.ai/bot/ozoVQz-2Imco4g61Nv5M4) - Send a photo of a bill, offer, insurance letter and get a plain-words brief. community.
@@ -182,6 +195,7 @@ Back to [README](../../README.md)
 - [FUTU 브로커 주식 거래 봇](https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r) - Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇. 모의로 먼저 확인하고, 실전은 종목을 지정할 때만 넣는다. [brandonchung75](https://x.com/brandonchung75).
 - [Gabby](https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY) - Covers foreign languages, literatures, and linguistics, plus local documentation standards, programming dialects, and glossaries. Stays current with... [TRV_Architech](https://x.com/TRV_Architech).
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) - A daily roundup of live game sales across the four big stores. [JPipo86](https://x.com/JPipo86).
+- [Gavin Baker](https://x.ai/bot/0n7vJX64LKO1g8ZFKbUmQ) - Thinks like Gavin Baker. Reads the whole AI stack, public and private, before the market wakes up. [51bodila](https://x.com/51bodila).
 - [GBP Post Cadence](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) - Publishes one Google Business Profile Update on a Mon/Wed/Fri morning cadence from a spreadsheet queue. Verifies each CTA URL, skips duplicates, and. [abstally](https://x.com/abstally).
 - [Gen X Saver](https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ) - A credit-saver and generation desk. Runs image, video, voice, and long-script jobs through a setup wizard \(your computer, the cloud. [Odd&Entertaining](https://x.com/oddreport).
 - [General Manager](https://x.ai/bot/nP63M9gPtuovCKB-J22pw) - Executive operations manager for a multi-location salon business. Coordinates specialist bots, tracks owner priorities, and delivers concise. [thebigsword_](https://x.com/thebigsword_).
@@ -198,6 +212,8 @@ Back to [README](../../README.md)
 - [Haggle Bot](https://x.ai/bot/tZ7zSNa0s1OEtrfFiFlHV) - Inventories your SaaS and recurring vendor spend, sorts it into keep, cut, or renegotiate, and drafts cancel and counteroffer messages. [Aaron](https://x.com/AirbossHVAC).
 - [Haggler](https://x.ai/bot/7ACPQT5hov7BkBeQOzusu) - A deal-focused assistant for café and coffee-shop operators\: negotiates vendor terms, watches the inbox for action items, drafts outbound emails in your. [Cafenea_Coffee](https://x.com/Cafenea_Coffee).
 - [Half Percent](https://x.ai/bot/rZJOfWHLK907evIorXd6K) - Day-trades Robinhood Agentic with the half-percent method. community.
+- [Hall Monitor](https://x.ai/bot/7TUTDa5cCwF0MklXGvWjB) - A usage-meter watch for Grok Bot that keeps an eye on your usage so you don't run over. [Trimmer10117](https://x.com/Trimmer10117).
+- [Heating Oil Watch](https://x.ai/bot/gGOdHr-B-7daPU2dyxcyF) - Checks local heating oil prices every week, logs them with a trend chart, and tells you whether to buy now or wait. [j3pup](https://x.com/j3pup).
 - [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) - Chief of Staff bot that routes work to specialists, enforces approvals and handoffs, and only pulls you in for judgment or missing info. Built for. [Macro_Harder](https://x.com/Macro_Harder).
 - [Hold My Stock](https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9) - Habit coach for holding one stock with three rules. [JulietteCove](https://x.com/JulietteCove).
 - [Home & Auto Insurance](https://x.ai/bot/nIKABJnzJuN-qSsj4KZD_) - Shops home, auto, and renters insurance with quote estimates across insurers. [Felix](https://x.com/felixstocker14).
@@ -230,6 +246,7 @@ Back to [README](../../README.md)
 - [Ledger](https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT) - Gmail/Drive receipts into a spend ledger and Monday digest. [TheCiscoBryan](https://x.com/TheCiscoBryan).
 - [Ledger](https://x.ai/bot/lCyabZFDNNBn7xkNxxhlA) - A careful finance tracker for one project. It logs pool, wallet, sales, and pricing, and speaks a number only when it's proven. It never invents... [TRV_Architech](https://x.com/TRV_Architech).
 - [Ledger](https://x.ai/bot/MJ4hTLwCDjlLxs0GxFB0f) - Personal money desk via Finance/Plaid for balances, spend, subscriptions, credit, and investing. [Uzi](https://x.com/UziObi).
+- [Ledger](https://x.ai/bot/eIicxWVI6dT6IOHrUDO8h) - A read-only personal finance watchdog that watches your bank, cards, and bills email, flags odd charges and upcoming bills, chases refunds. [Serg](https://x.com/arouch_serg).
 - [Let's Get Rich Grokbot](https://x.ai/bot/vzno777FpCyMe0-ja5u28) - An autonomous crypto trading assistant for Solana, Base and Ethereum. community.
 - [Lineup Lock](https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA) - Fantasy football lineup coach for THIS week. Starting lineup, start/sit with real confidence, waivers that match your league rules, and trade advice for. [Allen Patch](https://x.com/PatchesHQ).
 - [Little x](https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz) - Drives X and document tasks by email while you are away. [DonaldMoor91672](https://x.com/DonaldMoor91672).
@@ -242,20 +259,26 @@ Back to [README](../../README.md)
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) - Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. [Jodi](https://x.com/WorkWithJodi).
 - [MedCash Guide](https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-) - Cash-pay medical claims coach that files superbills to Drive, matches charges to reimbursements, and sends claim emails only with your approval. [Tyler](https://x.com/tech_swindler).
 - [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) - Tracks medical-scheme invoices, claims, remittances, and doctor/pharmacy slips from Gmail \(read-only\) or pasted PDFs. Builds tax-ready medical expense. [DurbsSb53374](https://x.com/DurbsSb53374).
+- [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - Checks your medical bill against your EOB and policy, flags likely errors and denials worth appealing. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - Screens an itemized medical bill against published protections and drafts the dispute letter for you to send. [MSaintjour](https://x.com/MSaintjour).
+- [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - Watches your Mercury bank accounts every day and flags new charges, failed payments, and low-balance risk. [ibuildthings](https://x.com/ibuildthings).
 - [Meter](https://x.ai/bot/7ArhuICkrdoCOihWGiZCg) - A quiet spend watcher for your AI tools. It tracks Cursor plan usage, Grok Bot weekly usage, On-Demand risk and API credits, and speaks up only when. [Stew Nightingale](https://x.com/stewnight).
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) - For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US. [mintotsai](https://x.com/mintotsai).
+- [Mileage Log Catcher](https://x.ai/bot/yKRjDGTy_4GhV9OzAWnyK) - Draft mileage logs from calendar drive and travel blocks. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) - Looks up Australian company records and helps you wire up Milypay. [1Milysec](https://x.com/1Milysec).
 - [Monad Bot](https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg) - Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address. Jarrod.
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) - Read-only Monarch Money desk for balances, recurring, and review queues. Robert.
 - [Monetization Master](https://x.ai/bot/qrfBC17vJuzu1dXyZaOqJ) - Sets up and audits paid plans across RevenueCat app subscriptions and Stripe or Paddle on the web so both grant the same access. [Christian](https://x.com/MeechYourGoals).
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) - Money coach for weekly check-ins and one next money move. Jon.
 - [Money Coach](https://x.ai/bot/1mlidqIzTsJ7oLKbyyCgd) - Your free money coach\: build a budget, kill sneaky subscriptions, crush debt, and find money you're owed. [StackSmartTV](https://x.com/StackSmartTV).
+- [Money Finder](https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW) - Finds money you're owed, like class action settlements, FTC refunds, lost 401\(k\)s, and forgotten balances in your email, and files honest claims. [Paste_Values](https://x.com/Paste_Values).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. [Michael](https://x.com/mbhound).
 - [Money Minute](https://x.ai/bot/k6lmP0975z3GfVpJiyN5D) - One-minute daily spending log with an optional weekly limit and an 8pm nudge when the day is unrecorded. [prorookiegamer](https://x.com/prorookiegamer).
+- [Money Test Lab](https://x.ai/bot/wxv8RwlvjYbygnOdWdB4y) - Finds and tests near-$0 ways to earn real money using bots and accounts you already have. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) - Saving and investing coach that learns your situation first, then builds a plan without lecture vibes. [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Mover Bot](https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m) - Visual pre-estimate \(planning range\) from photos or a walkthrough for local and long-distance residential or commercial moves. Not binding; not a booking. Hristo.
 - [Mr. Dufrain](https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5) - Keeps the household books and warns you before a payment lands. [zilarwitch](https://x.com/zilarwitch).
+- [Mr. Finance](https://x.ai/bot/1gepkjYj4Ogl2nKxgopZV) - A read-only portfolio advisor that watches your holdings for large institutional flows, risk, and thesis breaks, and sends clear, charted alerts. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) - Money habits coach that keeps next actions small and concrete. [TimeCuratorTM](https://x.com/TimeCuratorTM).
 - [My First Budget Bot](https://x.ai/bot/zIYlNQf-bZphORYjo8oEp) - First money coach\: builds a simple monthly budget, tracks bill due dates and explains money basics. [gilman_trevor](https://x.com/gilman_trevor).
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) - Design partner for a U.S. citizen dividend and sovereign wealth package with floors, wage ladder, and pay-fors. [Alec](https://x.com/AlecSnelling).
@@ -264,7 +287,9 @@ Back to [README](../../README.md)
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - A crypto desk assistant that tracks markets, news, and wallets. community.
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - A calm operator for a small business that keeps the day moving and brings you only the decisions that need you. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - One read-only company brain that a whole bot fleet can draw on. [StephenRuhe](https://x.com/StephenRuhe).
+- [Options Desk Chief](https://x.ai/bot/v-wtDQ7dpFXNzd1P9Hz9a) - Your personal options trading desk\: every weekday it gates ideas through futures, volatility, earnings and risk checks, then hands you complete trades. [martin_pestak](https://x.com/martin_pestak).
 - [Options Premium Desk](https://x.ai/bot/qi4tUvKkQelzwsV2siUwR) - Tasty-style options desk\: 45–60 put credits + bullish day sleeve. Premarket covers rates/yield curve, call/put dollar flow, and Mag terminal screen. [JC](https://x.com/JCChristopher).
+- [Options Premium Desk](https://x.ai/bot/ae2avzsCyJJnkHsJa7uX2) - Tasty-style options desk for bullish put-credit spreads\: 45–60 DTE swing book plus a short day sleeve. Premarket, scans, and manage alerts — you click. [SachivM99](https://x.com/SachivM99).
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) - Helps with Oracle Fusion Cloud Payables\: look up Financials REST APIs \(FARFA\), create and validate supplier invoices, and walk invoice workflows against. [__KumR__](https://x.com/__KumR__).
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) - Pay-it-down coach that starts from statements and opens the bank only after you say yes. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) - Primary interface for an owner-operator\: protect focus, route work to specialists, keep personal and business cash separate, and run weekday digests so. [allantsivils](https://x.com/allantsivils).
@@ -278,6 +303,8 @@ Back to [README](../../README.md)
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) - Cash floor coach that keeps checking your balance stays above a floor until payday. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) - Helps you build a first PC within budget with compatible parts. Walks you from goals to a buy list you can trust. [Frank](https://x.com/FrankFindsOut).
 - [Pelosi](https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x) - Tracks the stock trades members of Congress disclose, starting with Nancy Pelosi, and messages you each weekday morning when a new filing lands, with. [Arsenio](https://x.com/amartins02).
+- [Penny Pincher](https://x.ai/bot/zCHIuZXiFzWhQcsmvS-ED) - Token and spend efficiency bot that turns repeated work into free scripts and jobs. [unix2mars](https://x.com/unix2mars).
+- [Personal CFO](https://x.ai/bot/aDCypdpubEzCy_lvlLu3-) - A read-only personal CFO that links your accounts through Plaid and keeps your net worth, allocation, cash flow, debts and alerts current. [peteoconnell](https://x.com/peteoconnell).
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) - Analyses bank CSV for spending, bills, lifestyle creep, and cash flow. [fabivelosa](https://x.com/fabivelosa).
 - [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) - Personal finance assistant that categorizes EveryDollar spending, looks up Amazon orders and Gmail receipts when needed, and coaches on discretionary. [MiguelAlexCantu](https://x.com/MiguelAlexCantu).
 - [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) - Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard. [SpaceX](https://x.com/DenisLabelle).
@@ -289,17 +316,20 @@ Back to [README](../../README.md)
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - Finds money you are already owed but have not collected. [Lauren](https://x.com/poteto).
 - [Portfolio Adviser](https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z) - Tracks markets and news for your holdings, reviews the portfolio, and helps think through rebalancing. Avid.
 - [Portfolio Bot](https://x.ai/bot/iOMR589tsqT3asO7PsR-Y) - Works best with the Stock Market Manager. Portfolio Bot tracks your holdings across brokers and surfaces what needs attention. [utahpowscott](https://x.com/utahpowscott).
+- [Power Plan](https://x.ai/bot/DQfxy5k0ARW1rqEm_VLCp) - Keeps a Texas household on the cheapest home electricity plan for its real usage, like a plan-switching service without the monthly fee. [cjblev](https://x.com/cjblev).
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - Reads Precog prediction-market odds in Spanish, and never trades. [ferminrp](https://x.com/ferminrp).
 - [Premarket Desk · 盘前早报](https://x.ai/bot/GuhaTzThKQG2MKJyHoREx) - A three-minute morning brief on your US watchlist before the opening bell. [alanchen](https://x.com/alanchen).
 - [Prime Day](https://x.ai/bot/2ctevo34dOOaP94S4AtU8) - Paste an Amazon Christmas or gift list — or type what you need. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) - Data-broker and dead-account removal queue. Finds listings and forgotten logins, drafts official opt-outs, files only after you say yes, and rechecks. [MehlyHQ4m](https://x.com/MehlyHQ4m).
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) - Bob Fifer-mode profit operator\: pricing, packaging, cost cuts. [JonStenstrom](https://x.com/JonStenstrom).
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) - Residential property decision assistant that helps evaluate, compare, offer, and close without pushing you to buy. [Amervim](https://x.com/Amervim).
+- [Property Manager](https://x.ai/bot/Y5hNK15XXDa7pzffWJeHG) - Small-landlord property manager\: tenants, rent/deposits, maintenance, HOA; drafts messages for approval. [CGI_Caveda](https://x.com/CGI_Caveda).
 - [Property Scanner](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu) - Find potentially underpriced US homes with ZillAPI. Onboard a buyer, rank listings against nearby sold comps. Rohit.
 - [Prospector SR360](https://x.ai/bot/TYiFIZd7djkcCy_wdymgv) - Asistente comercial para una guía local de comercios. Prospecta negocios fuertes en Google Maps \(fotos + WhatsApp + redes\), arma fichas básicas gratis y. [alodie10](https://x.com/alodie10).
 - [Prosperity by Ben](https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK) - Private family finance overseer that shares patterns with the team and never gives advice. [Ben Link](https://x.com/BinLeenk).
 - [Proto Calvin](https://x.ai/bot/PP2AhHmXXJgwo46iyFX93) - Sets binary serialization and handshake rules for local daemons. [TRV_Architech](https://x.com/TRV_Architech).
 - [Provenance](https://x.ai/bot/BVB4ROqmz6xQon8KskyTI) - Process mining on event logs for discovery, conformance, and bottlenecks with labeled facts. [riesling29](https://x.com/WaterMixing).
+- [PTJ Playbook](https://x.ai/bot/wEnNQIjLgh0PzSB8Od8ym) - Runs Paul Tudor Jones's trading process on a paper book\: Macro finds the imbalance, Tape waits for price confirmation, Risk can veto. [Carm1ne](https://x.com/carm1nee).
 - [Public Verify Desk](https://x.ai/bot/sLPjnF3cziLjIcx48ftmI) - Checks whether a public username, shop, listing, domain, job post, or image is what it claims to be using open web sources only. Optional second mode. [MAGAmechanic60](https://x.com/MAGAmechanic60).
 - [Punto Tricolor Ops](https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi) - Daily ops for a small Colombia business from briefing to bookings. [cyberandres](https://x.com/cyberandres).
 - [Quant Backtest Lab](https://x.ai/bot/TolT21zChD6bYj0ZEA7pE) - Turns a trading idea into fixed rules, runs cost-aware backtests on A-shares, US stocks, or crypto spot, and returns research notes. Python only, never places. [jackhu_bangzhu](https://x.com/jackhu_bangzhu).
@@ -341,6 +371,7 @@ Back to [README](../../README.md)
 - [RugRadar](https://x.ai/bot/8bejcAowVfEVjSuPSl1PT) - Alpha scanner for Solana tokens that checks creator wallets and flags rug-pull risk. [teabagno1](https://x.com/teabagno1).
 - [Safe to Spend](https://x.ai/bot/171bkwBAjpc2eJgdOyAPL) - Every time a brand or client pays you, Safe to Spend tells you what to set aside for taxes and what's safe to spend. [TRENCH_FORCE_](https://x.com/TRENCH_FORCE_).
 - [Sam](https://x.ai/bot/AtYdjvimO286h3sOIDfB4) - Economic council director for a local-first network. Advises on resource allocation, settlement rules, and incentives. Never invents balances, never... [TRV_Architech](https://x.com/TRV_Architech).
+- [Scout](https://x.ai/bot/5ajAIMCNzawDbHLc01gbO) - Premium shopping researcher for high-end home and tech buys. Finds two live options with tap-ready links and never adds to cart or checks out. [nikpage](https://x.com/nikpage).
 - [Seamore](https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3) - A travel agent that finds trips that fit your real calendar and taught preferences. Checks openings first, hunts strong deals, and never books without. [TheTweekerr](https://x.com/TheTweekerr).
 - [Sell My Car](https://x.ai/bot/Ow6zvKF3rcIebMbs8sBAi) - A friendly step-by-step guide for selling your own used car privately. community.
 - [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) - Turns shop-floor photos and spoken details into a priced inventory with IDs, photo cards, and a print-ready PDF — plus daytime auto-backups so nothing. [VigilanceRifles](https://x.com/VigilanceRifles).
@@ -360,9 +391,11 @@ Back to [README](../../README.md)
 - [Signal Sleeve](https://x.ai/bot/mrKPFB6yT13jZZITaCDEV) - Turns one paid research subscription feed into risk-preset paper tickets on Robinhood so you review guidance against your own risk settings. [Jonny.buffett_va](https://x.com/JonnyBuffettVA).
 - [Silent Chartographer](https://x.ai/bot/VlyKrvbCuLeUkTrn3RUJq) - Predictive technical analysis for a small crypto trading team. community.
 - [Single-Stock Options](https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb) - Answers a one-ticker question with a same-day report assembled from public chain data\: the contracts drawing the most attention, how the expiries are laid…. [SPCX100T](https://x.com/SPCX100T).
+- [Slab & Stream](https://x.ai/bot/YghnYWX5ULMyJY6D1sMlm) - Turns photos of your card stacks, or one typed card, into a priced, show-ready Whatnot inventory for Pokemon, sports, One Piece. [KendraBoswell7](https://x.com/KendraBoswell7).
 - [SlowBooks Cutover](https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh) - Move one QuickBooks Desktop company to SlowBooks and prove the numbers. [jschnett](https://x.com/jschnett).
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) - Runs a small product business with a crew of specialist Grok Bots. Coordinates markets, buying, social, PR, merch, and compliance while you stay the. [texastoylab](https://x.com/texastoylab).
 - [Smooth Brains Bot](https://x.ai/bot/FwtiQchlHexgCdlDo5WkL) - Guide for non-custodial systematic Bitcoin trading on Hyperliquid from connect and fund through fees. [smoothbrainsai](https://x.com/smoothbrainsai).
+- [Sniper](https://x.ai/bot/EgPGxirvQCSHoxbnw6Ym0) - Watches prices, stock and deals on DGX Spark, M5 Ultra, RTX GPUs or any other hardware in the US, Europe or anywhere else. [MiaAI_lab](https://x.com/MiaAI_lab).
 - [Spark BTC Bot](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) - Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need to. [sparkbtcbot](https://x.com/sparkbtcbot).
 - [SPCX Watch](https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H) - Weekday pre-market brief for NASDAQ\:SPCX \(SpaceX\). Tracks SEC filings, analyst targets, Starlink licenses, official X accounts, Mach33 research. Quidnam.
 - [Speaker Sam](https://x.ai/bot/IhhLP0YIDjVlkOS_H6i5D) - Finds and tracks Bluetooth speaker deals for your trip or hangout. Tell it your budget and use case, and it keeps watch for price drops. [Frank](https://x.com/FrankFindsOut).
@@ -381,6 +414,7 @@ Back to [README](../../README.md)
 - [Stock Research Teammate](https://x.ai/bot/MT6acytP70wHR526vPvM3) - Compares stocks with current market data, ranks a clear pick, and can run a weekly watch brief. [sammya_sh](https://x.com/sammya_sh).
 - [Stock Stu](https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO) - Checks your stock picks each day and surfaces what moved, what to watch, and what to consider with your morning coffee. [Frank](https://x.com/FrankFindsOut).
 - [Stock Video Summaries](https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg) - Watches a stock-education Discord on an automatic hourly schedule plus a weekday pre-market run. Emails one short newspaper brief per video — Jerusalem. [edengil94](https://x.com/edengil94).
+- [Strategy Lab](https://x.ai/bot/lFHHv5ywd-IQRxQV7Vder) - A quant research partner that paper-backtests trading and investing ideas against index buy-and-hold, with realistic costs. [SachivM99](https://x.com/SachivM99).
 - [Stripe Accountant](https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke) - Reconciles Stripe payments, invoices, and balances for your accountant — digests, Excel workbooks, and a monthly check that the books tie. [RawSteelRaw](https://x.com/RawSteelRaw).
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) - A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new customers and cancels with how long they... [appeeky](https://x.com/appeeky).
 - [Structure by Ben](https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW) - Maps entity, partnership, equity, and capital options into prep-only packs for advisers. [Ben Link](https://x.com/BinLeenk).
@@ -399,12 +433,16 @@ Back to [README](../../README.md)
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) - Office assistant for a tax or accounting firm focused on fast replies, complete docs, and work before due dates. [Amervim](https://x.com/Amervim).
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) - Front door for a small tax or accounting office that prepares drafts and follow-ups while the owner sends, signs, and files. [Amervim](https://x.com/Amervim).
 - [Tax Harbor](https://x.ai/bot/KxgpoMk2AH230cNwYUCcU) - Weekly tax-year brief for households without a W-2, covering income, IRMAA, RMDs, and deductions. [R. Garrick](https://x.com/RGarrick2).
+- [Tax Return](https://x.ai/bot/PkfuqRPuckq_Y4Df2i4Ck) - Organizes your tax documents, flags what's missing, and walks your return through TurboTax \(or builds a CPA handoff\) for you to review. [MyPerfectGoatee](https://x.com/MyPerfectGoatee).
 - [TaxPilot](https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I) - Personal AI tax assistant for U.S. federal and state returns. community.
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) - U.S. federal income tax estimator for 2025 and 2026. [RyanGBsystems](https://x.com/RyanGBsystems).
+- [TeemTape](https://x.ai/bot/9eRmhgjSdrIlHfW_ZXfl3) - Researches stocks and industries with TeemTape\: delayed quotes, ticker comparisons, idea scans, and anonymous watchlist notes. [awsexp](https://x.com/awsexp).
+- [Tesla Covered Calls](https://x.ai/bot/mpKYGkjuVEUHYI4R7Xud9) - Helps long-term Tesla holders earn covered call income without getting their shares called away. [Andrew](https://x.com/andrarchy).
 - [Tesla Ops](https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd) - Practical Tesla ownership assistant for Model 3/Y/Cybertruck drivers\: FSD and software notes, tires and wheels, charging, service tips, and early. [McJohnnymac](https://x.com/McJohnnymac).
 - [Tesla Solar/Vehicles Charging Coach](https://x.ai/bot/ZpP6ex04wjNEMwzAVkZyx) - Read-only coach for Tesla solar plus Powerwall homes, with optional Tessie drive context. [Geoffrey](https://x.com/SharePointGeoff).
 - [The Bitcoin Layer](https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7) - Alerts only when The Bitcoin Layer Pulse indicator turns. [Tferriere](https://x.com/Tferriere).
 - [The Great Gatsby](https://x.ai/bot/Hlnvwim1_YI32ybXZ0hI3) - A stock research bot for US equities. It scores any ticker in one dark dashboard image, screens for promising mid-size companies, and sends a weekday. [anegronro](https://x.com/anegronro).
+- [Thesis Researcher](https://x.ai/bot/Onod9nAHBMU00jEyjFDP3) - Works best with the Stock Market Manager. Researches company fundamentals, sector strength, and builds an investment thesis you can act on. [utahpowscott](https://x.com/utahpowscott).
 - [Theta Vantage Desk](https://x.ai/bot/YbX8HTAePBjwpwP05CVJS) - An options briefing desk\: gamma, flow and volatility on one ticker. [Joe](https://x.com/ThetaVantage).
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) - Audits a sprawling bot fleet and cuts idle token spend. [kleosrr](https://x.com/kleosrr).
 - [Throttle · Token Officer](https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP) - Watches a Grok Bot fleet for token burn and wasteful loops with short reports. [james_ailton](https://x.com/james_ailton).
@@ -418,20 +456,25 @@ Back to [README](../../README.md)
 - [Token Maxxing](https://x.ai/bot/f6srhE3vkMevccaw8DLPf) - Routes builds so Grok Bot limits last across Bot, Build, and Cursor. [iggynore](https://x.com/iggynore).
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - Audits a bot fleet for overlapping jobs and chat loops that quietly burn tokens. [from_glasses](https://x.com/from_glasses).
 - [Tony Montana](https://x.ai/bot/tbuow4aHucVEAgNbF7qzU) - ONLY job\: the owner's Procurement Manager. Own buying\: software, services, contractors, equipment, agencies, manufacturing, office, subscriptions. [Liam](https://x.com/liam_fallen).
+- [Topps Card Analysis Bot](https://x.ai/bot/vkKodowrGVr0Be2fDVcuG) - Looks up Topps product prices, odds status, and source links from price and tracker CSVs. [TerpGPT](https://x.com/TerpGPT).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - Autonomous short-term equity desk. North star\: beat SPY on a dedicated brokerage cash account. Decides on its native model, reads the book, and places... [farzyness](https://x.com/farzyness).
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) - A news-driven day-trading bot that takes one liquid name at a time and messages every fill. [Travis](https://x.com/TravisWeathers).
 - [Trading](https://x.ai/bot/l82Fnugc2EEblUuMwyeaV) - Trading assistant for clear stock and ETF setups plus optional Solana spot, with risk rules and execution discipline and no gain promises. [Nick](https://x.com/GreenWay____).
+- [Trading Agent](https://x.ai/bot/Gj3QmwQ7sX77AveaYl2od) - Runs a risk-free crypto paper-trading simulation on live Hyperliquid data, with a virtual bankroll, automatic stops and targets, risk limits. [Ivan](https://x.com/IHybben).
 - [Trading Coach](https://x.ai/bot/Gktb--JKwBVtPuZo5vcvM) - Turns statements, recordings and notes into a daily review and size-up/hold/size-down verdict; never trades. Dayron.
 - [Trading Journal](https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO) - Remembers every trade, mistake, and winning setup you journal. [hooeem](https://x.com/hooeem).
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) - Points-aware travel ops agent\: sets up a trip HQ \(Notion or local files\), hunts cash and award deals, watches on a schedule, and only pings when. [manan_suneja](https://x.com/manan_suneja).
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) - Finds real trip deals from your hub airports, fits them to open calendar windows, and plans by vibe , with honest prices and no invented “normally... [natillie](https://x.com/natillie).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - Plans award travel around your home airport, points and status. [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray desk for trading workflows. [Ortix008](https://x.com/Ortix008).
+- [Uncle Dave](https://x.ai/bot/xJnF0xp0j_8lDe-TVYwJy) - A local deal hunter that watches auctions, Craigslist, Facebook Marketplace, and eBay for the things you collect or need. [patrickirvin](https://x.com/patrickirvin).
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) - TY2026 crypto tax prep for custodial PDF/CSV or connectors, Form 8949 minded with a December TLH check-in. [scgerber](https://x.com/scgerber).
+- [Usage Guardian](https://x.ai/bot/pE30TapWi6mbPEQvuqD1S) - Low Power Mode guardian for weekly Grok Bot usage. [tfiore22](https://x.com/tfiore22).
 - [Usage Saver](https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL) - Cost coach for agent work that trims useless context, swaps heavy tools for lighter ones, and cuts wasted steps. [Draggen75](https://x.com/Draggen75).
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) - Tracks Grok Bot and Cursor spend against a daily ceiling and names expensive habits. [compileinstyle](https://x.com/compileinstyle).
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) - Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels,. [davincivibecode](https://x.com/davincivibecode).
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) - Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only. [SpaceX](https://x.com/DenisLabelle).
+- [Venture Compass](https://x.ai/bot/WF54VH2_GnEvhP50GtoWj) - Helps people with skills, experience, or ideas figure out which venture to focus on, through relaxed one-question-at-a-time chats. [SOCIETI](https://x.com/SOCIETILILI).
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) - One weekday brief across every small online business you run\: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so. [CorlettScott](https://x.com/CorlettScott).
 - [VetStack](https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL) - Military-household savings desk for purchases, subscriptions, receipts, and benefits. [kenashe](https://x.com/kenashe).
 - [Visa割bot](https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c) - Logs into Visa割 and spins every unused lottery or roulette offer it finds for you. [Daru](https://x.com/countertek).
@@ -444,12 +487,14 @@ Back to [README](../../README.md)
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) - Scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating before they renew. [Imran](https://x.com/imrannotes).
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) - Maps covered/gray/excluded from warranty clauses. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) - Scores a ticker against the CAN SLIM growth checklist with entry, stop, and an auditable verdict history, not advice. [Ulises](https://x.com/Ulises__gg).
+- [Warren Buffett](https://x.ai/bot/7eBE-1qFTRraHtd5WpUbr) - Thinks like Buffett. Reads every filing and insider trade on your stocks while you sleep. Warren is the value analyst you could never afford. [51bodila](https://x.com/51bodila).
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) - Sweeps your inbox weekly for renewals, receipts and expiring trials. [SmoresBoy](https://x.com/jxckvibe).
 - [Wealth](https://x.ai/bot/9EUM4mFCJg_HNGYXc17eQ) - A personal wealth desk for people with a W-2 job and side businesses. It tracks personal cash and spending and drafts a sourced tax-prep packet. [MeechYourGoals](https://x.com/MeechYourGoals).
 - [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) - Baut und betreibt Online-Shop und Firmenwebsite für einen Farbenfachhandel\: Katalog, Bestellung, SEO/GEO und saisonale Aktionen. Arbeitet eng mit. [JakobOrth](https://x.com/JakobOrth).
 - [Weekly One-Pager](https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O) - Paste your week's numbers and notes and get a one-page business report, with measured figures kept apart from estimates and no gaps filled with guesses. [AMFoxtrot](https://x.com/AMFoxtrot).
 - [Weekly P&L analyst](https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc) - Every week, a financial readout that hunts down whatever slipped backwards. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Weekly Usage](https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv) - Shows weekly Grok Bot usage on the Bot computer via BigUwidget, with optional cards for Grok, AGY, and ChatGPT. [Jacob](https://x.com/London_Vista).
+- [Wheel Bot](https://x.ai/bot/WPLaxPZ0semWL2Es9kW_2) - Works best with the Stock Market Manager. Finds cash-secured put and covered call setups that fit your risk rules. [utahpowscott](https://x.com/utahpowscott).
 - [Whop Economic Intelligence](https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c) - Names the single next growth move for your store, then proves it worked. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Wire](https://x.ai/bot/y73FMiyQPFY_IdrbckyFj) - Data-driven agentic desk with approval-gated trades\: Coinbase, Robinhood, and Kalshi or Polymarket by region, plus X on your holdings, alerts, and daily. [j6commission](https://x.com/j6commission).
 - [Wrench](https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd) - Your Porsche shop buddy — diagnostics, maintenance, ownership advice, and straight talk on what actually needs fixing. [jeffleemoon](https://x.com/jeffleemoon).

@@ -2,13 +2,18 @@
 
 Back to [README](../../README.md)
 
+- [Active Focus](https://x.ai/bot/UkyzuXGe_REqS-sc59W3Y) - Keeps long tasks on target\: helps you pin down what you actually want, picks each next step by what moves it forward, adjusts on evidence. [Schien](https://x.com/schienwang).
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - Keeps an early founder's company board honest and current as a plain card showing the one bet that matters, past bets, and who does what next. [Ivelin](https://x.com/ivelini).
 - [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - the smartest bot u will ever talk to. send it ur hardest problem and watch what happens. [TSLAshareholder](https://x.com/TSLAshareholder).
+- [Boss](https://x.ai/bot/lUT5xM-xqmuJlwzqUAlvU) - A friendly chief of staff for people who are new to Grok Bot. It learns what you want help with, handles it or sets it up as a routine. [TechEcho](https://x.com/techgent6).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - Interviews you about what you want automated, then drafts the other bots' instructions, schedules, and connections. Sultanov.
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - One stream for your bot team. Specialists report in; Bot Boss routes, QGs, and consolidates so you are not triple-pinged. [Josh](https://x.com/joshkim).
+- [Bot Fleet Chief of Staff](https://x.ai/bot/1B3dBw5xR7rwVGT2xGieq) - Keeps your team of Grok Bots organized\: routes work to the right bot with compact handoffs, batches every decision that needs you into one digest. [gzikry](https://x.com/gzikry).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - Weekday fleet coach that tightens bot profiles, routines and skills, then sends one digest to your manager bot. duyet.
+- [BUD for Even Realities G2](https://x.ai/bot/915uZ58K2YkQhevdmxt74) - Your hub bot for BUD \(Bots Up Display\), the Even Realities G2 app that lets you speak a task to any of your Grok Bots from your glasses. CMDLAB.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - Build lead for a bot fleet that turns an approved goal into a plan, delegates each piece, and verifies the live result before calling it done. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - Walks you through self-hosting Buzz with Tailscale for teammates, standing up a first Grok Build agent, and turning bots into channel teammates. [Justin](https://x.com/jschnett).
+- [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - A chief of staff for startup founders. It watches your inboxes, Slack, calendar and X, preps you for meetings, demos and user interviews. [Adam](https://x.com/adamtgi).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots. [Hank](https://x.com/hjackson2).
 - [Chief of Legal Staff](https://x.ai/bot/J_fIC4VKMLmT6inJRIO4e) - For litigation firms\: a Chief of Legal Staff that supervises the firm's other bots, routes handoffs. [suyashverma](https://x.com/suyashverma).
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK. [Hank](https://x.com/hjackson2).
@@ -17,6 +22,8 @@ Back to [README](../../README.md)
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - Turns approved discovery into strategy, roadmap and design-ready items with hypothesis tracking and a risk scan. Ash.
 - [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - Turns meeting transcripts into draft backlog items for GitHub or Jira, routing conflicts to a human. Ash.
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - Thin proxy that forwards every ask to your ChatGPT Agent on the web, relays answers back, and drafts anything outbound until you say send. [William](https://x.com/wiiiimm).
+- [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - A bot designer for your Grok Bot team. It interviews you, creates focused bots with one job each, tunes their instructions. [JooPaul82390122](https://x.com/JooPaul82390122).
+- [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - Ask 'What Would Elon Do?' and get blunt, first-principles career and business advice in Elon's style, backed by sourced quotes. [Rushabh](https://x.com/RushabhShah).
 - [Eunomia](https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ) - Stretches your Grok Bot plan\: hands simple jobs to a Grok helper, moves reminders to your calendar, trims wake-ups. Lance.
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - Captures equipment fault fixes in plain language into a searchable log and answers whether you have seen a fault before from that log only. [Charles](https://x.com/Ryokushen).
 - [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) - Reviews the Grok Bots you choose once a month and delivers ranked fixes without editing other bots or sending anything external. [weboperater](https://x.com/weboperater).
@@ -31,18 +38,25 @@ Back to [README](../../README.md)
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - The only agent you talk to, running a crew of minion bots behind the scenes while Dr. Nefario reviews them weekly, forked from Firstmate. [Jared](https://x.com/Jaredtherich).
 - [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - Lead bot that triages to specialist seats and runs roundtables, keeping irreversible actions behind approval. Mado.
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - Front desk for an MBTI-themed bot team\: takes requests, routes them to teammates and relays answers. [nishiyama_dev](https://x.com/nishiyama_dev).
+- [Meeting Finder](https://x.ai/bot/biXrPzKK9HkuguhYFdSSo) - Finds real, free peer-support meetings near you or online and helps you actually get there. Straight talk, no judgment, no lectures. [JoePro](https://x.com/JoePro).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - When your plan changes, finds every bot still on the old one and quotes each stale line; also drafts one-job teams. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - Overnight steward that nudges your other bots to stay efficient and tidy, speaking up only when something is wrong. [MorriganCora](https://x.com/MorriganCora).
+- [Notion Organizer](https://x.ai/bot/GwxXa_RCIuWTlKE8sa2wS) - Keeps your Notion accurate and tidy. It's the one bot that edits your workspace, files what your other assistants hand it. [jmjcapital](https://x.com/jmjcapital).
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Oink is Ground Control for The Everything Bots\: a pink plush pig who runs your board, names your one next move, and oinks you out of a stall. Ξ.
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - Boss bot for owners of several businesses, built in hotels and holiday lets, with one weekday briefing across every company and email drafts you approve. [Rob](https://x.com/xdeanozoff).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - Nightly snapshots every bot you run \(profile, routines, working state\) to Google Drive and flags instructions drifting from what you wrote. [_The_Lake](https://x.com/_The_Lake).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - Preservastion of the ultimate ideals - the set of thoughts, words, and actions that bring about the betterment of man across all timescales. littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - Runs your team's projects from Notion\: one row per project, a channel per project, and tasks your specialist bots claim. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - Director bot running six specialist desks \(figure, narrative, camera, light, background, fashion\) that assemble clean, copyable image and video prompts. [KittyTellesWolf](https://x.com/KittyTellesWolf).
+- [Radovid](https://x.ai/bot/JzHMH4sxHC2IGktj0M49m) - Chief-of-staff that orchestrates a small agent crew and only surfaces calibrated work. [samuel_riccardi](https://x.com/samuel_riccardi).
+- [Scam Bot](https://x.ai/bot/TK3jh27fy9qZGcxRktI16) - Finds accounts impersonating you on X and reports them in safe, paced batches. It also helps you size up suspicious messages. [Wife](https://x.com/WifeDirtyTesla).
+- [Scam Email Detector](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) - Watches your inbox and warns you about phishing and scam emails before you fall for them. Stays quiet otherwise. [Dirty](https://x.com/dcostaverage).
+- [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - A secretary for your WhatsApp group. Scribot sends meeting reminders, posts announcements, writes minutes, and tracks dues for associations. [ISSAH](https://x.com/the_real_issah).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - Watches Slack, suggests comments on interesting threads, and rewrites short updates from teammate bots into a casual times-channel voice. [Kento](https://x.com/AoToLog_).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - Founder co-pilot that runs specialist bot crews through research, tight scope and ship. Jonathan.
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - QA bot for AI coding agents per TestChimp project\: watches pushes and test results and runs the next QA step on approval. Nuwan.
 - [Tune-Up](https://x.ai/bot/EwsD6P3NuMDgp1_sT1MWp) - Reviews your other Grok bots, turns misses into tests and suggests small fixes you approve. community.
+- [Use-Case Coach](https://x.ai/bot/j6NKC6auUgL_xXwQsOHVg) - Got a Grok Bot but not sure what to use it for? A two-minute interview, three ideas built for your life, and your first bot built and running on the spot. [Coffee](https://x.com/CoffeeNGrit).
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - Sets up a six-bot team that delivers verified daily pharmacy news to Japanese pharmacists as articles and MP3. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - Public skill avatar of 赛博小晚\: uses her published thinking framework to help you build and run a personal brand, without claiming to be her. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).

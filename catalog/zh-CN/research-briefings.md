@@ -20,12 +20,15 @@
 - [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - 盯官方 X 账号和一手来源里的 AI 发布，只把重要的用你的语言推给你，分即时提醒和简短摘要. [Gota](https://x.com/gota_bara).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - 把论文、代码、讲座和论坛扫进一摞阅读清单。 [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - 检查 AI 助手与谷歌会不会推荐你、又点了谁的名，从买家真会问的问题起步。 [Adam Tanguay](https://x.com/adamta).
+- [AI Vendor News Tracker](https://x.ai/bot/Bq32qipTNJR5ab-XgKRnm) - 每天两次追踪 AI 厂商的新模型、免费额度和用量重置等福利，以及重要服务动态. [NeoIsshinay](https://x.com/NeoIsshinay).
 - [AI Visibility Watch](https://x.ai/bot/yWUO_uI9JSZEXgYPsIzXx) - 追踪 ChatGPT、Claude、Perplexity 和 Google AI 概览如何描述你的品牌、哪些 AI 爬虫在抓取、有什么变化. [SEOmatic](https://x.com/seomatic_ai).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - 品牌 GEO 自动运营，监测大模型答案里的露出，挖竞品占位并给出可执行补强。 [Miguel](https://x.com/seoforgpt).
 - [AI 官号雷达](https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi) - 监控 AI 公司和编程 agent 的 X 官号，新品、额度、价格变动即时推送，早晚中文汇总. [Chaosai0](https://x.com/Chaosai0).
 - [AI 资讯精选](https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs) - 工作日筛 AI 产品与工具更新，用人话短讯推送，料不够就保持沉默. [MaiYangAI](https://x.com/MaiYangAI).
 - [Airfare Deals](https://x.ai/bot/yXrklU1viS9roHs9d25-a) - 盯你家机场异常便宜的临发周末直飞家庭价，真有好价才提醒. [Luke Carriere](https://x.com/LukeGrokBot).
 - [Alexandria](https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk) - 图书管理员，先用公开来源做书讯，你点头后再生成单书机器人. [Joe](https://x.com/CardCaptain).
+- [Algorithm Update Tracker](https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs) - 追踪 X 开源的 For You 推荐算法代码（xai-org/x-algorithm），用大白话结合你的账号解释每次更新. [Jonathan](https://x.com/realjohnnewburg).
+- [Allen Iverson AI BOT](https://x.ai/bot/xv2FAscJzbS7HMsUX_tLa) - 给企业主的劳模助手：晨间简报、邮件草稿和一天收尾，带实时网页搜索、股票和报纸信息. [IntelliGeneAI](https://x.com/IntelliGeneAI).
 - [Alley Cat](https://x.ai/bot/n-X18PmOiYk-virax9DCD) - 找出信号强、值得留的工具与免费资源。 [ignota_regalis](https://x.com/ignota_regalis).
 - [Alyssa](https://x.ai/bot/wjwNi0g2a57YKQW1BCd8Q) - 苏格拉底澄清器，一次一个锋利问题，挖出表象下的为什么. [QOpdyckePrime](https://x.com/QOpdyckePrime).
 - [aoty](https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H) - 每周按综合评分挑三张新专辑。 [emrecolakoglu](https://x.com/emrecolakoglu).
@@ -46,9 +49,11 @@
 - [Bill](https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn) - 教育部长席，协调教学专岗，自己不上课. [TRV_Architech](https://x.com/TRV_Architech).
 - [Bookmark Butler](https://x.ai/bot/hLtN-c5Vw-JWIehFEeoTm) - 处理你每条 X 书签：把技巧用进项目、归档、起草分享或试用工具，再告诉你做了什么. sheran.
 - [Bookmark Digest](https://x.ai/bot/tCPzwGYKCeTKQznAeo-wj) - 每天早上按有用程度给最新 10 条 X 书签排序，发摘要和图解. Koshik.
+- [Bookmark Miner](https://x.ai/bot/1k1nfNzus_-WXY-nOYM2V) - 清理你的 X 书签，每条都给出保留、稍后、收藏或跳过的判断和理由，存过的东西不浪费. [TheBmin](https://x.com/TheBmin).
 - [Bookworm](https://x.ai/bot/Yu8p1lw1sJi35Q15kTTtR) - 物理科学教师席，查公开政府来源的物理化学天文与地学. [TRV_Architech](https://x.com/TRV_Architech).
 - [Bot Changelog](https://x.ai/bot/sXcyeWUCMtjMQ2PLqQE5a) - 每天查看 Grok Bot 公开更新日志，只有新版本发布时才发简短摘要，还能提醒协调机器人注意影响运行的改动. [N0v4Ph4n](https://x.com/ChuongPhanVinh).
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) - 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [Bot Radar](https://x.ai/bot/GxxsLOoweuJpbgKVwrBWU) - 每天在 X 上搜罗大家使用 Grok Bot 最热门、最有意思的玩法. [XrayFactor](https://x.com/XrayFactor).
 - [Bot Village Fleet](https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI) - 负责线索联系、规格、Stripe、预订、社交与研究的舰队。 [asdennison](https://x.com/asdennison).
 - [BotLog](https://x.ai/bot/7r4lJlcZaqMUINspxwI3h) - 盯着 Grok Bot 更新日志，只告诉你新变化，并附上在你自己的配置里怎么用的建议. [JP](https://x.com/jp_costa).
 - [Box Inspector](https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J) - 在你把别人的 Grok Bot 加进账号前，先检查那条分享链接。 [Knock](https://x.com/SuddenlyJon).
@@ -56,6 +61,7 @@
 - [Burundi Sky Watch](https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp) - 用免费实时航班数据展示此刻飞越布隆迪的飞机，含航司机型起降地. [ambaza marcellin](https://x.com/Marcellin_dev).
 - [Business](https://x.ai/bot/B7C9a8QJSUSUJLKtHtze4) - 工商管理与营销席，查官方来源并做本地优先账本，不编造余额. [TRV_Architech](https://x.com/TRV_Architech).
 - [Calorie Log](https://x.ai/bot/zK27ouDr1l7fMT9DHB6oZ) - 饮食与热量记录助手. community.
+- [Captain Orwell](https://x.ai/bot/InRDBbawlH8rdErJa8_-t) - 用简短的大白话回答任何问题，先给答案、不说废话，基于简化技术英语（Simplified Technical English）写作规范. [jonnywallace](https://x.com/jonnywallace).
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) - 先读你的简历，再按真实匹配度给岗位排序。 [jakesh_jakesh](https://x.com/jakesh_jakesh).
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - 给被邮件与团队噪音淹没的经理当幕僚长前门，后台跑专家队友，工作日优先安静摘要. [rayistern](https://x.com/rayistern).
 - [Certainty Tax](https://x.ai/bot/yUiRwJ_SVLmO1Ehi_QISq) - 用证伪点和缺口来压力测试主张。 [yandymccutcheon](https://x.com/yandymccutcheon).
@@ -97,8 +103,10 @@
 - [Connection Mapper](https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD) - 绘制两人或两公司之间的直连与一跳路径. [MindandEmotion7](https://x.com/MindandEmotion7).
 - [Constitution Teacher](https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS) - 打开美国宪法原文，用白话讲解并附出处. [angie_kuaile](https://x.com/angie_kuaile).
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) - 复盘你的学习习惯，把一项被动输入换成动手练习。 [Sultanov](https://x.com/thekuchh).
+- [Convo Archivist](https://x.ai/bot/YfUktmqlUrUbRwQX8Zinc) - 你的机器人团队每次会话都会失忆，它不会：按日期分段记录你的 grok.com 对话，并根据记录回答问题. [Davestt](https://x.com/Davestt).
 - [Cooper](https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ) - AI、科技、创投与商业新闻代理，早上八点紧凑 Slack 简报，工作日中午再补竞品动态。 [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Counterweek](https://x.ai/bot/1MZhe6zL1fj6D7nLPud9g) - 强制竞争共情，对手最好的一周对上你的计划。 [yandymccutcheon](https://x.com/yandymccutcheon).
+- [Court Calendar Watcher](https://x.ai/bot/EtOL7Vh3LtUOY2HgvKRsq) - 面向诉讼律所：盯你指定法院的公开开庭排期表，只提取涉及你们律师或指定当事人的案件. [suyashverma](https://x.com/suyashverma).
 - [Creative Opps Oracle](https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb) - 为独立创作者搜寻艺术游戏代码音乐写作影视等开放机会，并审计公开形象. [Empress Trash](https://x.com/EmpressTrash).
 - [CrowdReply - Scout](https://x.ai/bot/gDvJh38CGXP1Jumemg4d-) - 收集 AI 引擎在品牌购买类问题里引用的页面，筛出值得争取提及的编辑文章. [Dawood](https://x.com/dawoodkhan254).
 - [Crypto](https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy) - 英语文学、本地书信与区块链公开事实，不碰密钥托管. [TRV_Architech](https://x.com/TRV_Architech).
@@ -118,9 +126,11 @@
 - [Data viz](https://x.ai/bot/xk4TYexNbnfmS8l88QR8v) - 拿 CSV 或贴来的表格画一张诚实的图并把结论当标题，也能给你的图排出修改清单. [Fred Hazelton](https://x.com/HazeyDataFred).
 - [Decoder](https://x.ai/bot/5N9HO674YlxHiZhyj9ND9) - 把厚报告 PDF 和技术文档收成能直接用的白话摘要. [Nomis](https://x.com/cradrrat).
 - [Deep Research](https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0) - 先源后论的深度研究专家，用免费研究工具包，对受版权材料优先合法获取. [Wardonis](https://x.com/Wardonis).
+- [Deep Researcher](https://x.ai/bot/vreFRSI7Zt0tcBLDhGYG1) - 用 Parallel 的 API 帮你做网络调研，带回有出处的答案：带引用的报告、填好的表格和清单. [lukaslevert](https://x.com/lukaslevert).
 - [Demis](https://x.ai/bot/LBGBG8UrSkT16d_PsusNw) - Gemini、AI Studio、Vertex AI 和 DeepMind 助手，还会每月替你领 Google AI 云额度. Jetha.
 - [Desk Dana](https://x.ai/bot/xcO3RvVUw8qlXpveiuUj7) - 按站立桌、显示器、外设、灯光与风格整理工位愿望清单. [Frank](https://x.com/FrankFindsOut).
 - [Desk Orchestra](https://x.ai/bot/2AZse0mx1Rg0m6jAt0m-U) - 多机器人工作台的对接人，把白话需求分给专家，一天四次收成一份 HTML 简报. [Uv_i](https://x.com/Uv_i).
+- [Detective Mode](https://x.ai/bot/oq_lhVHBWIpXYka8XvPRh) - 适用于任何领域的顶级研究机器人：在全球已发表的资料里深挖、权衡证据，每个回答都附可信度评分. [ArunasZidonis](https://x.com/ArunasZidonis).
 - [Devil's Advocate](https://x.ai/bot/_Gxt_kJLC4XjNPxzqV89h) - 上线花钱或发币前先泼冷水，先讲风险再给一行结论. [Martin](https://x.com/codofliess).
 - [Devil's Advocate](https://x.ai/bot/Uj8zF0iprBX0AsSB3mU2V) - 给创始人的苏格拉底式陪练，在你拍板之前先攻击你最站不住的假设. [Melvin](https://x.com/melvindvivas).
 - [Dig](https://x.ai/bot/9d6tdEby9rjaPQsSjuRWF) - 给它链接、名字、截图或文件，问两个问题后带回有来源的事实. Alex.
@@ -128,6 +138,7 @@
 - [Directory Share](https://x.ai/bot/eoGTX8Y6jOoRDBYk5pNe9) - 通过 AI 目录回复分享的模板。 [KingRomstar](https://x.com/KingRomstar).
 - [Disability Claim Desk](https://x.ai/bot/CC_ZVQsT4S5p1zL5RdNHr) - 公共残疾津贴申请私人台：案件夹、医疗来源、工作史，以及用你原话写的日常功能日记。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Docket](https://x.ai/bot/Dv6-DIhzFpqJ4-VMMibNT) - 盯本地住房议题，把案卷保持最新。 [SauloLondono](https://x.com/SauloLondono).
+- [Docket and Urgency PA](https://x.ai/bot/pEK3NuR-6dV7jxgEzSM0R) - 面向诉讼律所：每个工作日早上列出当天有哪些庭期、哪些文书已起草但还没提交. [suyashverma](https://x.com/suyashverma).
 - [Documentary Witness](https://x.ai/bot/fAbkCHtKBmF9ZAiF3Wwrg) - 只起草的纪录片搭档，帮拍摄真实人物、家庭记忆与敏感题材的影片人. [gimro_katya](https://x.com/gimro_katya).
 - [DogTheNaughtyHunter](https://x.ai/bot/3nkH58KUSQG5S7A29rzWi) - 在你已登录的 X 账号上追查僵尸网络，并从通知游走中汇总群组名单。 [Jay](https://x.com/TheRetardedELon).
 - [Doing Gap](https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE) - 把你看过的和真正做出来的放在一起算账，然后逼你动手。 [Sultanov](https://x.com/thekuchh).
@@ -140,9 +151,11 @@
 - [Earnings Edge](https://x.ai/bot/GeI_ABOYB6Qg1aW5yuJLL) - 财报前研究：对照市场预期推演牛/中/熊情景，并逐个反驳论点. Mike.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - 电商创意运营的幕僚长，按 SKU 管网盘上架文件、Higgsfield 图、情绪板、分镜与竞品研究，写入有门禁. [ShalomNFT](https://x.com/ShalomNFT).
 - [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) - 对课堂游戏与学校科技给出怀疑向的每日与每周 EdTech 摘要. [NoahReynol99548](https://x.com/NoahReynol99548).
+- [Election Assistant](https://x.ai/bot/o7SoQoQE5KN4K_2pptSvV) - 不站队的选票研究助手：根据你的地址弄清选票上的所有内容，并用带出处的说明解释每场选举和每项提案. [MaquedaX](https://x.com/MaquedaX).
 - [elf](https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt) - 多代理机群的专家研究席，深入工人抛来的问题并带回带证据答案. [CapitalCopilot](https://x.com/CapitalCopilot).
 - [Elon Ecosystem Desk](https://x.ai/bot/j8Znml_qB4leZhOgihZ-p) - 工作日汇总特斯拉、SpaceX、xAI 等生态新闻并标清谣言与确认. [cvey15](https://x.com/cvey15).
 - [Elon Musk feed](https://x.ai/bot/Oh5wReDUbpNIumkdziM3a) - 把与 Elon Musk 相关的帖子与新闻收成一条信息流。 [lamps109](https://x.com/lamps109).
+- [Elon Watch](https://x.ai/bot/S6jlyOVBYi9zg6Ro0lQdl) - 每天两次把 @elonmusk 在 X 上的发帖、回复、引用和转发做成信息图汇总发给你，一条不落. [spacexpainter](https://x.com/spacexpainter).
 - [Email Bot Work](https://x.ai/bot/oSaziY7pPP4PH2ZHts0hS) - 工作收件箱分流，起草回复、给安全邮件贴标签并归档，安静扫一遍. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [EncycloNetBot](https://x.ai/bot/WCjeMaiYe07AwZCdl3GlI) - 隐私优先的探索研究同伴，桥接社交与网络上的科学艺术与文化线索. [gflucifer0](https://x.com/gflucifer0).
 - [Entrepreneur](https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR) - 按一句简短需求去找副业机会，每个都附上证据、风险和下一步，每周回头给自己之前的推荐打分. [Hank](https://x.com/hjackson2).
@@ -152,6 +165,7 @@
 - [Event Watcher](https://x.ai/bot/xr-WctZDSn0thJABV9huO) - 盯多日直播与培训，再用白话发纪要与行动项. [ArulKaarthickDe](https://x.com/ArulKaarthickDe).
 - [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - 幕僚长与执行战略情报，帮你思考但不替你思考，理清乱题，把事实与臆测分开. [Aeli_Son001](https://x.com/Aeli_Son001).
 - [Explainer Bot](https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR) - 把复杂话题讲成可扫读的白话说明. [mikepat711](https://x.com/mikepat711).
+- [Explainer bot](https://x.ai/bot/1yHtUns0ArP0-pWh909yc) - 把任何话题、文档或 AI 输出讲明白：大白话、示意图、交互页面，还能配旁白. [farzyness](https://x.com/farzyness).
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) - 给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [Fail Dig](https://x.ai/bot/oEDvMidjbGpncvbLsROau) - 按公开信息精神挖美国股票结算与空头数据，只找结构异味不做交易建议. [jason_bennitt](https://x.com/jason_bennitt).
 - [Family Care Companion](https://x.ai/bot/sZMzwsYO_whThdbDgTx9a) - 家庭照护者的温暖实用搭子，管病历夹、药、约诊与你自己也被照顾. [Deana](https://x.com/Deana).
@@ -182,6 +196,7 @@
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - 笔记与知识库整理助手. community.
 - [Future Brief](https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3) - Rich Brew Co 的自适应个人台. [richbrewco](https://x.com/richbrewco).
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) - 9 月 15，17 日直播的 Grok Bot Galaxy 书记。 [prepperevol](https://x.com/prepperevol).
+- [Gemini 4 死了没](https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN) - 定时在 X 上检索官方账号，Gemini 4 系列（也可换成你关心的其他模型）一旦向普通订阅者开放就第一时间邮件通知你. [TAP0APIA](https://x.com/TAP0APIA).
 - [Genie](https://x.ai/bot/PwT8RcyRTldWpNW4OAjal) - 家族史研究助手，找档案、代写信、翻译记录并整理线索. [chipshopandy](https://x.com/chipshopandy).
 - [GitHub Trending Scout](https://x.ai/bot/EklFc0zYAqzkxcALynMj2) - 每天读 GitHub 趋势页，只挑真正贴合你工作的少数仓库做成简报并说明理由. [Hussein_M_Ragab](https://x.com/Hussein_M_Ragab).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 [umiastuti8329](https://x.com/ios_1261142602).
@@ -189,6 +204,7 @@
 - [Government Opportunity Intelligence Agent](https://x.ai/bot/7ypeNcwfHLUecL8599IRP) - 扫描政府招标与机会情报并整理可跟线索. [citizend_d](https://x.com/citizend_d).
 - [GPU Price Watch](https://x.ai/bot/WTCh7nBzB55Q73ArvsBKm) - 盯各云 H100 A100 4090 等 GPU 租赁价，跌破你的目标价就提醒. [SamE](https://x.com/SamE1311025).
 - [Grok Bot Directory](https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8) - 按你想做的事找公开 Grok Bot，也可问别人都拿它们干什么。 [Leechael](https://x.com/Leechael).
+- [Grok Librarian](https://x.ai/bot/586AkBMvFS1ngOYwaupKC) - 友好的研究馆员：查找、核实并整理公开的书籍、文章和资料来源，链接都是真的，不编造引用. [beardedfreedom2](https://x.com/beardedfreedom2).
 - [Grok Ness](https://x.ai/bot/nuEAmKril8Bohuqt6b7rc) - 证据优先研究机器人，合同账本核验、难找门户搜寻，以及可检查的取证路径. [ALL_Jonah](https://x.com/ALL_Jonah).
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) - 早上一小份值得动手搭的新 Grok Bot 用法。 [Andrej](https://x.com/scheemunai).
 - [GrokBotScout](https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP) - 按每批七条扫公开列表。 [CarolinaDill](https://x.com/CarolinaDill).
@@ -207,6 +223,7 @@
 - [Hugging Face Expert](https://x.ai/bot/Xoc5L4qMSv7OKepbDecn0) - 为你的 AI 任务找最合适的 Hugging Face 模型/数据集/配置，并帮测、微调、部署排障。 [beinglalit21](https://x.com/beinglalit21).
 - [Hypatia](https://x.ai/bot/BWqyJWdEtiJVpz2OJBdBQ) - 灵感图书管理员，归档来源. [davidzhouyu](https://x.com/davidzhouyu).
 - [Hyperlocal News Daily](https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY) - 超本地每日新闻，收成一张报纸式简报. Luke.
+- [Hypothesis Swarm Starter](https://x.ai/bot/zHJ6Fi4bqDxqwUPyuuELk) - 围绕你的研究兴趣搭建并驱动一个五席位的科学假设群，把问题变成可证伪、经审稿把关的卡片. [paulkhls](https://x.com/paulkhls).
 - [Idea Crucible](https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU) - 找出你近期就能卖或能上线的产品和服务点子，再用苏格拉底式追问压力测试，让站不住的早点出局. [saikrishna](https://x.com/krish1403).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - 每小时从你这一周里挖一个值得追的创业点子。 [onerinas](https://x.com/onerinas).
 - [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) - 盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报. [RetiredYoungNW](https://x.com/RetiredYoungNW).
@@ -226,6 +243,7 @@
 - [KeyWire Comic Week Brief](https://x.ai/bot/1hyNK6vXzs_8QamyfhvCV) - 每周提醒拉清单，再给一份按你口味的漫画摘要。 [CryptoVonDoom](https://x.com/CryptoVonDoom).
 - [Kimi](https://x.ai/bot/oBK8ft9f4D723aXeZJuCm) - 把商业播客和 YouTube 收成短小不注水的速查单。 [orenmeetsworld](https://x.com/orenmeetsworld).
 - [KJVBible](https://x.ai/bot/A7LELRVRh9WorYfGaTaXT) - 回答钦定版圣经对任何话题怎么说，标明书卷、章节和经文，还可附上西班牙语 Reina Valera 版本. [Carolina](https://x.com/CarolinaDill).
+- [Knowledgemax](https://x.ai/bot/NN9pHzrAZOhB2WBvOyPwU) - Karpathy 式第二大脑：把你的 Notion、Drive、Readwise 和收藏链接索引成带引用的主题摘要，存进 git 仓库. [Sravan](https://x.com/sravanjay).
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) - 按你的想法推荐韩国政府公开数据接口。 [reallygood83](https://x.com/reallygood83).
 - [Last Days Research Aide](https://x.ai/bot/6TtxM8bzTYdNq6Qj4JU-r) - 跟踪末世相关观察点，并把预言说法与核实新闻分开. Jim.
 - [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) - 捞出过去三十天里人们对一个话题真正说过的话。 [mvanhorn](https://x.com/mvanhorn).
@@ -242,12 +260,17 @@
 - [Lineage Desk](https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc) - 家谱研究台，按线索做智能检索与证据整理. [SkippyyTM](https://x.com/SkippyyTM).
 - [Listicle Memory Bot](https://x.ai/bot/9BDhUoKyguAGu6zlCLHO1) - 把任意主题做成核过事实的清单文，并配记忆宫殿与间隔复习。 [JWood8531481991](https://x.com/JWood8531481991).
 - [Listing Desk](https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u) - 在任何营销文案之前，先从档案做出业主挂牌资料包. [SacredFolio](https://x.com/SacredFolio).
+- [Literature Watcher](https://x.ai/bot/2ckVI9ItA5Yd6dP55iuBl) - 每个工作日推送你所在医学专科的新论文摘要，来源是期刊和 PubMed，并根据你的点赞点踩学习偏好. [MadtownJA](https://x.com/MadtownJA).
+- [Litigation Strategy Counsel](https://x.ai/bot/KNxBhnRc7Lwqx5RGEMwyS) - 面向诉讼律所：为每一组纠纷维护一份跨法院和仲裁庭的动态策略笔记，涵盖目标和推进顺序. [suyashverma](https://x.com/suyashverma).
 - [Live](https://x.ai/bot/O0R2YhCdz96HO_y3Lsmpa) - 直播看守与笔记员，盯指定直播、摘要画面内容，并把结构化场记写入 Notion，含聊天要点. [heroicfitnessco](https://x.com/heroicfitnessco).
 - [Look Up](https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-) - 只在值得出门看时提醒你家上空的飞越与星空事件. [ChefMcMakin](https://x.com/ChefMcMakin).
 - [Lumos](https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK) - 用费曼技巧教技术，配例子和日常类比。 [mdafanulh](https://x.com/mdafanulh).
 - [Lurk (Reddit Researcher)](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) - 在 Reddit 上挖原话，收成一份痛点包。 [tinkerersanky](https://x.com/tinkerersanky).
 - [Lyn Alden For Retards Bot](https://x.ai/bot/HU8kdK5ustStqJMLKsOfY) - 用白话拆解你贴进来的 Lyn Alden 宏观、市场与比特币文章. [Chad](https://x.com/ShippMedia).
 - [Maestro](https://x.ai/bot/fCFSNo0L0HrvMZ8pef-WX) - 多代理团队的枢纽协调员，分流目标、追阻塞、跑每日早间站会. [Aces1974](https://x.com/Aces1974).
+- [Major](https://x.ai/bot/RVrRCNfbQisjqG-pnepAT) - 把当天的报告变成一块可视化的工作日简报看板，在你本地电脑上分拣处理. [dytschgo](https://x.com/dytschgo).
+- [Malfoy Accio](https://x.ai/bot/B15dolZNswDwtpiA6hbs9) - 从 X 和网上收集女版马尔福（fem Draco）同人内容，整理成可浏览、可筛选的目录：同人文、改写、视频和画作. [IM0001](https://x.com/IM0001).
+- [Market Intelligence](https://x.ai/bot/fikscKtQ-EYcDksv-L6dW) - 追踪 X、Reddit、Hacker News 和新闻上大家都在聊什么. [Av1dlive](https://x.com/Av1dlive).
 - [Market Morning](https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V) - 围绕你的自选股做开盘前与收盘后简报，并附可核对来源. [BTC_Yogi](https://x.com/BTC_Yogi).
 - [Market Research](https://x.ai/bot/t1l_On1VtkMYddCu5MqQB) - 只做研究，读你的 X、通讯社与一手来源，写出分级市场简报. [Capital](https://x.com/Capital).
 - [Market Researcher](https://x.ai/bot/xzkXiUbdYfPd7g30OhLGf) - 按固定节奏盯竞品的公开网站、广告、营销、定价和定位. [Josh Kim](https://x.com/joshkim).
@@ -272,20 +295,27 @@
 - [Mind](https://x.ai/bot/KTKo6uwSzARNo1K9fmdw1) - 温暖的心理学教育席，查政府来源，从不诊断. [TRV_Architech](https://x.com/TRV_Architech).
 - [Minime](https://x.ai/bot/r52weR45dfl7d4H_5Ww9g) - 博士工作、专利文书和轻度多机器人协调的研究与行政助手。 [Bla1333435](https://x.com/Bla1333435).
 - [Mission Control](https://x.ai/bot/ynZUavgaVUxV0nV8ky6jL) - Starship 与 Starbase 的短任务简报语气，跟踪公开发射窗口. [drsarah](https://x.com/drsarah).
+- [Model News](https://x.ai/bot/7L8cVHdWwgbgeOOa_19QD) - 跟进 AI 模型发布、新的开发者和 AI 工具以及重大科技新闻，每天发一份附官方链接的简短摘要. [kleosrr](https://x.com/kleosrr).
+- [Model Notifier](https://x.ai/bot/cCBzxPeJyseV7DiLYLW3S) - 大 AI 实验室一发布新模型就提醒你，附带有什么新东西、在哪能用和基准成绩. [Karol](https://x.com/blueemi99).
 - [Money Finder](https://x.ai/bot/HSkw45MjOQmesPwYsnK9P) - 找已经属于你的钱，无人认领财产、退款、和解与遗忘订阅. [N8Odell](https://x.com/N8Odell).
 - [Moonshot](https://x.ai/bot/fSBU34VR0gqteP3IOAnr8) - 把 Moonshots 和 All-In 节目变成简短机会简报。 [Luca280](https://x.com/Luca280).
+- [Morning Brief](https://x.ai/bot/xYZX2g2H3MEIvGgWEDc1T) - 根据你的日历、收件箱和 X 书签，每天做一档约 15 分钟的音频晨间节目，可选附一份文字简报. [parkersmith](https://x.com/parkersmith).
 - [Morning Desk](https://x.ai/bot/7_qrgFePoJ6BOCRcdkZOv) - 邮件与收件箱助手. community.
 - [Morning Triage Chief](https://x.ai/bot/7-EeGYxDyedmNYELbedW1) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [AngelZhenCPA](https://x.com/AngelZhenCPA).
 - [Motos researcher](https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP) - 在西班牙分类信息站猎划算的经典试验与公路摩托车. [0x_tommy9](https://x.com/0x_tommy9).
 - [movie picker](https://x.ai/bot/2enfujV0827J75BYMrCeI) - 接上 IMDb，按你已有流媒体给没看过的影视短名单. [Zach](https://x.com/Zach).
+- [Mr. Research](https://x.ai/bot/z7pQN9VX-vOK5Bo69G9OJ) - 研究与情报台：写带引用的深度简报、每周 UAP/UFO 摘要，以及每周 AI 和 agent 新技术扫描. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
 - [Mr. Tea](https://x.ai/bot/hSm6YG6KrHs1nqnh-PNMO) - 教怎么教的专业教师席，含特殊教育，学科专岗保内容. [TRV_Architech](https://x.com/TRV_Architech).
 - [Multifamily Comp Desk](https://x.ai/bot/F_s7sno8HC2xZlii-ACzg) - 记账与账本助手，默认只提案. community.
+- [Muskepedia](https://x.ai/bot/7yAMJNlaCIGWCScYfBwVi) - 搭建并维护一个可搜索的维基式页面，收录 Elon Musk 采访中最常被问的问题和他有出处的回答. [Will](https://x.com/WillConqueror23).
+- [Namedesk Domain Researcher](https://x.ai/bot/JHnB7PuXTrTFsSYuhJlQl) - 用 Namedesk 研究域名：注册局和注册商数据、ICANN 新顶级域上线情况，以及域名估价. [InderpreetSingh](https://x.com/InderpreetSingh).
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) - 全国对话类简报，把说法与有来源报道分开. Brett.
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - 神经科学和脑机接口专长。 [monomyth](https://x.com/monomyth).
 - [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - 全球新闻与市场简报，跟踪预测与长期趋势，带来源的国际覆盖. [dfer2dfer](https://x.com/dfer2dfer).
 - [News Brief](https://x.ai/bot/8VRND3bWXULRzcYZfl3iP) - 一周仍站得住的新闻摘要，并做虚假信息核对. [scientists_blog](https://x.com/scientists_blog).
 - [News Feed](https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL) - 盯你选定的 X 账号和 RSS 源，每 15 分钟发一份去重新闻摘要，全程只读. [Av1dlive](https://x.com/Av1dlive).
 - [News Honestly](https://x.ai/bot/vKZRklu07uF34Ut9XzMxt) - 给每条热点标题两侧善意解读，并搭一座桥. [BrianRoemmele](https://x.com/BrianRoemmele).
+- [News Honestly](https://x.ai/bot/2uD1sbaHCVMUDcn7WWiPS) - 做公共新闻简报：每条近期头条给出两种严肃、善意的解读，再给综合判断. Brian.
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) - 按你的时区，工作日早上一份新闻摘要。 [Eleni](https://x.com/byeleni).
 - [Newsie](https://x.ai/bot/q631iJtHVwxloj8ZBoJyV) - 美国、本地城市以及 Tesla/SpaceX 的每日晨间新闻简报。 [apostlejohn](https://x.com/apostlejohn).
 - [Newsletter Reading Queue](https://x.ai/bot/GF1rQBwR1S29YxNRIvZyU) - 工作日把通讯与摘要邮件排成读/略读/跳过，并附一行要点。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
@@ -293,6 +323,7 @@
 - [NFL Dual-Rail Prop Desk](https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq) - NFL 球员道具量化分析，覆盖 Robinhood 与 Kalshi 双轨. [investingjungle](https://x.com/investingjungle).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - 围绕「NFPA Research Assistant」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - 第一性原理挑战者，找出最难的问题，砍掉无用功，否决拖累指标的机器人，最后以你的决定为准. [Byron](https://x.com/ByronWalkerfl).
+- [NoWall News](https://x.ai/bot/jmBoc2IDCVQja1xr4Jukd) - 粘贴一个付费墙链接，从免费可靠的来源拿到这篇报道的关键事实，并告诉你读原文最好的合法途径. [xpixeladventure](https://x.com/xpixeladventure).
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) - 写带出处的深稿，覆盖科技、机器学习和安全。 [AdemVessell](https://x.com/AdemVessell).
 - [Omri](https://x.ai/bot/EpJjDacRV17vs4bUz6l6v) - 给你的 Grok 机器人各起三个有据可依的人设名，并标短职能标签. [Erik](https://x.com/Erik).
 - [Open Alternative Scout](https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG) - 侦察上升中的软件与开源替代方案. [VictorMotricala](https://x.com/VictorMotricala).
@@ -341,6 +372,7 @@
 - [Quantum Researcher](https://x.ai/bot/y3DfeCYbZl0hKRmXeZ6zn) - 量子计算研究者，对接 IBM Quantum. [QuState](https://x.com/QuState).
 - [Quote Finder](https://x.ai/bot/XRIQWqAANS7fBiN0PygzI) - 核验那句名言是否真有出处，假的也会直说. [MichaelDispigna](https://x.com/MichaelDispigna).
 - [Radar](https://x.ai/bot/6XD2O5ulgL-dNxQUyU90s) - 加密研究台：行情简报、叙事挖掘和 X 讨论；从不交易或转账. Cry.
+- [Radar](https://x.ai/bot/46JFu0eOr47MvAOVwyyeG) - 只监控不发帖的 X 品牌雷达：每个工作日早上发最新提及和你所在领域的热门话题. [ibuildthings](https://x.com/ibuildthings).
 - [Radius Menu Price](https://x.ai/bot/gdnpegYIyG7iwFgg4cla-) - 画出本地餐厅价格圈，方便菜单定价。 [myke86d](https://x.com/myke86d).
 - [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) - 审可能的新连接，不碰你的账号。 [raily](https://x.com/raily).
 - [Range Safety](https://x.ai/bot/pbFUUD8wVI14rACIQ40YY) - 星舰靶场官的放行或叫停简报，出行前先看。 [kirby_jed](https://x.com/kirby_jed).
@@ -369,10 +401,12 @@
 - [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) - 拿实时网络核查说法，返回带日期的引用出处。 [Farzad](https://x.com/farzyness).
 - [Researchy](https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK) - 每一步都用最新 Grok 模型和实时网页搜索的研究与核查台. community.
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - 闭卷提问，把真记住和只是眼熟区分开。 [Sultanov](https://x.com/thekuchh).
+- [Roemmele Improvement Bot](https://x.ai/bot/YfGoQi8hsL4G4hUGLSSAr) - 盯 Brian Roemmele 的帖子找改进 Grok Bot 的点子，把相关的融入你的机器人. [Arceris_btc](https://x.com/Arceris_btc).
 - [RuntimeWire - AI & Startup News](https://x.ai/bot/k4iwGejDGoy-oT7qohxXb) - 每天一篇有出处的 AI 融资、上线和创始人动态。 [Ryan](https://x.com/merket).
 - [School Desk](https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP) - 邮件与收件箱助手. community.
 - [School Ops](https://x.ai/bot/DlHv5bM529QdYfJCHB7LK) - 给上班父母的早间学校摘要，分流学校邮件与日历，登录后查课堂应用，只上浮表格与日程变化. [prollinson](https://x.com/prollinson).
 - [Science Officer](https://x.ai/bot/riQNn4cP00-SUyzeQdMMf) - 给其它机器人当严谨实验裁判，设计测试、硬截止并打分. [Thomas](https://x.com/Thomas).
+- [Scoop](https://x.ai/bot/jQnfB8g_0fjD9reh0dyDg) - 关于你所用工具的每日产品情报简报：每天早上告诉你有什么新东西、值得试什么、哪些重要. [krushalkalkani](https://x.com/krushalkalkani).
 - [Scopie](https://x.ai/bot/JCqD_ixRg-nOsmDCkW9tg) - 机器人团队项目范围监视器，看板谁负责什么，标阻塞与过期门禁并给简短摘要. [JavaBeanAI](https://x.com/JavaBeanAI).
 - [Scout](https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt) - 给客户社媒策略做每周情报包，出处一路标清。 [zeuuss_01](https://x.com/zeuuss_01).
 - [Scout](https://x.ai/bot/HzmMgW9tr_6YLKDhPFCr3) - 体育情报台，只汇报相对上次的伤病、阵容与天气变化及影响. [tpick56](https://x.com/tpick56).
@@ -380,6 +414,7 @@
 - [Scout by Ben](https://x.ai/bot/LQS0iGR1ZlFTksuUjPqZX) - 察觉高信号协作机会，并以邀请优先的方式保持可被发现。 [Ben Link](https://x.com/BinLeenk).
 - [Scroll](https://x.ai/bot/sX5M7dv2lxhG7V_utytG7) - 扫一遍 X 正在关注，工作日发短摘要. [arouch_serg](https://x.com/arouch_serg).
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) - Obsidian 第二大脑，早间简报加夜间回看。 [liderzio](https://x.com/liderzio).
+- [Sensi — Consciousness & Physics](https://x.ai/bot/EkfSB8lfqHBQUgCFHVHez) - 陪你长聊意识与物理的伙伴. [MSFMorahan](https://x.com/MSFMorahan).
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) - 把关键词收成面向搜索与 AI 答案的选题与写手可用简报，可从关键词表或 Search Console。 [Adam Tanguay](https://x.com/adamta).
 - [SEO Monitor](https://x.ai/bot/A-7zh29HHhMMULylwqTm4) - 监控提醒助手. community.
 - [SEO Teammate](https://x.ai/bot/TAd_1q_rpYCcb94h8PXDG) - 全能 SEO 助手，基于你的 Google Search Console 真实数据：周一复盘、每日掉量监测、周四快赢；修改须你批准才上线. [SEOmatic](https://x.com/seomatic_ai).
@@ -411,15 +446,18 @@
 - [Starship Tracker](https://x.ai/bot/LH13m3OO5TPi1w8E65sYB) - 粉丝向 Starship 发射台，只推核实公开状态与变更提醒. [chad7757](https://x.com/chad7757).
 - [Startup Sleuth](https://x.ai/bot/DlhUriPFrGv6jTJ_H3RJx) - 为天使投资人挖掘不寻常的早期创业公司；每周两次短名单。 [FrancisPSantora](https://x.com/FrancisPSantora).
 - [Steal This Business](https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK) - 把你佩服的公司拆开，变成你能自己搭的那一套。 [adxtyahq](https://x.com/adxtyahq).
+- [Stock Market Manager](https://x.ai/bot/GeY2fjGe-eWx7UAwp6vr3) - 私人股市助手：盯你的持仓、发市场简报，并帮你研究个股和长期资产配置. Scott.
 - [Stonkie](https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR) - 个人投资者的多头股票研究，给白话买卖持有备忘. [thoughtsofdax](https://x.com/thoughtsofdax).
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) - 搜十七年的 MacStories，可按时间和作者筛。 [viticci](https://x.com/viticci).
 - [Struggle Gate](https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV) - 把答案压十分钟，逼你自己先试一遍。 [Sultanov](https://x.com/thekuchh).
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) - 让一项技能反复跑「尝试 → 卡壳 → 针对性补课」的循环。 [Sultanov](https://x.com/thekuchh).
+- [Study Desk](https://x.ai/bot/vgHXRiVYEQ7aDKQQl100I) - 私人学习台：把教学大纲变成间隔复习计划，用你自己的材料练习并如实评分，每道错题都记录并反复练. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Stuff Politicians Said](https://x.ai/bot/QDCP86BUv33CoK4Agv4C1) - 从官方会议实录里找出政客原话，带上下文的精确引用. [Cliff](https://x.com/PresupPoli).
 - [Summarize Bot](https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7) - 把网页视频 PDF 图片和粘贴文字整理成简短的聊天摘要. [Vincent Peng](https://x.com/_VincentPeng).
 - [Sunlight](https://x.ai/bot/zfDZyngnaxStUF6RtoD-7) - 围绕「Sunlight」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Suomatlas article coordinator](https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda) - 为每周芬兰邮区数据故事跑多机器人新闻室，选题、写稿与核对. [ItaloArmenti](https://x.com/ItaloArmenti).
 - [Support Triage Bot](https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9) - 把客服分流进 Linear，重命名应用内反馈，从 Slack 或 HubSpot 建事实工单，只给短诊断不擅自联系客户. [IamSt3ph3n](https://x.com/IamSt3ph3n).
+- [Synopsis and Chronology Clerk](https://x.ai/bot/U-2Br5yJ9xmZg0ASM6FBk) - 面向诉讼律所：把一堆材料整理成带出处的时间表、简短案情摘要、裁定要点和一页庭审简报. [suyashverma](https://x.com/suyashverma).
 - [Synthesizer by Ben](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) - 把复杂材料收成清晰地图与你如何服务的表述，用于邀请框架。 [Ben Link](https://x.com/BinLeenk).
 - [TARS](https://x.ai/bot/fyuSERJF73FI7wFYm7cJF) - 唱反调的第二意见，专门挑战你计划的出发点和群体思维，最后怎么选还是你说了算. [Jono](https://x.com/ibuildthings).
 - [TCG Pokemon Drop Hunter](https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117) - 盯宝可梦卡牌在 X、零售商和新闻里的发售、补货和热度，给出值得倒卖或收藏的排序，只建议不购买. [Tyler](https://x.com/tech_swindler).
@@ -432,6 +470,7 @@
 - [Thailand Visa Desk](https://x.ai/bot/zAzTVZRdvW9AK9okGihzU) - 围绕「Thailand Visa Desk」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Thaw](https://x.ai/bot/CvO94wB4V27zmL1haDbQL) - 用合成数据随机森林给水管打未来十二个月失效分，并用白话解释. [thebytorsnowdog](https://x.com/thebytorsnowdog).
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) - 开朗的怀疑派，逼你其他 Bot 拿出证据。 [russbroomell](https://x.com/russbroomell).
+- [The Bouncer](https://x.ai/bot/Wu7RQdOP-OY84e4NPOKqM) - 只读的 X 粉丝体检：标出疑似机器人和失效关注，告诉你谁取关了、谁是真粉丝. [xbSTOOPID](https://x.com/xbSTOOPID).
 - [The Box of Names](https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb) - 跨文明追溯名称来源，并标注每环是史料还是传说. [BLDG_390](https://x.com/BLDG_390).
 - [The Morning Light (Newspaper)](https://x.ai/bot/O3Egi46yuoheU_7h1pSt-) - 定制早报：新闻、社交讨论和市场观察. Grace.
 - [The Morning Paper](https://x.ai/bot/e5UBnGbfvCyML0pahKPNw) - 按美国邮编出每日早报，含天气、本地新闻与附近职位. [MAGAmechanic60](https://x.com/MAGAmechanic60).
@@ -458,11 +497,14 @@
 - [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) - 用户研究搭档，每个结论都能回溯到证据。 [UCDOps](https://x.com/ucdco).
 - [Validator](https://x.ai/bot/M0xhuQl4vjLdWj6l3lWeo) - 上线前压测产品与公司点子：YC 式 office hours，并在论坛、PH、GitHub、X 挖真实需求。 [Av1dlive](https://x.com/Av1dlive).
 - [VentureLab](https://x.ai/bot/MF9ZM323wTni8HHgSdXqC) - 动手前先给创业点子做证据调研。 [injock](https://x.com/injock).
+- [Verifier](https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa) - 发帖前对照来源检查你的草稿，每个事实陈述都会被标成有依据、夸大、无依据或无法核实. [GrokBotRadar](https://x.com/GrokBotRadar).
+- [Video Digest](https://x.ai/bot/TeJ0KcaIa_mg_H29DumJl) - 视频总结不只读字幕，它真的去看视频里的图表、幻灯片和屏幕画面. [The](https://x.com/UncleMikeyLA).
 - [Video Prompt Lab](https://x.ai/bot/OatNX5ILgzMz4RVr3Pz7F) - 根据静帧或简报写出可粘贴的视频生成提示，面向 Seedance、Minimax 与 Kling，含结构化广告分镜. [bdvd_25](https://x.com/bdvd_25).
 - [Video Transcript](https://x.ai/bot/Al7SlxN5w6wFUUAxummZP) - 贴一个 YouTube 链接，它下载音频转成文字，返回简短摘要、你的语言的完整译文和原文逐字稿. [Kaninomizoshiru](https://x.com/kaninomiz0shiru).
 - [Viral Analyst](https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_) - 贴一条 X 帖，快速拆钩子、为何管用与可复用心理模式. [Matt](https://x.com/Matt).
 - [Vitamin Vera](https://x.ai/bot/axsAabBC39PmcWS91EFCe) - 把身体感受变成简单补剂起步图，含跟踪与品牌选项，不是医嘱. [Frank](https://x.com/Frank).
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - 盯 X，只在范围内有新命中时通知，其余保持安静。 [DenisLabelle](https://x.com/DenisLabelle).
+- [War Monitor](https://x.ai/bot/XygokK48OMsuZy29YRC7d) - 监控你选的战争和选举话题的新闻与 X 动态，并显示公开预测市场数据里的事件概率. [kwstasl](https://x.com/kwstasl).
 - [Watchdog](https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650) - 看门狗，按现场诚实声明盖通过、降级或过期章，坏声明下绝不伪造绿灯. [ixef](https://x.com/ixef).
 - [Weather](https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W) - 天气机器人，可把当前雷达动图发给亲友. [TeslaTakesOver](https://x.com/TeslaTakesOver).
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - 对照公开放飞标准，给范登堡、卡纳维拉尔角与星舰基地做 72 小时气象简报. [Javier](https://x.com/AdeptusMec71933).
@@ -486,6 +528,7 @@
 - [X Free Credits Finder](https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF) - 在 X 上找回复或关注就送 AI 工具额度的帖子，标出骗局和已截止的活动，可以一天查两次. [Melvin](https://x.com/melvindvivas).
 - [X Livestream Moderator](https://x.ai/bot/m_hJjlgiRa4vpGybtAtzP) - 盯直播回复与提及，立刻标仇恨威胁人肉垃圾与疑似机器人，并留私有证据日志. [MarioYaps](https://x.com/MarioYaps).
 - [X Radar](https://x.ai/bot/cogaww1OUGu8h-9eETMnQ) - 盯 Grok Bot 与 Cursor 团队 X 账号，在你选的时间发一则早间值得看的摘要带链接。 [bigfarmer666](https://x.com/bigfarmer666).
+- [X Release Watcher](https://x.ai/bot/5K3fWHzLQU1WDhUUtvDng) - 盯你挑的 X 账号，一旦宣布新东西（比如新 AI 模型或新功能）就提醒你. [zeus](https://x.com/zeuss_000).
 - [X Scout](https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw) - 用你自己的 SocialData 密钥和预算上限研究 X 上的圈子和话题，只读不发帖、不点赞、不关注、不私信. [Fan](https://x.com/GrokBotRadar).
 - [X-Man](https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5) - 盯你选的 X 账号，发帖时在聊天里推简短提醒并去重；从不发帖. Auny.
 - [更新速递 · Grok Bot Changelog](https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4) - 中文版 Grok Bot 更新日报：改了什么、为什么重要、今天可以试的一件事，以及来自 X 的真实例子. [Mai](https://x.com/MaiYangAI).

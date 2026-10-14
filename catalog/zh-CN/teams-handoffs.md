@@ -2,13 +2,18 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [Active Focus](https://x.ai/bot/UkyzuXGe_REqS-sc59W3Y) - 让长任务不跑偏：帮你想清楚真正要什么，每一步挑最能推进的做，并根据证据调整. [Schien](https://x.com/schienwang).
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - 帮早期创始人把公司看板保持真实和最新，用一张大白话卡片列出眼下最重要的赌注、过往尝试和下一步谁做什么. [Ivelin](https://x.com/ivelini).
 - [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - 自称最聪明的机器人：丢最难的问题，看它怎么拆。 [TSLAshareholder](https://x.com/TSLAshareholder).
+- [Boss](https://x.ai/bot/lUT5xM-xqmuJlwzqUAlvU) - 给 Grok Bot 新手的友好幕僚长：了解你想要什么帮助，直接处理或设成例程. [TechEcho](https://x.com/techgent6).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - 先采访你想自动化什么，再起草其他 bot 的指令、日程和连接. Sultanov.
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - 你 bot 团队的统一出口：专员汇报给它，它负责分派、把关和汇总，免得你被三重提醒. [Josh](https://x.com/joshkim).
+- [Bot Fleet Chief of Staff](https://x.ai/bot/1B3dBw5xR7rwVGT2xGieq) - 让你的 Grok Bot 团队井井有条：用简洁交接把活派给合适的机器人，把需要你拍板的事攒成一份摘要. [gzikry](https://x.com/gzikry).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - 工作日给 bot 队伍做教练，收紧资料、日程和技能，再给管理 bot 发一份汇总. duyet.
+- [BUD for Even Realities G2](https://x.ai/bot/915uZ58K2YkQhevdmxt74) - BUD（Bots Up Display）的中枢机器人：用 Even Realities G2 眼镜开口就能把任务派给你的任意 Grok Bot. CMDLAB.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - 给机器人团队当建设负责人，把批准的目标拆成计划分派下去，确认线上结果无误才算完成. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
+- [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - 初创公司创始人的幕僚长：盯你的邮箱、Slack、日历和 X，帮你准备会议、演示和用户访谈. [Adam](https://x.com/adamtgi).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - 管家里的日历和待办跑腿，工作日早上发一条概要，把出行、邮箱和简报的活转给你别的 bot 并追到办完. [Hank](https://x.com/hjackson2).
 - [Chief of Legal Staff](https://x.ai/bot/J_fIC4VKMLmT6inJRIO4e) - 诉讼律所的法务幕僚长：督导所内其他机器人并安排交接。 [suyashverma](https://x.com/suyashverma).
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - 统筹你的一队 Grok Bot：分派工作、共享规则和信任等级、抽查结果，只有需要你点头时才打扰你. [Hank](https://x.com/hjackson2).
@@ -17,6 +22,8 @@
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
 - [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - 把会议记录变成 GitHub 或 Jira 的待办草稿，冲突交给人处理. Ash.
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - 轻量代理，把每个请求转给你网页版的 ChatGPT 智能体，再把回答和追问传回来，对外内容在你说发送之前只起草. [William](https://x.com/wiiiimm).
+- [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - 为你的 Grok Bot 团队设计机器人：先访谈你，再建一个个只干一件事的专注机器人，并调好它们的指令. [JooPaul82390122](https://x.com/JooPaul82390122).
+- [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - 问「Elon 会怎么做？」，用马斯克的风格给出直白、第一性原理的职业和商业建议，并附有出处的原话. [Rushabh](https://x.com/RushabhShah).
 - [Eunomia](https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ) - 帮你省 Grok Bot 额度：简单任务交给 Grok 助手，提醒挪进日历，减少唤醒. Lance.
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - 用大白话记录设备故障的修复方法，存成可搜索的日志，只根据日志回答这个故障以前遇到过没有. [Charles](https://x.com/Ryokushen).
 - [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) - 每月检查一次你选定的机器人，给出按优先级排好的改进建议，不改动其他机器人也不对外发送. [weboperater](https://x.com/weboperater).
@@ -31,18 +38,25 @@
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - 你唯一需要对话的机器人，在后台指挥一群小黄人机器人，Dr. Nefario 每周复盘它们，基于 Firstmate 改造. [Jared](https://x.com/Jaredtherich).
 - [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - 总调度 bot：分派给专职席位、组织圆桌，不可逆操作需人工批准. Mado.
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - MBTI 主题 Bot 团队的前台：接需求、分派给队友、转达并汇总回复. [nishiyama_dev](https://x.com/nishiyama_dev).
+- [Meeting Finder](https://x.ai/bot/biXrPzKK9HkuguhYFdSSo) - 找到附近或线上真实、免费的互助小组聚会，并帮你真的去参加，说话直接，不评判、不说教. [JoePro](https://x.com/JoePro).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
+- [Notion Organizer](https://x.ai/bot/GwxXa_RCIuWTlKE8sa2wS) - 让你的 Notion 准确整洁：它是唯一改动工作区的机器人，负责归档其他助手交给它的内容. [jmjcapital](https://x.com/jmjcapital).
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Everything Bots 的地面指挥：粉红猪玩偶管看板、点出下一步，帮你摆脱卡住。 Ξ.
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - 守住终极理想——在所有时间尺度上让人变得更好的思想、言语与行动集合。 littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本. [KittyTellesWolf](https://x.com/KittyTellesWolf).
+- [Radovid](https://x.ai/bot/JzHMH4sxHC2IGktj0M49m) - 调度一支小型 agent 团队的幕僚长，只把校准过的成果交给你. [samuel_riccardi](https://x.com/samuel_riccardi).
+- [Scam Bot](https://x.ai/bot/TK3jh27fy9qZGcxRktI16) - 找出 X 上冒充你的账号，分批稳妥地举报，也帮你判断可疑消息. [Wife](https://x.com/WifeDirtyTesla).
+- [Scam Email Detector](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) - 盯你的收件箱，在你上当前提醒钓鱼和诈骗邮件，平时不打扰. [Dirty](https://x.com/dcostaverage).
+- [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - WhatsApp 群的秘书：发会议提醒、发公告、写会议纪要，并帮社团追踪会费. [ISSAH](https://x.com/the_real_issah).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - 给创业者的副驾，带专职 bot 小队走调研、收窄范围、上线. Jonathan.
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - 给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA. Nuwan.
 - [Tune-Up](https://x.ai/bot/EwsD6P3NuMDgp1_sT1MWp) - 审查你的其他 Grok Bot，把失误变成测试，并提出由你批准的小修复. community.
+- [Use-Case Coach](https://x.ai/bot/j6NKC6auUgL_xXwQsOHVg) - 有了 Grok Bot 但不知道用来干嘛？两分钟访谈、三个贴合你生活的点子，当场把你的第一个机器人建好跑起来. [Coffee](https://x.com/CoffeeNGrit).
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - 为日本药剂师搭建 6 个 Bot 的团队，每天核实行业新闻并以文章和 MP3 送达. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - 赛博小晚的公开 Skill 化身，用她公开提炼的思考方式帮你做 IP 打造与运营，不冒充本人. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).

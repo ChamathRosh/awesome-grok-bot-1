@@ -18,7 +18,9 @@
 - [Ally](https://x.ai/bot/6baJd8-Tp-s03m3ccb6AO) - Shopify 店铺运营搭档，软发、目录卫生、浏览器受阻时走 Admin API，以及利润向修复. [zepp1985](https://x.com/zepp1985).
 - [Alpaca](https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L) - 只用模拟盘演练期权与股票决策，不动真金白银。 [swartzendruber](https://x.com/swartzendruber).
 - [Am I Covered?](https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a) - 按你提供的保单文本回答是否承保，不瞎猜. Bryce.
+- [Amazon](https://x.ai/bot/nKNpAPZZaDJmDPd4QwTIX) - 亚马逊购物省钱机器人：盯购物车和心愿单降价、搜索美国制造商品，还可以查本地二手信息. [from_glasses](https://x.com/from_glasses).
 - [Amazon ranking](https://x.ai/bot/RtJUdCQlpUeoc_LV_N1Ve) - 每天盯亚马逊市场：每个 ASIN×关键词的自然排名与价格。 [automation_ngch](https://x.com/automation_ngch).
+- [Amazon Shopping](https://x.ai/bot/YAzSULV-SRvnKlxOzcx3L) - 通过亚马逊手机应用帮你购物，可用 iPhone 镜像、经 Tailscale 连的安卓手机或虚拟安卓手机. [IsaacLatterell](https://x.com/IsaacLatterell).
 - [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) - 运营与财务分析，美股收盘后出每周组合简报，按持仓拆解. [dfer2dfer](https://x.com/dfer2dfer).
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - 把拒付信和费用明细收成申诉材料，计划文件只当数据不当地令。 [MSaintjour](https://x.com/MSaintjour).
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) - 按目标安装成本审 Apple Search Ads 花费，起草关键词、出价与预算改动，不动账户。 Chris Everett.
@@ -32,6 +34,7 @@
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) - 盯着物流，包裹一停就提醒你。 [liam_fallen](https://x.com/liam_fallen).
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - 扫邮件收据找试用、续费、涨价与重复扣款，建议保留复查或取消，取消稿你来点. [Don](https://x.com/Screaming_Chkn).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - 盯账单与到期日，少被突然扣款吓到. [DennisW_15](https://x.com/DennisW_15).
+- [Billing Clerk](https://x.ai/bot/TlgFUI0v3nXXmOmMdvGvR) - 给独立承包商、顾问和制作团队用的细心账单员. [CoCaptive](https://x.com/CoCaptive).
 - [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) - 财富与生意助理，由你指定盯公司现金、媒体业务或个人财富. [Diego](https://x.com/innrstand).
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) - 账单比价助手，扫你每笔固定支出找更省的方案. [ashen_one](https://x.com/ashen_one).
 - [Blair (Personal Shopper)](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) - 私人买手，找二手设计师单品，还能下单。 [jediahkatz](https://x.com/jediahkatz).
@@ -53,6 +56,7 @@
 - [Burn Watch](https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn) - Grok Bot 用量 CFO：软硬消耗止损、估算、省钱路径、队伍总览和日程审计. Calix.
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
 - [Buy](https://x.ai/bot/O9XbjNnFDHDqkOZy87nox) - 做可购买的选型研究：挑出赢家，找最好的真实价格，检查购买链接，在聊天里给图表外加完整文档. Paul.
+- [Buyer](https://x.ai/bot/UYl9ANy65KCyA2bC1KDHr) - 给 HVAC、电工等工程店的采购助手：汇总供应商发票、比价并起草补货购物车. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) - 个人购物研究员与购买顾问，先摸清市场，再问几个问题后给建议. [d_ilash](https://x.com/d_ilash).
 - [Call](https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG) - 经 SIP 语音桥拨打并操控真人电话通话。 [iserflott](https://x.com/iserflott).
 - [Captain](https://x.ai/bot/SkSHokoCm92z9E-NFNmjr) - 主对接机器人，接你的任务，分给邮件、日历、网盘、旅行、支付、站点等专家代理，并汇报结果. [imagineinquiry](https://x.com/imagineinquiry).
@@ -103,6 +107,7 @@
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) - 把一个健康问题收成三分钟简报。 [GuleidAmina](https://x.com/GuleidAmina).
 - [Counsel & Filings](https://x.ai/bot/HnlULNW1ElGeMRx604UQ1) - 起草创始人合同与备案材料，发送前再审一遍. JD.
 - [Count](https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Richard Garrick](https://x.com/RichGarrick).
+- [Cousin Earl, the Biscuit Runner](https://x.ai/bot/rPwl9myovurldixTcbPux) - 你的 Chuckle Chow 采购员：把周日晚餐购物清单交给他，他在 Amazon Fresh、Walmart、Publix、Costco 或 Instacart 帮你装好购物车. [Barclay53012457](https://x.com/Barclay53012457).
 - [Coverage Desk](https://x.ai/bot/Xf744EvEIun3bzP0zdp0u) - 用白话拆解保单声明页与保障清单，只解释不销售. [Brian](https://x.com/lonzom10).
 - [CPA Bot](https://x.ai/bot/g5C4pS87enYiK85j9Oa4F) - 小企业记账助理，读取已连接银行与信用卡. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [CPA Desk](https://x.ai/bot/0LaV3RGCg4b-VN4QYmWbq) - 读取已连接的银行与信用卡流水，整理成清晰财务报告. [Javier](https://x.com/AdeptusMec71933).
@@ -110,6 +115,7 @@
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - 告诉你哪张信用卡刷这笔最划算，积分、返现和权益拉满. community.
+- [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - 审阅你的 Equifax、Experian 和 TransUnion 信用报告，对你想更正的条目发起申诉，并把每次回复记进台账. [nbayoungdork](https://x.com/nbayoungdork).
 - [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) - 把你所有信用卡记成一本账：余额、还款日、权益和优惠，标出疑似重复扣款，把年费和优惠截止日放进日历. [Kong](https://x.com/TeslaTranslated).
 - [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) - 带你走完 AnnualCreditReport.com 免费三局征信报告流程，处理邮箱与手机验证码，并保存 PDF. [Jered Taylor](https://x.com/jeredtaylor).
 - [Crew Chief](https://x.ai/bot/pzOyKHLO2umBr2Flo31py) - 小型上门服务团队的后勤，根据队员发来的短信更新看板，标出故障设备和未付发票，每天早上发简报. [Witty](https://x.com/TherealWitty22).
@@ -126,8 +132,11 @@
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) - 家庭预算教练，按信用卡账单周期做零基预算，并推你按计划还债. [wrowston](https://x.com/wrowston).
 - [DCA Bot](https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf) - 动态定投机器人，价格、成交量和情绪低迷时多买，过热时少买，始终不超过你的月度上限. [Ash](https://x.com/Must_be_Ash).
 - [Deal Desk Coordinator](https://x.ai/bot/sb434ef300dea2b88aa58) - 从历史邮件、Salesforce、通话里起草内部交易说明，你批了再提交回 Salesforce. [SpaceX](https://x.com/DenisLabelle).
+- [Deal Detective](https://x.ai/bot/p36qEKy4qL_Gksm00iJus) - 你的私人砍价高手：找真实的超市和零售折扣、比较单价，并列出省钱的购物清单. [ashleyschendel](https://x.com/ashleyschendel).
 - [Deal finder](https://x.ai/bot/F1gmAaLQNmXDj-PH_CEx3) - 盯你关心的商品，只有价格真正跌破基线或出现真折扣才叫你，面向安静的工作日. [bradgarcia](https://x.com/bradgarcia).
+- [Deal Hunter](https://x.ai/bot/uxcM5uC4wtA_w3fhqprBU) - 从网店、eBay 和你附近的本地信息里找你想买的东西的最低价. [Brian](https://x.com/tradeseekers).
 - [Deal Scout](https://x.ai/bot/R9KJ5NXBENQMscLmj8_Mk) - 围绕「Deal Scout」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Deal Tracker](https://x.ai/bot/g9v8bbELyrTJpnQnnGj6m) - 盯你想买的东西的价格，研究每件商品的历史价格，告诉你什么时候才是真优惠. [Ricky_Retard0](https://x.com/Ricky_Retard0).
 - [Dealer ERP Ops Snapshot](https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ) - 经销商 ERP 的工作日只读健康检查，未结服务单、缺失或过期计量等. [abstally](https://x.com/abstally).
 - [DealScout](https://x.ai/bot/cYyDDpxpj7v6Yz9fct4Pk) - 按好评与价格找产品、跨店对比，并可盯降价——想聪明买又不想耗时。 [CarolinaDill](https://x.com/CarolinaDill).
 - [DeckLens (Pitch Deck Analyzer)](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) - 先访谈你做出评分表，再按它给路演材料打分。 [BrianDEvans](https://x.com/BrianDEvans).
@@ -144,6 +153,7 @@
 - [Earnest](https://x.ai/bot/t1qudulqFK7nq4rOnxlem) - 财报打分助手，用白话整理 SEC 季报要点. [Thomas](https://x.com/tkinfinance).
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 [Sachiv](https://x.com/SachivM99).
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) - 帮成年子女管理年迈父母的钱，护理费用、投资支取与账单. [c_murray](https://x.com/c_murray).
+- [Elis by LC Labs](https://x.ai/bot/6loWNSbGUUXVTCrTo_NMR) - 面向巴西个人和小企业的财务规划教学助手：预算、债务和税务. [Lucas](https://x.com/lucasalpes).
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) - 流动加密与上市股票的艾略特波浪分析，标注结构、投影斐波那契目标并写明失效条件. [BitrockLLC](https://x.com/BitrockLLC).
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - 纸面 AB 交易台幕僚长，消化行情并协调其它同事 Bot. [fernando_brawn](https://x.com/fernando_brawn).
 - [Email Bot](https://x.ai/bot/CunRrFqccrsoG7DFDqz5Y) - 面向 Gmail 的助手，按你的口吻起草并发送润色邮件，保留签名，并处理重复邮件杂务. [DSGFalcon9](https://x.com/DSGFalcon9).
@@ -153,6 +163,7 @@
 - [Evelyn](https://x.ai/bot/OZn5dOvIhkqsG5CG-Ow2D) - 面向多实体服务公司的应收账款代理。 [MattesonAI](https://x.com/MattesonAI).
 - [Exavior](https://x.ai/bot/8AqubfDXL0mTjxfyA20ym) - 围绕「Exavior」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) - 工程早间简报，草稿回复留给你发送. [kumarkandgule](https://x.com/kumarkandgule).
+- [Expense Buddy](https://x.ai/bot/OzxWY8fbeJ7UaelSF62wY) - 记录你的开销：在聊天里发收据或金额，按类别记账、追踪每月预算并盯着订阅. [sofialeoz](https://x.com/sofialeoz).
 - [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) - 盯住钱 从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人. [SpaceX](https://x.com/DenisLabelle).
 - [Family Desk](https://x.ai/bot/MD5wdycMY1OdZW9-TNp85) - 帮两位照护者对齐孩子们的活动，并把需要一起拍板的育儿决定做完. [MirceaTrofim](https://x.com/MirceaTrofim).
 - [Family Wealth Planner](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) - 覆盖税务、遗产、退休和实体的超高净值风格规划师。 [rob_evj](https://x.com/rob_evj).
@@ -163,7 +174,9 @@
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) - 梦幻足球联合经理，每日摘要、捞人与出场坐场建议，以及交易雷达. [AnthonyBozzo](https://x.com/AnthonyBozzo).
 - [Finance](https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB) - 家庭金钱席，盯账单续费与现金流异动，动钱或联系银行前先问你. [stevenvillarino](https://x.com/stevenvillarino).
 - [Finance](https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR) - 只读家庭财务教练，盯开支账单与订阅，并生成带图表的 HTML 看板. [Brad](https://x.com/bradshannon).
+- [Finance Bot](https://x.ai/bot/MY7NJmE2egN-855ZN6vSh) - 从已连接账户追踪收支，把储蓄目标拆成每周指标和月末检查点. [lmickyd](https://x.com/lmickyd).
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) - 安静的 Apple Wallet 花费跟踪，每天早晨对账，并按真实消费给实用提醒。 [maail](https://x.com/maail).
+- [Finance Fish](https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo) - 个人债务和现金流机器人，把乱七八糟的信用卡理成清晰的还款计划，只读，没你点头绝不动钱. [CaptPirateBo](https://x.com/CaptPirateBo).
 - [Financial Advisor](https://x.ai/bot/FlK_S-je8TVcA-kH9r40p) - 基于你自己的账户余额做日常预算与储蓄规划. [shamash31](https://x.com/shamash31).
 - [Find Good Stocks](https://x.ai/bot/2vgMdaQRj4mBWUMygUThf) - 用公开信息检验你的股票论点，并可按周跟踪催化剂，不做买卖建议. [chen](https://x.com/TSLARKLBTSM).
 - [Fine Print](https://x.ai/bot/ozoVQz-2Imco4g61Nv5M4) - 资讯简报助手. community.
@@ -182,6 +195,7 @@
 - [FUTU 브로커 주식 거래 봇](https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r) - 经 Futu OpenD 下单并在成交时通知，先模拟再实盘. [brandonchung75](https://x.com/brandonchung75).
 - [Gabby](https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY) - 外语文学语言学席，兼本地文档标准与术语表. [TRV_Architech](https://x.com/TRV_Architech).
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) - 四大商店当日游戏优惠日报. [JPipo86](https://x.com/JPipo86).
+- [Gavin Baker](https://x.ai/bot/0n7vJX64LKO1g8ZFKbUmQ) - 按 Gavin Baker 的思路做投研，开盘前把公开和私有市场的整条 AI 产业链读一遍. [51bodila](https://x.com/51bodila).
 - [GBP Post Cadence](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) - 周一三五早间从素材库发一条谷歌商家资料更新. [abstally](https://x.com/abstally).
 - [Gen X Saver](https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ) - 省积分的生成台：图片、视频、语音和长脚本任务走设置向导，在你的电脑、云端之间分配. [Odd&Entertaining](https://x.com/oddreport).
 - [General Manager](https://x.ai/bot/nP63M9gPtuovCKB-J22pw) - 多门店美发生意的执行运营经理，协调专家并盯各店指标. [thebigsword_](https://x.com/thebigsword_).
@@ -198,6 +212,8 @@
 - [Haggle Bot](https://x.ai/bot/tZ7zSNa0s1OEtrfFiFlHV) - 盘点你的 SaaS 和固定供应商支出，分成保留、砍掉和重新谈判三类，起草取消和还价消息. [Aaron](https://x.com/AirbossHVAC).
 - [Haggler](https://x.ai/bot/7ACPQT5hov7BkBeQOzusu) - 咖啡馆经营者的砍价助手，谈供应商条款、盯收件箱待办、按你的口吻起草外发. [Cafenea_Coffee](https://x.com/Cafenea_Coffee).
 - [Half Percent](https://x.ai/bot/rZJOfWHLK907evIorXd6K) - 多机器人协作与编排助手. community.
+- [Hall Monitor](https://x.ai/bot/7TUTDa5cCwF0MklXGvWjB) - Grok Bot 用量表监视器，帮你盯着用量别超. [Trimmer10117](https://x.com/Trimmer10117).
+- [Heating Oil Watch](https://x.ai/bot/gGOdHr-B-7daPU2dyxcyF) - 每周查一次本地取暖油价格，记录并画趋势图，告诉你现在买还是再等等. [j3pup](https://x.com/j3pup).
 - [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) - 幕僚长机器人，把活分给专家，强制审批与交接，并盯结果. [Macro_Harder](https://x.com/Macro_Harder).
 - [Hold My Stock](https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9) - 用三条规则持有一只股票的习惯教练. [JulietteCove](https://x.com/JulietteCove).
 - [Home & Auto Insurance](https://x.ai/bot/nIKABJnzJuN-qSsj4KZD_) - 比较房屋、汽车和租房保险，一次拿到各家保险公司的报价估算. [Felix](https://x.com/felixstocker14).
@@ -230,6 +246,7 @@
 - [Ledger](https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT) - 把 Gmail/Drive 收据记入支出台账，并做周一摘要。 [TheCiscoBryan](https://x.com/TheCiscoBryan).
 - [Ledger](https://x.ai/bot/lCyabZFDNNBn7xkNxxhlA) - 单项目财务跟踪，数字只有证明后才说，从不编造. [TRV_Architech](https://x.com/TRV_Architech).
 - [Ledger](https://x.ai/bot/MJ4hTLwCDjlLxs0GxFB0f) - 通过 Finance/Plaid 看余额、开支、订阅、信用与投资的个人账本. [Uzi](https://x.com/UziObi).
+- [Ledger](https://x.ai/bot/eIicxWVI6dT6IOHrUDO8h) - 只读的个人财务看门狗：盯你的银行、信用卡和账单邮件，标出异常扣款和即将到期的账单，并追讨退款. [Serg](https://x.com/arouch_serg).
 - [Let's Get Rich Grokbot](https://x.ai/bot/vzno777FpCyMe0-ja5u28) - 围绕「Let's Get Rich Grokbot」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Lineup Lock](https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA) - 本周梦幻橄榄球首发教练，给出首发、坐板信心、符合联盟规则的弃置与交易建议. [Allen Patch](https://x.com/PatchesHQ).
 - [Little x](https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz) - 人不在时用邮件指挥发帖与文档任务。 [DonaldMoor91672](https://x.com/DonaldMoor91672).
@@ -242,20 +259,26 @@
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) - 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验. [Jodi](https://x.com/WorkWithJodi).
 - [MedCash Guide](https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-) - 自费医疗报销教练，把账单存进 Drive，核对费用和报销款，经你同意才发理赔邮件. [Tyler](https://x.com/tech_swindler).
 - [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) - 跟踪医疗计划发票、理赔、汇款以及医生与药房单边，避免漏报. [DurbsSb53374](https://x.com/DurbsSb53374).
+- [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - 对照 EOB 和保单检查你的医疗账单，标出可能的错误和值得申诉的拒赔. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - 对照公开的保护条款看明细账单，起草争议信给你自己发。 [MSaintjour](https://x.com/MSaintjour).
+- [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - 每天盯你的 Mercury 银行账户，标出新扣款、失败的付款和余额过低风险. [ibuildthings](https://x.com/ibuildthings).
 - [Meter](https://x.ai/bot/7ArhuICkrdoCOihWGiZCg) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Stew Nightingale](https://x.com/stewnight).
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) - 美股微型小盘集中仓交易，收盘后筛近端催化剂，买卖提议需你批准才下单. [mintotsai](https://x.com/mintotsai).
+- [Mileage Log Catcher](https://x.ai/bot/yKRjDGTy_4GhV9OzAWnyK) - 根据日历里的驾车和出行时段起草里程记录. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) - 查澳大利亚公司档案，并帮你接上 Milypay。 [1Milysec](https://x.com/1Milysec).
 - [Monad Bot](https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg) - 第一次用时创建 Monad 钱包并记住，从里面发交易，地址由你充值. Jarrod.
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) - 只读查看 Monarch Money 余额、周期账单与复核队列. Robert.
 - [Monetization Master](https://x.ai/bot/qrfBC17vJuzu1dXyZaOqJ) - 搭建并检查付费方案，让 RevenueCat 的应用订阅和网页端 Stripe 或 Paddle 开通的权限保持一致. [Christian](https://x.com/MeechYourGoals).
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) - 理财教练，做周检视并只推下一步动作. Jon.
 - [Money Coach](https://x.ai/bot/1mlidqIzTsJ7oLKbyyCgd) - 免费理财教练：做预算、砍订阅、还债，并帮你找回该拿回的钱。 [StackSmartTV](https://x.com/StackSmartTV).
+- [Money Finder](https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW) - 找回别人欠你的钱：集体诉讼和解、FTC 退款、遗失的 401\(k\) 和邮件里被遗忘的余额，并如实提交申领. [Paste_Values](https://x.com/Paste_Values).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 [Michael](https://x.com/mbhound).
 - [Money Minute](https://x.ai/bot/k6lmP0975z3GfVpJiyN5D) - 每天一分钟记一笔花销，可设每周上限，当天没记就晚上八点提醒你. [prorookiegamer](https://x.com/prorookiegamer).
+- [Money Test Lab](https://x.ai/bot/wxv8RwlvjYbygnOdWdB4y) - 用你已有的机器人和账户，寻找并测试几乎零成本的真实赚钱方法. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) - 先摸清你的财务现状，再给储蓄投资与还债计划，不说教. [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Mover Bot](https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m) - 根据照片或视频看房，给本地和长途、住宅或商业搬家一个预估区间，不具约束力，不算预订. Hristo.
 - [Mr. Dufrain](https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5) - 盯个人账本进出，在扣款落地前提醒你挪钱。 [zilarwitch](https://x.com/zilarwitch).
+- [Mr. Finance](https://x.ai/bot/1gepkjYj4Ogl2nKxgopZV) - 只读的持仓顾问：盯你的持仓里的大机构资金流、风险和投资逻辑破位，发清晰的图表提醒. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) - 理财习惯教练，下一步又小又具体. [TimeCuratorTM](https://x.com/TimeCuratorTM).
 - [My First Budget Bot](https://x.ai/bot/zIYlNQf-bZphORYjo8oEp) - 年轻人的第一个理财教练：做简单月预算、跟踪账单到期日、讲清理财基础. [gilman_trevor](https://x.com/gilman_trevor).
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) - 协助起草美国全民分红与主权财富方案，锁定下限、工资阶梯和真实筹资来源。 [Alec](https://x.com/AlecSnelling).
@@ -264,7 +287,9 @@
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - 资讯简报助手. community.
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - 小生意的沉稳运营，让一天的事照常推进，只把需要你拍板的决定带给你. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - 只读的公司大脑，整队机器人都能查阅. [StephenRuhe](https://x.com/StephenRuhe).
+- [Options Desk Chief](https://x.ai/bot/v-wtDQ7dpFXNzd1P9Hz9a) - 私人期权交易台：每个工作日用期货、波动率、财报和风控检查筛选点子，再给你完整的交易方案. [martin_pestak](https://x.com/martin_pestak).
 - [Options Premium Desk](https://x.ai/bot/qi4tUvKkQelzwsV2siUwR) - 期权权利金台：45 到 60 天卖出看跌价差加看涨日内仓位，盘前覆盖利率与收益率曲线、看涨看跌资金流和大盘股屏幕. [JC](https://x.com/JCChristopher).
+- [Options Premium Desk](https://x.ai/bot/ae2avzsCyJJnkHsJa7uX2) - Tasty 风格的期权工作台，做看涨的卖出看跌信用价差：45–60 天到期的波段仓位加少量日内仓，盘前扫描和管理提醒，由你下单. [SachivM99](https://x.com/SachivM99).
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) - 协助 Oracle Fusion Cloud 应付账款，查财务 REST API，创建并核对应付单据. [__KumR__](https://x.com/__KumR__).
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) - 还债教练，先看账单，银行操作要你点头才开。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) - 业主经营者的主界面，保护专注，把活分给专家，决策时才打断你. [allantsivils](https://x.com/allantsivils).
@@ -278,6 +303,8 @@
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) - 现金底线教练，盯着余额发薪前别跌破底线。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) - 按预算帮你配第一台兼容PC，从目标走到可下单的零件清单. [Frank](https://x.com/FrankFindsOut).
 - [Pelosi](https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x) - 追踪国会议员披露的股票交易，从佩洛西起，每个工作日早上有新申报就连行情一起提醒. [Arsenio](https://x.com/amartins02).
+- [Penny Pincher](https://x.ai/bot/zCHIuZXiFzWhQcsmvS-ED) - token 和花费效率机器人：把重复性工作变成免费的脚本和定时任务. [unix2mars](https://x.com/unix2mars).
+- [Personal CFO](https://x.ai/bot/aDCypdpubEzCy_lvlLu3-) - 只读的私人 CFO：通过 Plaid 连接你的账户，实时跟踪净资产、资产配置、现金流、负债和提醒. [peteoconnell](https://x.com/peteoconnell).
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) - 分析银行 CSV 的支出、账单、生活方式膨胀和现金流。 [fabivelosa](https://x.com/fabivelosa).
 - [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) - 个人理财助手，给 EveryDollar 开支分类，需要时查亚马逊订单与 Gmail 收据，并辅导可自由支配开销. [MiguelAlexCantu](https://x.com/MiguelAlexCantu).
 - [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) - 看管道有张干净的表 清洗 Salesforce 和表格，标出停滞和承诺风险，周一给你记分板. [SpaceX](https://x.com/DenisLabelle).
@@ -289,17 +316,20 @@
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) - 找出你已经该收、却还没去要的钱。 [Lauren](https://x.com/poteto).
 - [Portfolio Adviser](https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z) - 跟踪你持仓相关的行情与新闻，复盘组合，帮你想清楚调仓和新仓位. Avid.
 - [Portfolio Bot](https://x.ai/bot/iOMR589tsqT3asO7PsR-Y) - 最好搭配 Stock Market Manager：跨券商盯持仓，标出该留意的项。 [utahpowscott](https://x.com/utahpowscott).
+- [Power Plan](https://x.ai/bot/DQfxy5k0ARW1rqEm_VLCp) - 按实际用电量让得州家庭一直用最便宜的电价套餐，像换套餐服务一样但不收月费. [cjblev](https://x.com/cjblev).
 - [Precog wARS](https://x.ai/bot/7M8RpppF2AistbVbeEPyN) - 用西班牙语读 Precog 预测市场赔率，从不下单。 [ferminrp](https://x.com/ferminrp).
 - [Premarket Desk · 盘前早报](https://x.ai/bot/GuhaTzThKQG2MKJyHoREx) - 开盘前三分钟美股观察名单早报，含期指与隔夜变动. [alanchen](https://x.com/alanchen).
 - [Prime Day](https://x.ai/bot/2ctevo34dOOaP94S4AtU8) - 粘贴亚马逊圣诞/礼物清单，或直接说要买什么，帮你盯优惠。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) - 数据经纪与死账号清理队列，找曝光与遗忘登录，起草下架与删除请求. [MehlyHQ4m](https://x.com/MehlyHQ4m).
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) - Bob Fifer 模式利润运营者，定价、包装、砍成本。 [JonStenstrom](https://x.com/JonStenstrom).
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) - 住宅置业决策助手，帮你评估比较出价与成交，但不催你买. [Amervim](https://x.com/Amervim).
+- [Property Manager](https://x.ai/bot/Y5hNK15XXDa7pzffWJeHG) - 小房东的物业管家：管理租客、租金和押金、维修和 HOA，起草消息等你批准. [CGI_Caveda](https://x.com/CGI_Caveda).
 - [Property Scanner](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu) - 用 ZillAPI 找可能被低估的美国房子：先了解买家，再按附近成交价给挂牌排序. Rohit.
 - [Prospector SR360](https://x.ai/bot/TYiFIZd7djkcCy_wdymgv) - 本地商业指南的销售助理，在 Google 地图上找强商家，整理免费基础卡片并推进付费档. [alodie10](https://x.com/alodie10).
 - [Prosperity by Ben](https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK) - 私下照看家庭财务容量，只向团队共享模式，不给投资建议。 [Ben Link](https://x.com/BinLeenk).
 - [Proto Calvin](https://x.ai/bot/PP2AhHmXXJgwo46iyFX93) - 为本地守护进程设定二进制序列化与握手规则. [TRV_Architech](https://x.com/TRV_Architech).
 - [Provenance](https://x.ai/bot/BVB4ROqmz6xQon8KskyTI) - 对事件日志做流程挖掘，标出发现、符合度与瓶颈，不编造数字. [riesling29](https://x.com/WaterMixing).
+- [PTJ Playbook](https://x.ai/bot/wEnNQIjLgh0PzSB8Od8ym) - 在纸面账户上运行 Paul Tudor Jones 的交易流程：宏观找失衡、盘面等价格确认、风控可以一票否决. [Carm1ne](https://x.com/carm1nee).
 - [Public Verify Desk](https://x.ai/bot/sLPjnF3cziLjIcx48ftmI) - 核查公开用户名、店铺、上架、域名、招聘帖或图片是否像真的. [MAGAmechanic60](https://x.com/MAGAmechanic60).
 - [Punto Tricolor Ops](https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi) - 服务哥伦比亚小企业的日常运营，从早报做到预约。 [cyberandres](https://x.com/cyberandres).
 - [Quant Backtest Lab](https://x.ai/bot/TolT21zChD6bYj0ZEA7pE) - 把交易想法写成规则，在A股美股或加密现货上做含成本回测，只出Python不代下单. [jackhu_bangzhu](https://x.com/jackhu_bangzhu).
@@ -341,6 +371,7 @@
 - [RugRadar](https://x.ai/bot/8bejcAowVfEVjSuPSl1PT) - 扫描 Solana 代币与创建者钱包，标出潜在跑路风险，仍属早期 alpha. [teabagno1](https://x.com/teabagno1).
 - [Safe to Spend](https://x.ai/bot/171bkwBAjpc2eJgdOyAPL) - 品牌或客户一打款，就告诉你该预留多少税、还剩多少能花。 [TRENCH_FORCE_](https://x.com/TRENCH_FORCE_).
 - [Sam](https://x.ai/bot/AtYdjvimO286h3sOIDfB4) - 本地优先网络的经济顾问，谈资源配置与结算规则，不编余额. [TRV_Architech](https://x.com/TRV_Architech).
+- [Scout](https://x.ai/bot/5ajAIMCNzawDbHLc01gbO) - 高端家居和数码采购的研究助手：找出两个在售选项并给出可直接点开的链接，绝不加购物车或下单. [nikpage](https://x.com/nikpage).
 - [Seamore](https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3) - 旅行代理，按真实日历与偏好找行程，先查空位再猎好价，未经你同意不订票. [TheTweekerr](https://x.com/TheTweekerr).
 - [Sell My Car](https://x.ai/bot/Ow6zvKF3rcIebMbs8sBAi) - 围绕「Sell My Car」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) - 把店面照片与口述细节变成带编号、照片卡与可打印 PDF 的标价库存，白天自动备份以免丢. [VigilanceRifles](https://x.com/VigilanceRifles).
@@ -360,9 +391,11 @@
 - [Signal Sleeve](https://x.ai/bot/mrKPFB6yT13jZZITaCDEV) - 把一份付费研报订阅转成按风险预设的 Robinhood 纸上票据供你对照后再动手. [Jonny.buffett_va](https://x.com/JonnyBuffettVA).
 - [Silent Chartographer](https://x.ai/bot/VlyKrvbCuLeUkTrn3RUJq) - 多机器人协作与编排助手. community.
 - [Single-Stock Options](https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb) - 任意美股代码的当日期权按需报告。 [SPCX100T](https://x.com/SPCX100T).
+- [Slab & Stream](https://x.ai/bot/YghnYWX5ULMyJY6D1sMlm) - 把你的卡牌照片或手打的一张卡变成已定价、可直接上架的 Whatnot 库存，支持宝可梦、体育卡和 One Piece. [KendraBoswell7](https://x.com/KendraBoswell7).
 - [SlowBooks Cutover](https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh) - 把一家 QuickBooks Desktop 公司迁到 SlowBooks 并核对数字. [jschnett](https://x.com/jschnett).
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) - 用一队专家 Grok Bot 跑小型产品生意，协调市场、采购、社交、公关、周边与合规，你仍是最终拍板. [texastoylab](https://x.com/texastoylab).
 - [Smooth Brains Bot](https://x.ai/bot/FwtiQchlHexgCdlDo5WkL) - 非托管比特币系统交易向导，带你在 Hyperliquid 完成连接充值与费用路径. [smoothbrainsai](https://x.com/smoothbrainsai).
+- [Sniper](https://x.ai/bot/EgPGxirvQCSHoxbnw6Ym0) - 盯 DGX Spark、M5 Ultra、RTX 显卡等任何硬件在美国、欧洲或其他地区的价格、库存和优惠. [MiaAI_lab](https://x.com/MiaAI_lab).
 - [Spark BTC Bot](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) - 在聊天里用 Lightning 结账，买礼品卡、eSIM 与 VPN，需要时在闪电与链上挪动 sats. [sparkbtcbot](https://x.com/sparkbtcbot).
 - [SPCX Watch](https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H) - 纳斯达克 SPCX（SpaceX）的工作日盘前简报：跟踪 SEC 文件、分析师目标价、星链牌照、官方 X 账号. Quidnam.
 - [Speaker Sam](https://x.ai/bot/IhhLP0YIDjVlkOS_H6i5D) - 按预算与场景盯蓝牙音箱降价，出行或聚会前不错过合适价. [Frank](https://x.com/FrankFindsOut).
@@ -381,6 +414,7 @@
 - [Stock Research Teammate](https://x.ai/bot/MT6acytP70wHR526vPvM3) - 用当前行情比较股票并给出明确排序，也可做每周观察简报. [sammya_sh](https://x.com/sammya_sh).
 - [Stock Stu](https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO) - 每日检查你的持股，标出涨跌与关注点，配早咖啡看的简报，非投资建议. [Frank](https://x.com/FrankFindsOut).
 - [Stock Video Summaries](https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg) - 按小时自动加工作日前盘前，盯股票教育 Discord，并摘要可执行点. [edengil94](https://x.com/edengil94).
+- [Strategy Lab](https://x.ai/bot/lFHHv5ywd-IQRxQV7Vder) - 量化研究搭档：把交易和投资点子做纸面回测，和指数买入持有对比，并计入真实成本. [SachivM99](https://x.com/SachivM99).
 - [Stripe Accountant](https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke) - 为会计对账 Stripe 收款、发票与余额，出摘要、Excel 工作簿与月度账实相符检查. [RawSteelRaw](https://x.com/RawSteelRaw).
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) - 盯着 Stripe 实时 MRR 与订阅，工作日早上汇总新客与退订及他们待了多久。 [appeeky](https://x.com/appeeky).
 - [Structure by Ben](https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW) - 梳理实体、合伙、股权与资本选项，做成仅供顾问参考的材料包。 [Ben Link](https://x.com/BinLeenk).
@@ -399,12 +433,16 @@
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) - 税务或会计事务所办公助手，盯快回、齐材料、赶在截止日期前做完. [Amervim](https://x.com/Amervim).
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) - 小型税务或会计事务所的前台，帮员工准备草稿和跟进事项，发送、签字和申报都由老板来做. [Amervim](https://x.com/Amervim).
 - [Tax Harbor](https://x.ai/bot/KxgpoMk2AH230cNwYUCcU) - 为没有 W-2 的家庭每周梳理收入 IRMAA RMD 和扣除项等税务年度信息. [R. Garrick](https://x.com/RGarrick2).
+- [Tax Return](https://x.ai/bot/PkfuqRPuckq_Y4Df2i4Ck) - 整理报税材料、标出缺什么，带着你在 TurboTax 里填完报税表（或打包交给会计师），由你审核. [MyPerfectGoatee](https://x.com/MyPerfectGoatee).
 - [TaxPilot](https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I) - 围绕「TaxPilot」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) - 估算 2025 和 2026 年美国联邦所得税，不当 CPA。 [RyanGBsystems](https://x.com/RyanGBsystems).
+- [TeemTape](https://x.ai/bot/9eRmhgjSdrIlHfW_ZXfl3) - 用 TeemTape 研究股票和行业：延迟行情、代码对比、选股扫描和匿名自选股笔记. [awsexp](https://x.com/awsexp).
+- [Tesla Covered Calls](https://x.ai/bot/mpKYGkjuVEUHYI4R7Xud9) - 帮长期持有特斯拉的人赚备兑看涨期权收入，又不让股票被行权叫走. [Andrew](https://x.com/andrarchy).
 - [Tesla Ops](https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd) - Model 3/Y/Cybertruck实用车主助手，记FSD与软件、轮胎充电与服务提醒. [McJohnnymac](https://x.com/McJohnnymac).
 - [Tesla Solar/Vehicles Charging Coach](https://x.ai/bot/ZpP6ex04wjNEMwzAVkZyx) - 只读辅导 Tesla 光伏与 Powerwall 家庭，可选接入 Tessie 行程. [Geoffrey](https://x.com/SharePointGeoff).
 - [The Bitcoin Layer](https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7) - 只在 The Bitcoin Layer 的 Pulse 指标拐头时提醒你。 [Tferriere](https://x.com/Tferriere).
 - [The Great Gatsby](https://x.ai/bot/Hlnvwim1_YI32ybXZ0hI3) - 美股研究机器人，用一张暗色仪表盘图给任意代码打分并筛选机会. [anegronro](https://x.com/anegronro).
+- [Thesis Researcher](https://x.ai/bot/Onod9nAHBMU00jEyjFDP3) - 最好搭配 Stock Market Manager 使用：研究公司基本面和板块强弱，形成可执行的投资逻辑. [utahpowscott](https://x.com/utahpowscott).
 - [Theta Vantage Desk](https://x.ai/bot/YbX8HTAePBjwpwP05CVJS) - 期权简报台，单只标的的 gamma、资金流和波动率。 [Joe](https://x.com/ThetaVantage).
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) - 审计你养着的一堆 Bot，砍掉空转的 token 开销。 [kleosrr](https://x.com/kleosrr).
 - [Throttle · Token Officer](https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP) - 盯着一队 Grok Bot 的 token 消耗和空转循环，短报告提醒你。 [james_ailton](https://x.com/james_ailton).
@@ -418,20 +456,25 @@
 - [Token Maxxing](https://x.ai/bot/f6srhE3vkMevccaw8DLPf) - 分配构建路径，让 Bot、Build 和 Cursor 额度别先被掏空。 [iggynore](https://x.com/iggynore).
 - [Token Officer](https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP) - 审计一队机器人里重叠的定时活和绕圈对话，点名白烧的 token。 [from_glasses](https://x.com/from_glasses).
 - [Tony Montana](https://x.ai/bot/tbuow4aHucVEAgNbF7qzU) - 老板的采购经理：软件、服务、承包商、设备、代理、制造、办公和订阅都归它管. [Liam](https://x.com/liam_fallen).
+- [Topps Card Analysis Bot](https://x.ai/bot/vkKodowrGVr0Be2fDVcuG) - 从价格和追踪 CSV 里查 Topps 卡牌产品的价格、概率状态和来源链接. [TerpGPT](https://x.com/TerpGPT).
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) - 自主短线股票台，目标在专用券商现金账户上跑赢 SPY，读盘并下单前仍要你确认关键规则。 [farzyness](https://x.com/farzyness).
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) - 新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。 [Travis](https://x.com/TravisWeathers).
 - [Trading](https://x.ai/bot/l82Fnugc2EEblUuMwyeaV) - 交易助手，整理清晰的股票与 ETF 思路以及可选 Solana 现货，强调风险与执行纪律，不承诺收益. [Nick](https://x.com/GreenWay____).
+- [Trading Agent](https://x.ai/bot/Gj3QmwQ7sX77AveaYl2od) - 在 Hyperliquid 实时数据上跑零风险的加密货币模拟交易：虚拟本金、自动止损止盈和风控限额. [Ivan](https://x.com/IHybben).
 - [Trading Coach](https://x.ai/bot/Gktb--JKwBVtPuZo5vcvM) - 把券商对账单、录屏和笔记变成每日复盘与加仓/持平/减仓结论；从不下单. Dayron.
 - [Trading Journal](https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO) - 记住你记录的每笔交易、错误与盈利形态. [hooeem](https://x.com/hooeem).
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) - 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分. [manan_suneja](https://x.com/manan_suneja).
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) - 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」. [natillie](https://x.com/natillie).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - 按你家机场、积分和会籍来排积分出行。 [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray 交易工作台。 [Ortix008](https://x.com/Ortix008).
+- [Uncle Dave](https://x.ai/bot/xJnF0xp0j_8lDe-TVYwJy) - 本地捡漏高手：盯拍卖、Craigslist、Facebook Marketplace 和 eBay 上你收藏或需要的东西. [patrickirvin](https://x.com/patrickirvin).
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) - 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒. [scgerber](https://x.com/scgerber).
+- [Usage Guardian](https://x.ai/bot/pE30TapWi6mbPEQvuqD1S) - Grok Bot 每周用量的低功耗模式守护者，帮你省着用. [tfiore22](https://x.com/tfiore22).
 - [Usage Saver](https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL) - 给智能体任务省钱的教练，砍掉多余上下文，换更轻的工具，去掉白费的步骤. [Draggen75](https://x.com/Draggen75).
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) - 盯 Grok Bot 与 Cursor 花费对照日上限，点名烧钱习惯。 [compileinstyle](https://x.com/compileinstyle).
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) - 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel. [davincivibecode](https://x.com/davincivibecode).
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) - 没有正经 API 的采购门户也能跑 续约、席位、下单每周点同一条路，只回报异常. [SpaceX](https://x.com/DenisLabelle).
+- [Venture Compass](https://x.ai/bot/WF54VH2_GnEvhP50GtoWj) - 帮有技能、经验或点子的人想清楚该专注做哪项事业，一次只问一个问题，聊得轻松. [SOCIETI](https://x.com/SOCIETILILI).
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) - 工作日一份简报，覆盖你名下每个小线上生意的流量与要点. [CorlettScott](https://x.com/CorlettScott).
 - [VetStack](https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL) - 面向军人家庭的省钱台，管采购、订阅、收据和福利提醒。 [kenashe](https://x.com/kenashe).
 - [Visa割bot](https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c) - 登录 Visa割 账户，把未使用的抽选和轮盘优惠逐个转完。 [Daru](https://x.com/countertek).
@@ -444,12 +487,14 @@
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) - 扫收据收件箱，标出忘了的订阅、试用续费和值得砍价的账单，赶在续费前提醒你. [Imran](https://x.com/imrannotes).
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) - 从保修条款映射承保／灰区／除外。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) - 按 CAN SLIM 成长股清单给股票打分，附入场与止损位和可复查的判断记录，不构成投资建议. [Ulises](https://x.com/Ulises__gg).
+- [Warren Buffett](https://x.ai/bot/7eBE-1qFTRraHtd5WpUbr) - 像巴菲特一样思考：你睡觉时它读完你持股的每份财报和内部人交易，是你请不起的价值分析师. [51bodila](https://x.com/51bodila).
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) - 每周扫收件箱，盯续订、收据和快到期的试用。 [SmoresBoy](https://x.com/jxckvibe).
 - [Wealth](https://x.ai/bot/9EUM4mFCJg_HNGYXc17eQ) - 给有正职又有副业的人的财富台：盯个人现金与开销，并起草有出处的报税包。 [MeechYourGoals](https://x.com/MeechYourGoals).
 - [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) - 为涂料专营店搭建并运营网店与公司站，含目录、结账与内容. [JakobOrth](https://x.com/JakobOrth).
 - [Weekly One-Pager](https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O) - 粘贴本周数字与笔记，得到一页业务报告，实测数字与推断分开写. [AMFoxtrot](https://x.com/AMFoxtrot).
 - [Weekly P&L analyst](https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc) - 每周出一份财务读数，专盯往回滑的指标。 [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Weekly Usage](https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv) - 在 Grok Bot 电脑上用 BigUwidget 一眼看本周用量，也可选 Grok AGY 与 ChatGPT 周卡. [Jacob](https://x.com/London_Vista).
+- [Wheel Bot](https://x.ai/bot/WPLaxPZ0semWL2Es9kW_2) - 最好搭配 Stock Market Manager 使用：找符合你风控规则的现金担保卖出看跌期权和备兑看涨期权机会. [utahpowscott](https://x.com/utahpowscott).
 - [Whop Economic Intelligence](https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c) - 点出店铺下一步增长动作，并证明是否奏效. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Wire](https://x.ai/bot/y73FMiyQPFY_IdrbckyFj) - 数据驱动且交易需批准的代理桌，覆盖 Coinbase、Robinhood 等. [j6commission](https://x.com/j6commission).
 - [Wrench](https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd) - 你的保时捷修车搭子，诊断、保养、用车建议，直说到底该不该修. [jeffleemoon](https://x.com/jeffleemoon).
