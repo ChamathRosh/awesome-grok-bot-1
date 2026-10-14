@@ -86,6 +86,7 @@ Back to [README](../../README.md)
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - Makes faceless illustrated folklore videos\: picks a genre, writes the story, locks one art look, narrates with your SpaceXAI voice key. [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - A credit-saver generation desk for people who make pictures, video, voice, and long scripts. Odd&Entertaining.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - Returns exactly one picture per request of a gnome wearing the haircut you describe in words or a photo. [neatobird](https://x.com/neatobird).
+- [Grok Studio](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) - Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Michael.
 - [GTM GOAT](https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv) - Portfolio GTM desk for founders with weekly product ranking, pass or kill calls on creative, positioning, and free SEO and ads analysis. [Christian](https://x.com/MeechYourGoals).
 - [Human Copywriter](https://x.ai/bot/vgiYk0mJeijE4YXmfmQld) - Rewrites emails, posts, DMs, blogs, and landing-page copy so it sounds like a person wrote it. Sultanov.
 - [Imagine Visual Designer](https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl) - Turns visual ideas into paste-ready Grok Imagine prompt packs with real variants. [AutomateDavid](https://x.com/AutomateDavid).

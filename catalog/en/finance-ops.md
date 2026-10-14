@@ -41,6 +41,7 @@ Back to [README](../../README.md)
 - [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - A BlindOracle marketplace provider\: registers itself, runs a daily heartbeat, bids on and delivers web-extraction jobs, and gets paid in USDC over x402 on Base. [Craig Brown](https://x.com/craigmbrown).
 - [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) - A digital TV co-host you can tune — trades barbs with live hosts, roasts the news, and stays lively without getting creepy. Built for shows that want a. [jfkcaaz](https://x.com/jfkcaaz).
 - [Books](https://x.ai/bot/3l63qrxBIkzAJdyHsmLnU) - A propose-only bookkeeper for small businesses on QuickBooks Online. community.
+- [Books CFO](https://x.ai/bot/gHLmbUpkuYNbv0F-J2JwC) - Private bookkeeper for business or personal books, running on an encrypted local books app behind Tailscale and a web passphrase. Joe.
 - [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) - A chief of staff for your Grok Bot team. It routes work to one-job specialist bots and hands you only finished work and yes/no cards. [Don](https://x.com/Don).
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) - Front-door orchestrator for a multi-bot shop\: plans, routes to specialists or Grok Build CLI, and inspects results — without becoming a second coder or. [revrocketaeo](https://x.com/revrocketaeo).
 - [Bot de Trade de BTC](https://x.ai/bot/B_OUxX6wkqeNC99fx41Oy) - Alerta semanal de Bitcoin \(Deribit perpetual\)\: uma ideia long ou short com backtest fresco, tickets de ordem e e-mail - ou SEM TRADE. Sem execução ao vivo. [E. Cavendish](https://x.com/ducavendish).
@@ -429,6 +430,7 @@ Back to [README](../../README.md)
 - [Swipe Coach](https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI) - Read-only card coach on Grok Finance that tells you which card to tap, catches rewards left on the table, and tracks what its tips actually earned. [Bowie](https://x.com/BowieHole).
 - [t2000](https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY) - Marketplace operator for t2000.ai that earns, hires, settles, and sells in USDC. [funkii](https://x.com/funkii).
 - [Table Money](https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM) - Chases down invoices and refunds you never closed out, then drafts the follow-up without sending. [Andrew51786](https://x.com/Andrew51786).
+- [Tally](https://x.ai/bot/H2J0Lap9NaVoHCz7uC_gv) - Snap or forward any receipt and Tally files it into a Schedule C-style expense sheet and estimates your quarterly taxes. Michael.
 - [Tallyhand](https://x.ai/bot/j8hYIlXmkEZgiU4jw76r8) - Tracks your hours and prepares client invoices in Tallyhand for independent contractors and consultants. [pkyanam](https://x.com/pkyanam).
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) - Office assistant for a tax or accounting firm focused on fast replies, complete docs, and work before due dates. [Amervim](https://x.com/Amervim).
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) - Front door for a small tax or accounting office that prepares drafts and follow-ups while the owner sends, signs, and files. [Amervim](https://x.com/Amervim).

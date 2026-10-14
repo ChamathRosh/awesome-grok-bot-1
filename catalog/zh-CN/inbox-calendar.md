@@ -26,6 +26,7 @@
 - [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - 每天两次从邮箱、Slack 和会议记录汇总简报：你看到和没看到的、影响你的公司动态、未完成的跟进. [Josh](https://x.com/joshkim).
 - [Invite RSVP Desk](https://x.ai/bot/d6V6qGTZjc2lGt2OIk_C_) - 每个工作日扫描待回复的日历邀请，起草接受、拒绝、暂定或提议新时间的回复，等你确认. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Leak](https://x.ai/bot/L05AlnkleKctIme127f8n) - 从邮件里找出被遗忘的订阅，算出每月花费，并起草经你批准再发的退订消息. [MikelEcheve](https://x.com/MikelEcheve).
+- [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - 从收件箱里翻出所有订阅、账单、续费和截止日期，并起草回复. Michael.
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - 在所有已连接的邮箱里把未加旗标的新闻信、促销、账单通知等垃圾邮件移出收件箱归档. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - 盯 Gmail（或经 Spark 接入的任意邮箱），一天几次发简短摘要，只在真有事要你处理时提醒；未经你同意绝不发信。 Pierce.
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - 开会前 90 秒内备好带出处的参会人、议程和未结事项. [Komil](https://x.com/Limok_igit).

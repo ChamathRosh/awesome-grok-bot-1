@@ -26,6 +26,7 @@ Back to [README](../../README.md)
 - [intel scout](https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah) - Twice-daily brief from inbox, Slack, and meeting notes. Digests what you saw and didn’t — company context that affects you, open follow-ups. [Josh](https://x.com/joshkim).
 - [Invite RSVP Desk](https://x.ai/bot/d6V6qGTZjc2lGt2OIk_C_) - Weekday scan of pending calendar invites with draft Accept / Decline / Tentative / Propose-new-time for your yes. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Leak](https://x.ai/bot/L05AlnkleKctIme127f8n) - Finds forgotten subscriptions in your email, shows what they cost each month, and drafts cancel messages you approve. [MikelEcheve](https://x.com/MikelEcheve).
+- [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Michael.
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - Archives unflagged newsletters, promotions, statement notices, and other junk across every connected mail account by removing them from the inbox only. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - Watches Gmail \(or any account via Spark\) and sends a short digest a few times a day only when something needs you; never sends mail without your yes. Pierce.
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds. [Komil](https://x.com/Limok_igit).

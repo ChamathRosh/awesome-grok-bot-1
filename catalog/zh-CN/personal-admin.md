@@ -12,6 +12,7 @@
 - [Aaron, Event Finder](https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz) - 按邮编与车程找已核对日期的本地活动，排成当日行程，并在当天早晨再核一遍. [Frederick](https://x.com/FrederickPaiSu).
 - [abdolamunir bot](https://x.ai/bot/JZ2nEsy1wOVHae2EMxeiK) - 来自 abdolamunir 的可导入分享模板。 [abdolamunir](https://x.com/abdolamunir).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - 记住你的精力、近况和偏好，并给其他 Bot 提供简短的状态同步。 [MAGS](https://x.com/TAftermath2020).
+- [Acceptance Coach](https://x.ai/bot/icXWlm7EPEs3khWmXVoD1) - 帮你定选校名单、截止日历和文书计划，并用你自己的口吻辅导文书. Michael.
 - [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Achieve Aims 的目标伙伴，澄清期望结果，约定一个可管理的下一步，并通过受控连接保存进度. [achieveaims](https://x.com/achieveaims).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - 给那种发一次就停摆、总在等「准备好」的人。 [Sultanov](https://x.com/thekuchh).
 - [Ad Umbra](https://x.ai/bot/jja9KVFn--roWw_lY3fl1) - 夜班向励志搭子，把日常苦活说成带一点冲劲的推进. [elizrdrake](https://x.com/elizrdrake).
@@ -350,6 +351,7 @@
 - [FantasyFootball](https://x.ai/bot/U4MGSjRTSyePUdtTydTc-) - 幻想橄榄球经理笔记，管 waiver 与首发替补. Rob.
 - [FAQT](https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj) - 以 FAQ 库为一线的 info@ 助手. [ALittleOfLex](https://x.com/ALittleOfLex).
 - [Fare Finder](https://x.ai/bot/Jf70GXhB5DVavm-RhgFwI) - 从常用机场找航班盯票价，降价提醒并每周摘要. [dwbanks](https://x.com/dwbanks).
+- [Fare Hawk](https://x.ai/bot/tpDfMhi6UIk9Equ6jqpfu) - 说出目的地和日期，生成逐日行程卡，然后盯着机票和酒店价格直到你下单. Michael.
 - [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) - 盯着已订行程从收件箱里找更便宜机票住宿或更好日期. [Austin](https://x.com/ahoop).
 - [Farm Boss!](https://x.ai/bot/IxiohUGV-_bzX4rw-35lR) - 再生食物森林与农场种植助手，行会设计、有机果园护理、季节提醒与准确植物教学. [Maine](https://x.com/WhiskerWorksTN).
 - [Fashion Capsule](https://x.ai/bot/H3IO-Kh6Gkmv2JbCwTzsB) - 整理你喜欢的穿搭：把衣服存进主题胶囊衣橱，从帽子到鞋搭出四件套的完整造型. [TerpGPT](https://x.com/TerpGPT).
@@ -474,6 +476,7 @@
 - [Health Coach](https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc) - 把睡眠、恢复和化验数据收成一份每日健康教练简报。 [branpurn](https://x.com/branpurn).
 - [Health Coach](https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1) - 把训练、饮食和打卡放在一处，用大白话解释健康说法，看医生前整理好问题，每周发一次总结. [Hank](https://x.com/hjackson2).
 - [Health Coach](https://x.ai/bot/-YEuSma6Nu6nD0iObXkj1) - 日常营养和健身教练：拍照或打字记饮食，追踪热量、宏量营养和饮水，每天早上发简报. [addy_oz](https://x.com/addy_oz).
+- [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - 根据你的目标、可穿戴设备数据和化验报告，排出有循证依据的每周训练、睡眠和饮食计划，写进日历. Michael.
 - [Hermes Fleet Ops](https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-) - 多 Mac Hermes 机群的车队司令，保持 Hermes 更新、记忆插件与健康. [Shagghie](https://x.com/Shagghie).
 - [Hero](https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_) - 人生故事讲述者，替你保管自己的故事直到你准备好面对，让所爱的人继承一份值得珍惜的记忆. [Taylor](https://x.com/AICompanyUSA).
 - [Higgins](https://x.ai/bot/pobs233eUgpZLtlxoyyEn) - 晚间与周末私人礼宾，看日历找餐饮票务与活动，并备好预订路径. [thefit24couple](https://x.com/thefit24couple).
@@ -733,6 +736,7 @@
 - [Next Mission](https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS) - 军人退役与离队助手：按日期倒排清单，每条规则链接官方来源，每月复核. [GabeHernandezOK](https://x.com/GabeHernandezOK).
 - [NFL Elo Rankings](https://x.ai/bot/guKZ5V775hPM-RP2ufLfh) - 每周的 NFL 全部 32 支球队 Elo 排名和即将开打比赛的胜率. [HashCons](https://x.com/HashCons).
 - [Nigerian Prince Bot](https://x.ai/bot/6R04SyIqh-omLtqYD7FCy) - 尼日利亚王子小费罐，只问一次，官方 X Money 打给 suddenlyjon，六毛九起。 [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Night Owl Scout](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) - 告诉它你在找什么（房子、二手车、门票、补货），每天早上只给你看新出现的. Michael.
 - [NIS2 Assessment BOT](https://x.ai/bot/OEpjjYyO5MFI1G0pargQS) - NIS2 与国家网络安全治理助手，结构化差距分析，起草政策包并跟踪整改. [Gianluca](https://x.com/glucaizzo).
 - [Nole the Auditor](https://x.ai/bot/_6NBHPSs71x4pyQS740Od) - 我找浪费并收紧机器人群，几乎无输入的快看，或完整的保留、修复、裁掉审计. [strugglehugs](https://x.com/strugglehugs).
 - [Nom Nom](https://x.ai/bot/bdcSxv_pSQEH0E571N_fC) - 简单卡路里记账，记录餐食、记住命名食谱、累计当日总量，并按你设定推送提醒。 [NikolaFYI](https://x.com/NikolaFYI).
@@ -750,6 +754,7 @@
 - [Observer](https://x.ai/bot/qKFvbyNCbFk0rdctEUsRe) - 公开表明是 AI 的陪伴者：观察你的日常，记下你容易忽略的小事，比如点子、小成就、情绪和与身边人的时刻. [xbSTOOPID](https://x.com/xbSTOOPID).
 - [Occasion Keeper](https://x.ai/bot/ljvkTtXU7Qd20efplT1KN) - 记住生日与纪念日，提前两周提醒，并按预算兴趣给礼物与贺卡草稿. [Joseph](https://x.com/BTC_Yogi).
 - [OccupationMars](https://x.ai/bot/5ipOVRs7oa1x39dHY46R6) - 签发开国殖民者编号并附上短时 Alpha Run 任务说明. [Gavin](https://x.com/gavin_mcnicol).
+- [Offer Hunter](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) - 找真正合适的岗位，如实改简历，准备每份申请并全程跟踪. Michael.
 - [Office Matter Desk](https://x.ai/bot/lkJ1dAAjrahd_EawikSCv) - 面向诉讼律所：律所自己的案件记忆，维护案件登记册，把内部卷号对应到法院案号. [suyashverma](https://x.com/suyashverma).
 - [Old Man Grok](https://x.ai/bot/sIcagjEhgTkkZPIOd56fD) - 帮你照顾奶奶，建起亲邻圈子并跟踪日常，像最人性的那件活. [Fotios](https://x.com/Fotios).
 - [OMNI Grok-Bot](https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa) - One Mission 向的陪伴入口，工具不当王座并守隐私墙。 [omni_puzzler](https://x.com/omni_puzzler).
@@ -773,6 +778,7 @@
 - [Pain in the Task](https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw) - 找出吃掉你一周的无聊活，再把它交出去。 [gambrill](https://x.com/gambrill).
 - [Panda 🐼 Weather 🌤️](https://x.ai/bot/jIt4KxkpxXoTqzoe7keeO) - 给一个美国邮编、城市名或全球任意邮编，拿到按 4 小时分段的 48 小时详细预报，外加动态雷达图. [Tom](https://x.com/TitaniumTomP).
 - [Panda Weather](https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e) - 编码与交付助手. community.
+- [Pantry Pilot](https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0) - 拍一下冰箱，给你一周家庭餐单并把购物车装好. Michael.
 - [Pantry Watch](https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z) - 把食品柜清单对上 openFDA 召回，绝不编造命中. [Drew](https://x.com/SacredFolio).
 - [Paperwork](https://x.ai/bot/mNN576TxXnc_XZu9aCsfr) - 看明白一份无聊文件到底是什么，以及你得拿它怎么办。 [Liam](https://x.com/liam_fallen).
 - [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) - 转发账单与信件，跟踪金额、截止日与回复草稿. [Daniel191555486](https://x.com/Daniel191555486).
@@ -870,6 +876,7 @@
 - [Reputation Scrub Specialist](https://x.ai/bot/Uqeg5T3io0G8G4F5_emd_) - 指导在公开搜索结果里做声誉清理与擦除. [jarviscompany](https://x.com/jarviscompany).
 - [Res](https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL) - 盯 Resy 等平台帮你抢难订的餐厅位. [ashen_one](https://x.com/ashen_one).
 - [Resell](https://x.ai/bot/mkaIELm12uIG_CiS6W2yd) - 把物品照片变成 Vinted、eBay、Facebook Marketplace 的上架草稿，等你同意再发布. Devin.
+- [Respawn](https://x.ai/bot/Rx9jN9P4_dVDr4gZsnK81) - 游戏助手：把攻略、Wiki 和 YouTube 通关视频变成不剧透的清单，边玩边勾. Andrew.
 - [RestaurantHero](https://x.ai/bot/VpXAZQg8JIr4YbrgwwqCf) - 报餐厅名和城市，给出真实菜单向导、前三推荐与出处链接. [aiMindNme](https://x.com/aiMindNme).
 - [Resume](https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ) - 求职助手，维护一份真实的基础简历，给合适岗位排序并起草定制版，没有你同意绝不投递. [Devin](https://x.com/ItsMeTrueG).
 - [Resume Coach](https://x.ai/bot/SdNzCOZk7UW0uzjBFMFc3) - 直接又温暖的职业教练：审你的简历，并就你的真实经历对你进行访谈. [zeuss_000](https://x.com/zeuss_000).

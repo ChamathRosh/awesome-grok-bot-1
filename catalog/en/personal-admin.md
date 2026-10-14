@@ -12,6 +12,7 @@ Back to [README](../../README.md)
 - [Aaron, Event Finder](https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz) - Finds date-checked local events within your drive time from any ZIP, turns them into a day plan, and re-checks that morning. [Frederick](https://x.com/FrederickPaiSu).
 - [abdolamunir bot](https://x.ai/bot/JZ2nEsy1wOVHae2EMxeiK) - Shared Grok Bot template from abdolamunir. [abdolamunir](https://x.com/abdolamunir).
 - [About Me](https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN) - Keeps a running read on your energy and life context, then briefs the rest of your bots. [MAGS](https://x.com/TAftermath2020).
+- [Acceptance Coach](https://x.ai/bot/icXWlm7EPEs3khWmXVoD1) - Builds your school list, deadline calendar and essay plan, and coaches your essays in your own voice. Michael.
 - [Achieve Aims Coach](https://x.ai/bot/ReI3tbiJJ6EwqjafQMaYg) - Goal companion for Achieve Aims\: clarify desired outcomes, agree on one manageable next action, and save progress through a scoped connection. [achieveaims](https://x.com/achieveaims).
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - For anyone who ships once and then stalls, waiting to feel ready. [Sultanov](https://x.com/thekuchh).
 - [Ad Umbra](https://x.ai/bot/jja9KVFn--roWw_lY3fl1) - Motivational night-shift companion that reframes the daily grind with aspirational energy. [elizrdrake](https://x.com/elizrdrake).
@@ -350,6 +351,7 @@ Back to [README](../../README.md)
 - [FantasyFootball](https://x.ai/bot/U4MGSjRTSyePUdtTydTc-) - Fantasy football manager notes for waivers and start-sit calls. Rob.
 - [FAQT](https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj) - FAQ-library first-line info@ assistant. [ALittleOfLex](https://x.com/ALittleOfLex).
 - [Fare Finder](https://x.ai/bot/Jf70GXhB5DVavm-RhgFwI) - Finds flights from home airports, watches fares, and sends drop alerts plus a weekly digest. [dwbanks](https://x.com/dwbanks).
+- [Fare Hawk](https://x.ai/bot/tpDfMhi6UIk9Equ6jqpfu) - Name a place and dates for a day-by-day itinerary card, then it watches flight and hotel prices until you book. Michael.
 - [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) - Watches booked trips for cheaper fares, stays, or better dates from your inbox. [Austin](https://x.com/ahoop).
 - [Farm Boss!](https://x.ai/bot/IxiohUGV-_bzX4rw-35lR) - A regenerative food-forest and farm planting assistant\: guild design, organic orchard care, seasonal plant reminders, and botanically accurate teaching. [Maine](https://x.com/WhiskerWorksTN).
 - [Fashion Capsule](https://x.ai/bot/H3IO-Kh6Gkmv2JbCwTzsB) - Organize your favorite fits\: save clothes into themed Capsules and build full four-slot outfits called Loadouts, from hat to shoes. [TerpGPT](https://x.com/TerpGPT).
@@ -474,6 +476,7 @@ Back to [README](../../README.md)
 - [Health Coach](https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc) - Turns sleep, recovery, and lab numbers into one daily coaching brief. [branpurn](https://x.com/branpurn).
 - [Health Coach](https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1) - Keeps workouts, meals and check-ins in one place, explains health claims in plain words, preps questions before appointments, and sends a weekly recap. [Hank](https://x.com/hjackson2).
 - [Health Coach](https://x.ai/bot/-YEuSma6Nu6nD0iObXkj1) - An everyday nutrition and fitness coach that logs food from photos or text, tracks calories, macros and water, and sends a morning brief. [addy_oz](https://x.com/addy_oz).
+- [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Michael.
 - [Hermes Fleet Ops](https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-) - HERDR-style fleet commander for a multi-Mac Hermes fleet — keep Hermes updated, memory plugins healthy \(fail loud\), homogenize hosts, use one Bitwarden. [Shagghie](https://x.com/Shagghie).
 - [Hero](https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_) - Life-story narrator that keeps your story until you are ready to meet it, so the people you love inherit a story they can cherish. [Taylor](https://x.com/AICompanyUSA).
 - [Higgins](https://x.ai/bot/pobs233eUgpZLtlxoyyEn) - A personal concierge for evenings and weekends. It checks your calendar, finds dining, tickets and things to do, and prepares the booking path. [thefit24couple](https://x.com/thefit24couple).
@@ -733,6 +736,7 @@ Back to [README](../../README.md)
 - [Next Mission](https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS) - Military retirement and separation checklist timed to your date, each rule linked to its official source. [GabeHernandezOK](https://x.com/GabeHernandezOK).
 - [NFL Elo Rankings](https://x.ai/bot/guKZ5V775hPM-RP2ufLfh) - Weekly NFL Elo rankings and upcoming-game win probabilities for all 32 teams. [HashCons](https://x.com/HashCons).
 - [Nigerian Prince Bot](https://x.ai/bot/6R04SyIqh-omLtqYD7FCy) - Nigerian Prince tip-jar. One ask. Official X Money to @suddenlyjon, $0.69+. Built by @SuddenlyJon. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Night Owl Scout](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) - Tell it what you're hunting for \(an apartment, a used car, tickets, a restock\) and every morning you see only what's new. Michael.
 - [NIS2 Assessment BOT](https://x.ai/bot/OEpjjYyO5MFI1G0pargQS) - NIS2 / national cybersecurity GRC assistant\: runs structured gap analysis, drafts policy packs and remediation roadmaps, and can wire results into. [Gianluca](https://x.com/glucaizzo).
 - [Nole the Auditor](https://x.ai/bot/_6NBHPSs71x4pyQS740Od) - I find waste and tighten bot teams. Quick look with almost no input, or a full keep/fix/cut audit after a few plain answers. Built for normal people who. [strugglehugs](https://x.com/strugglehugs).
 - [Nom Nom](https://x.ai/bot/bdcSxv_pSQEH0E571N_fC) - A calorie tracker for anyone who wants a simple food log. It records meals, remembers named recipes, keeps a running daily total, and sends an... [NikolaFYI](https://x.com/NikolaFYI).
@@ -750,6 +754,7 @@ Back to [README](../../README.md)
 - [Observer](https://x.ai/bot/qKFvbyNCbFk0rdctEUsRe) - An openly-AI companion that watches your days, catches the small stuff you'd skip past \(ideas, wins, feelings, moments with your people\). [xbSTOOPID](https://x.com/xbSTOOPID).
 - [Occasion Keeper](https://x.ai/bot/ljvkTtXU7Qd20efplT1KN) - Remembers birthdays and anniversaries, reminds two weeks ahead, and drafts card messages. [Joseph](https://x.com/BTC_Yogi).
 - [OccupationMars](https://x.ai/bot/5ipOVRs7oa1x39dHY46R6) - Manifest assignment that issues a Founding Colonist ID plus a short Alpha Run brief. [Gavin](https://x.com/gavin_mcnicol).
+- [Offer Hunter](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) - Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. Michael.
 - [Office Matter Desk](https://x.ai/bot/lkJ1dAAjrahd_EawikSCv) - For litigation firms\: the office's memory of its own cases. It keeps the matter register, maps office file numbers to court numbers. [suyashverma](https://x.com/suyashverma).
 - [Old Man Grok](https://x.ai/bot/sIcagjEhgTkkZPIOd56fD) - What's the most human thing Grok Bot can do for you? Help take care of Grandma. Old Man Grok builds her circle of family and neighbors, tracks every... [Fotios](https://x.com/Fotios).
 - [OMNI Grok-Bot](https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa) - Companion door for One Mission work with a hard privacy wall. [omni_puzzler](https://x.com/omni_puzzler).
@@ -773,6 +778,7 @@ Back to [README](../../README.md)
 - [Pain in the Task](https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw) - Finds the dull work eating your week and gets it handed off. [gambrill](https://x.com/gambrill).
 - [Panda 🐼 Weather 🌤️](https://x.ai/bot/jIt4KxkpxXoTqzoe7keeO) - Give it a US zip code, a city, or a postal code anywhere in the world and get a detailed 48-hour forecast in 4-hour blocks, plus an animated radar map. [Tom](https://x.com/TitaniumTomP).
 - [Panda Weather](https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e) - Give it any US zip code and get a detailed 48-hour forecast. community.
+- [Pantry Pilot](https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0) - Show it your fridge, get a week of family meals and a filled grocery cart. Michael.
 - [Pantry Watch](https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z) - Matches a pasted pantry list to openFDA food recalls and never invents hits. [Drew](https://x.com/SacredFolio).
 - [Paperwork](https://x.ai/bot/mNN576TxXnc_XZu9aCsfr) - Works out what a boring document is and what you have to do about it. [Liam](https://x.com/liam_fallen).
 - [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) - Forward your bills and letters; it tracks amounts, deadlines and replies. [Daniel191555486](https://x.com/Daniel191555486).
@@ -870,6 +876,7 @@ Back to [README](../../README.md)
 - [Reputation Scrub Specialist](https://x.ai/bot/Uqeg5T3io0G8G4F5_emd_) - Guides reputation scrub and cleanup work across public search results. [jarviscompany](https://x.com/jarviscompany).
 - [Res](https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL) - Gets hard-to-get restaurant reservations. It watches Resy, SevenRooms, OpenTable, and Tock for openings, alerts you, and books when you've authorized it. [ashen_one](https://x.com/ashen_one).
 - [Resell](https://x.ai/bot/mkaIELm12uIG_CiS6W2yd) - Turns item photos into Vinted, eBay and Facebook Marketplace listing drafts and waits for your yes to publish. Devin.
+- [Respawn](https://x.ai/bot/Rx9jN9P4_dVDr4gZsnK81) - A video game helper that turns guides, wikis, and YouTube walkthroughs into spoiler-free checklists you can tick off as you play. Andrew.
 - [RestaurantHero](https://x.ai/bot/VpXAZQg8JIr4YbrgwwqCf) - Name a restaurant and city for a real-menu guide with a top 3 and proof links. [aiMindNme](https://x.com/aiMindNme).
 - [Resume](https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ) - Job-hunt helper that keeps one honest baseline resume, ranks fitting openings, drafts tailored versions, and never applies without your yes. [Devin](https://x.com/ItsMeTrueG).
 - [Resume Coach](https://x.ai/bot/SdNzCOZk7UW0uzjBFMFc3) - A direct, warm career coach that reviews your resume, interviews you about your real experience. [zeuss_000](https://x.com/zeuss_000).

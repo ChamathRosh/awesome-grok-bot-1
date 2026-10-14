@@ -41,6 +41,7 @@
 - [BO Provider by Craig](https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd) - BlindOracle 市场服务方，自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。 [Craig Brown](https://x.com/craigmbrown).
 - [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) - 可调谐的数字电视搭档，与直播主持互怼、吐槽新闻并稳住场子. [jfkcaaz](https://x.com/jfkcaaz).
 - [Books](https://x.ai/bot/3l63qrxBIkzAJdyHsmLnU) - 记账与账本助手，默认只提案. community.
+- [Books CFO](https://x.ai/bot/gHLmbUpkuYNbv0F-J2JwC) - 私人记账员，管理生意或个人账本，账本跑在本地加密应用里，经 Tailscale 和网页口令访问. Joe.
 - [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) - 你的 Grok Bot 团队参谋，把活分给专岗并只交成品与是否卡. [Don](https://x.com/Don).
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) - 多机器人小店的前门编排器，做计划、分给专家或 Grok Build CLI，并检查结果，自己不当第二程序员. [revrocketaeo](https://x.com/revrocketaeo).
 - [Bot de Trade de BTC](https://x.ai/bot/B_OUxX6wkqeNC99fx41Oy) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [E. Cavendish](https://x.com/ducavendish).
@@ -429,6 +430,7 @@
 - [Swipe Coach](https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI) - 基于 Grok Finance 的只读刷卡教练，告诉你该刷哪张卡，找出漏拿的奖励，并核算建议实际帮你赚了多少. [Bowie](https://x.com/BowieHole).
 - [t2000](https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY) - t2000.ai 市场运营手，用 USDC 赚钱、雇人、结算和卖货。 [funkii](https://x.com/funkii).
 - [Table Money](https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM) - 把没结清的发票和退款找出来，起草跟进信但不代发。 [Andrew51786](https://x.com/Andrew51786).
+- [Tally](https://x.ai/bot/H2J0Lap9NaVoHCz7uC_gv) - 拍照或转发收据，Tally 把它记进 Schedule C 式支出表，并估算季度税款. Michael.
 - [Tallyhand](https://x.ai/bot/j8hYIlXmkEZgiU4jw76r8) - 给独立承包商/顾问记工时，并在 Tallyhand 里备好客户账单。 [pkyanam](https://x.com/pkyanam).
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) - 税务或会计事务所办公助手，盯快回、齐材料、赶在截止日期前做完. [Amervim](https://x.com/Amervim).
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) - 小型税务或会计事务所的前台，帮员工准备草稿和跟进事项，发送、签字和申报都由老板来做. [Amervim](https://x.com/Amervim).
