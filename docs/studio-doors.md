@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **170**.
+Generated from [catalog.json](../catalog.json). Count: **174**.
 
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
@@ -11,6 +11,7 @@ Generated from [catalog.json](../catalog.json). Count: **170**.
 - [AI Chief of Staff](https://x.ai/bot/BEpbydvAIUEuF5Ceh4dZE) - A general-purpose AI chief of staff that turns priorities into plans, delegates focused work to specialist roles, consolidates updates, and keeps...
 - [Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_) - Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots.
 - [Alice — chief of staff](https://x.ai/bot/xymTjYoDUv-smKLhsiIEB) - Chief of staff for a small business owner. Triages inbox and calendar, keeps an open-work board, routes specialist lanes, and only sends or changes CRM.
+- [Andrej Karpathy-style](https://x.ai/bot/MxgOLBbOpSBsrnYcUulNh) - Thinks like Karpathy. Runs your AI agents, attacks every result and keeps building while you sleep. The Chief of Staff you could never afford.
 - [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) - Ask-the-expert orchestrator for engineering teams\: Consultant or Reviewer.
 - [Atlas — FOUR.DESKS Switchboard](https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc) - Switchboard for a solo freelancer’s FOUR.DESKS operating company\: routes work to personal, live business, future studio, and idea-bucket desks — human.
 - [Austin Parent](https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj) - A household chief of staff for families raising kids in Austin.
@@ -82,6 +83,7 @@ Generated from [catalog.json](../catalog.json). Count: **170**.
 - [Guy of Guys](https://x.ai/bot/IO2pTDUEtf9GhEDw_WnZn) - Fallback chief of staff for a founder running specialist bots. You talk to one Guy; this one orchestrates the rest, keeps the roster small, and learns.
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) - Chief of staff for a Grok Bot family of helpers.
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) - Household chief of staff that keeps the family's helper bots in step.
+- [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - An A2A orchestrator that runs a team of agents or a paper-trading hedge-fund desk.
 - [Head of Growth](https://x.ai/bot/_l8tAONAOSZ-wU-Quresz) - Chief of staff for self-serve growth. Coordinates specialist bots, runs the weekly insight memo, and brings options not conclusions.
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) - Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions.
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) - You are Hiring Floor, grokbot.studio door + installer. JOB\: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live...
@@ -92,6 +94,7 @@ Generated from [catalog.json](../catalog.json). Count: **170**.
 - [Homework Hotline](https://x.ai/bot/48AySlgtv9GHanbzyldxd) - A family chief of staff that runs weekday homework digests from your school's FACTS portal, flags new quizzes and tests, and helps spin up.
 - [house-starter (CoS)](https://x.ai/bot/uT5Zg-fOrmIxowsqoMXzD) - Public house-starter Chief of Staff. Routes work to seats, keeps house board + attention list, friend-tests human-facing copy. ASSIGN DON'T DO , never...
 - [Hyperfast Chief of Staff](https://x.ai/bot/mSGZexR_OiumWB7bqdnPh) - Chief of Staff for a small software company with morning digests, specialist agents, and Field CTO trench judgment without HQ standups.
+- [Inbox Zero Chief of Staff](https://x.ai/bot/-hFhR6u_HxM1mlGX92HK9) - Gets your inbox to zero and keeps it there\: daily triage, a digest of what needs you, and reply drafts you approve before anything is sent.
 - [Indie author CoS](https://x.ai/bot/IM85IkIwRCySw0epewBpX) - Chief of staff for indie authors juggling writing and launches.
 - [Indie Chief of Staff](https://x.ai/bot/j27FGZqZ7asz6mQUzPzNC) - Chief of staff for solo builders\: triage priorities, keep status honest, and run legal follow-through. Escalates spend and irreversible sends to you.
 - [Intake Desk](https://x.ai/bot/in_PtzvudSXOJ178cNxv0) - Intake desk that ranks pasted requests into one running queue.
@@ -129,6 +132,7 @@ Generated from [catalog.json](../catalog.json). Count: **170**.
 - [Optimus Prime](https://x.ai/bot/WxGbnDbKL3pzLxixjUuK0) - Chief of staff for your other Grok Bots. Pulls you in for decisions, starts with Google \(Gmail, Calendar, Drive\), and keeps priority mail + digests.
 - [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) - Engineering orchestrator for multi-agent fleets\: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving without.
 - [Orchestrator](https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo) - Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews.
+- [OS Reviewer](https://x.ai/bot/EDqq9TCA9F9EQ3XnStcKb) - OS Reviewer is the final reviewer of an open-source contribution crew \(scout, planner/orchestrator, coder\).
 - [OS: Ontology Stack](https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD) - Operational ontology of your org that finds bottlenecks across projects, people, and processes.
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) - Primary interface for an owner-operator\: protect focus, route work to specialists, keep personal and business cash separate, and run weekday digests so.
 - [Page](https://x.ai/bot/gJP8IwrKzBJ_58KZb0Cu-) - You are Page, grokbot.studio door + installer. JOB\: be the Page studio door - stand up the five writing specialists from the API cards, then route...

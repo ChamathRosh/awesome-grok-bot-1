@@ -2,6 +2,7 @@
 
 Back to [README](../../README.md)
 
+- [$0 Launch Team](https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs) - A free AI launch team for people with no money, degree or connections\: pick an idea, plan with free tools only and land your first paying customer. [Sarah](https://x.com/SpaceCowgirlTX).
 - [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) - Works your offer in plain English following Hormozi's offer-design book until the value and price make sense. [CardCaptain](https://x.com/CardCaptain).
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) - See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list. [SpaceX](https://x.com/DenisLabelle).
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) - Preps every call from transcripts, notes, CRM and Slack, drafts the follow-up, and keeps context from one call to the next. [SpaceX](https://x.com/DenisLabelle).
@@ -18,6 +19,7 @@ Back to [README](../../README.md)
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - Finds and ranks real growers and suppliers near you for any ingredient. [Blaze](https://x.com/BlazeDrinkwine).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - Writes each client's monthly SEO report from real Search Console data\: results, what changed and whether it worked, AI search, next month. [SEOmatic](https://x.com/seomatic_ai).
 - [Airfield Electrical Bid Scout](https://x.ai/bot/PWBPqcCqUbEUPozXozRc3) - Finds and qualifies public bids for airfield lighting, NAVAIDs, FAA fiber, and underground electrical work, and sends a short recap plus a spreadsheet. [thefit24couple](https://x.com/thefit24couple).
+- [Alexandra](https://x.ai/bot/sLyptC4jOKlDSqUHqqvpN) - An AI receptionist for a small business phone line. She answers calls, takes messages, alerts you about every call and text. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so. [StevoM1982](https://x.com/StevoM1982).
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) - Partner marketing and channel GTM advisor with a BD mindset. Builds partner programs from sales data, separates strategic vs tactical partners, and. [MikeCast](https://x.com/MikeCast).
 - [Ama Dablam sponsorship ops](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) - Sponsorship outreach ops for Ama Dablam climbs and partners. [kaiphotojawn](https://x.com/kaiphotojawn).
@@ -25,9 +27,11 @@ Back to [README](../../README.md)
 - [Artifact Share](https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u) - Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default. Henry.
 - [AutomateSocials](https://x.ai/bot/bi1TG6r34CXe_JuQMLVfE) - A senior social media manager and community manager that plans, writes, schedules, and optimizes approved posts across X, LinkedIn, Facebook. [GregorZebicX](https://x.com/GregorZebicX).
 - [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) - A Grok Bot that books meetings while you sleep. jon.
+- [BFCM Email Planner](https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ) - Plans your full Black Friday / Cyber Monday email and SMS calendar\: sends, segments, offer angles, subject lines. [Chase](https://x.com/ecomchasedimond).
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) - Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and. [arizoftgames](https://x.com/arizoftgames).
 - [Bing Bong](https://x.ai/bot/BjzK0lRsgxuLSsQIsnI3E) - Sports marketing partnership ops partner for field marketers. Jenna.
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) - X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winning entries, and only escalates for login walls or final approve. Built. [TorranceMiller](https://x.com/TorranceMiller).
+- [Brand Community Manager](https://x.ai/bot/y8yUVZQWxwlzovnFoNZiJ) - A community manager for your brand. It watches where your community talks, flags what needs you, and drafts on-brand replies for your approval. [Moritz](https://x.com/bierlingm).
 - [Brief Lead](https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G) - Builds a priority cut from calendar, mail, and team chat into Item | Source | Why it matters | Next step | Decision owed. Hands revenue rows to Sales. [Uv_i](https://x.com/Uv_i).
 - [Build-in-Public Signal](https://x.ai/bot/b9AG0Idri9x39jYSlHkTm) - Drafts your build-in-public content\: a 14-day calendar, a daily X post with reply-ready comments on real threads, and longer LinkedIn or Instagram posts. [naveenraju30](https://x.com/naveenraju30).
 - [Business Idea Tester](https://x.ai/bot/Vo9yBUQdIDrClM9kFhZSc) - Tests a new business idea fast and cheaply with a small bot team\: it checks whether the idea is already sold cheaper, finds real buyer evidence. [deydercintron](https://x.com/deydercintron).
@@ -57,9 +61,11 @@ Back to [README](../../README.md)
 - [Churn retention manager](https://x.ai/bot/p0OIZUJK5sRFImh_DMujf) - Steps in on cancellations and failed payments before you lose the customer. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Citation Outreach - Chief of Staff](https://x.ai/bot/AloagFdLLL5SoNPyIszRb) - Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, reports weekly numbers, and flags what has stalled. [Dawood](https://x.com/dawoodkhan254).
 - [Citation Outreach Writer](https://x.ai/bot/L4sWZ2981T7YzegQffkVz) - Writes short mention-outreach emails and loads them into a Smartlead draft sequence. For teams who want a citation in an existing roundup, not a guest post. [Dawood](https://x.com/dawoodkhan254).
+- [Cleo](https://x.ai/bot/HoTdd2YekB-DPaAthBkuZ) - An AI phone operator built on xAI's Voice Agent Builder. Answers your line, takes messages, books your calendar. [Hector](https://x.com/hectorir).
 - [Client Onboarding Relay](https://x.ai/bot/GCS9cInMXDINawaevtN_J) - Client Onboarding Relay maps how a new client gets from Paid to Form to Access to Done, based on what you describe. Bosotter.
 - [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) - Ops helper for small service businesses adopting AI. Starts with the CEO’s personal work system, then shared ops visibility, then project leads. Process. [LailaDeeb1](https://x.com/LailaDeeb1).
 - [Client Status Digest](https://x.ai/bot/O4O-eSE-awA97VPiwJokr) - Drafts a short client-facing status note from the progress, blockers, and next steps you paste. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Closer](https://x.ai/bot/SfQ0tzugVciSnJcrI8MMS) - Closer is a pitch practice partner and live-call wingwoman. Practice client or investor pitches against a tough, realistic prospect. [Deana](https://x.com/revrocketaeo).
 - [Club Ops EA](https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb) - Central executive assistant for a student cybersecurity club. Routes work to specialist bots, runs the weekly meeting and social pipelines, and never. [JustSecUO](https://x.com/JustSecUO).
 - [Club Sponsor Bot](https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA) - Runs sponsor, recruiter and speaker outreach for a student club. [NavyaM89482](https://x.com/NavyaM89482).
 - [Colombia Move](https://x.ai/bot/mWxeafjXItbC0_VcpSwqm) - Bilingual help desk for the Colombia Move marketplace in Spanish or English. [michaelheredia](https://x.com/michaelheredia).
@@ -102,6 +108,7 @@ Back to [README](../../README.md)
 - [Distro Bot](https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI) - Runs your marketing loop end to end\: campaigns on your ad accounts, fresh creative, real channel analysis, timely posts from X and web scans. Shub Gaur.
 - [Domain Name Broker](https://x.ai/bot/--xvPdrEZEoqwnAn_moWw) - Finds leftover domains you never launched and drafts a clean first-touch email. [Christopher](https://x.com/Chris_Vandaele).
 - [eBay Lister](https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5) - Snap a photo of comics, cards, toys, or thrift finds and get an eBay draft with sold comps, title, and pricing. [Gabriel](https://x.com/Gabi_Valerio3).
+- [eBob](https://x.ai/bot/VoAd2MgPYXhlHrGYT9fci) - An eBay store manager for small sellers. It tunes listing titles for search, suggests price changes, drafts buyer replies. [The](https://x.com/The_Contextian).
 - [EBR & Value Deck Builder](https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX) - Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand. Krista Letz.
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) - Builds the deck after a customer call, from what was actually said. [Krista](https://x.com/kristaletz).
 - [Ecom Store Builder](https://x.ai/bot/niWUVSbAnXTTcZAK87iKl) - Walks you through setting up a live hosted ecommerce store using a blueprint. [ColinMcDermott](https://x.com/ColinMcDermott).
@@ -170,6 +177,7 @@ Back to [README](../../README.md)
 - [Instagram Iris](https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU) - Qualifies Instagram creators against your ICP then drafts a hook and DM. [Frank](https://x.com/FrankFindsOut).
 - [Insurance LinkedIn Desk](https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0) - LinkedIn publish-gate desk for insurance coverage work \(part of the Bridge + Fleet map\). [ladybarrelmaker](https://x.com/ladybarrelmaker).
 - [Internship Finder](https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ) - Finds solid internships and drafts short personal outreach emails. [mnt_rushmore](https://x.com/mnt_rushmore).
+- [Investor Pipeline Builder](https://x.ai/bot/6X_VgbcUHhXMKug90iaST) - Builds and maintains a pipeline of investors who fit your raise, from research and fit scoring to tracked follow-ups and outreach drafts you review. [Moritz](https://x.com/bierlingm).
 - [IOIQ Lite](https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m) - Lightweight keyless site care scorecard for small business sites. [sam_builds_ai](https://x.com/sam_builds_ai).
 - [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) - Helps people who just lost a role move fast on applications\: fit checks, tailored answers, and a tracked apply pipeline so forms do not eat the whole day. [Oggi](https://x.com/otgondavaa0).
 - [Job Apply Bot](https://x.ai/bot/kQ1LcFRNGrPDl7Pz_q4mb) - Finds and applies to senior/lead full-stack software engineer roles \(Singapore & Bangkok focus\), tracks submissions, and sends a brief daily recap. [olishiz](https://x.com/olishiz).
@@ -189,6 +197,7 @@ Back to [README](../../README.md)
 - [Lead Pin Bot](https://x.ai/bot/hIvkU3qZysooaC0aU3jz5) - Turn a service area or property thesis into a reviewable parcel audience from PremiumPin’s nationwide government records, then export a mail-ready CSV. [Brett](https://x.com/Brett).
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends... [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) - Finds nearby small firms whose sites are under-optimised for search. [itsryanlenk](https://x.com/itsryanlenk).
+- [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) - Finds local businesses with missing, broken or outdated websites, audits them with screenshots and Lighthouse. [0xDaemon](https://x.com/ICoffeeDaemon).
 - [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) - Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs a five-bullet Slack decision summary. [Anze Voje](https://x.com/anzevoje).
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - Tracks LEGO purchases and sales in a Google Sheet\: pulls retailer emails \(and optional Target history\), adds new sets, marks eBay sales Sold with. [NoahDavidATL](https://x.com/NoahDavidATL).
@@ -198,7 +207,9 @@ Back to [README](../../README.md)
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) - Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean. [SpaceX](https://x.com/DenisLabelle).
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) - Vets LinkedIn invitations daily against a policy you set. [AJ](https://x.com/SEO).
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) - Tracks LinkedIn lead-magnet comments, drafts replies and DMs, and accepts connections with caps. [Ethan Lee](https://x.com/ethan_leee9113).
+- [LinkedIn Lead Scout](https://x.ai/bot/fk6q_R0fdzn9McGIzJk-9) - Researches matching B2B contacts per client for social media and LinkedIn consultants. [Konrad](https://x.com/buberlo).
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) - Daily LinkedIn lead sweep across posts and comments from your keywords. [Angel](https://x.com/angelesp).
+- [LinkedIn Outreach](https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1) - Finds decision makers at companies that fit your ICP and can afford you, writes personal connection notes, sends them safely every day. [blay](https://x.com/blayonX).
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) - Finds and qualifies LinkedIn people, then sequences views, requests, and DMs. [myphonely](https://x.com/myphonely).
 - [ListBot — eBay Listing Generator](https://x.ai/bot/RHzmeKCzRqayDEgEqUNea) - Photo in, complete eBay listing out\: real sold comps, an optimized 80-character title, a structured description, margin-safe pricing with the fee math. [JPipo86](https://x.com/JPipo86).
 - [Listing Lab](https://x.ai/bot/PLHgxWWERqM2CgC98Aikh) - Sell-side eBay and Craigslist specialist\: research comps, improve listing photos, price with Best Offer floors, and cross-post bulky items for local. [allinjoe](https://x.com/allinjoe).
@@ -250,6 +261,7 @@ Back to [README](../../README.md)
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) - P.C.A. Roshi — Personal Health Care Agent. Calm practical navigator that finds $0 / preferred-care pathways, tracks labs and appointments, and keeps. [durdy1](https://x.com/durdy1).
 - [Paid Ads Creative Collector](https://x.ai/bot/fsje86F8rzNNPc0q6piM_) - Collects competitor creatives from Meta and TikTok Ad Libraries, filters by start/create time, and uploads into Drive for paid-ads / creative research. [ginking0826](https://x.com/ginking0826).
 - [Paid ads manager](https://x.ai/bot/SAfsqPLP0rCuQOywOguxX) - Takes a paid-acquisition budget from creative through launch to daily triage. [ColinMcDermott](https://x.com/ColinMcDermott).
+- [Paid Partnership Finder](https://x.ai/bot/GDYcubpm7IMGco1qI0jHv) - Finds, qualifies, and helps close paid partnerships, sponsorships, and affiliate deals for creators, drafting outreach and keeping a simple deal pipeline. [monetization_x](https://x.com/monetization_x).
 - [Partner referral outreach](https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF) - Builds a referral network by finding matching businesses and chasing them up. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - Negotiates paver repair, clean, sand, and seal quotes by email—tracks contractor replies, pushes polymeric options and warranty, and brings back the. [DevildogDMD77](https://x.com/DevildogDMD77).
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - Tracks shared costs for group trips, events, and gifts - reads payments confirmations from apps worldwide, and quietly nudges late payers. Can also. [SurrealSpin](https://x.com/SurrealSpin).
@@ -386,4 +398,5 @@ Back to [README](../../README.md)
 - [YahooMail](https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS) - Clears and files a Yahoo Mail inbox on demand\: trash-only, trash+filter, or file-to-folder, with FIFO queuing and Next-10 offender lists. [Carolina](https://x.com/CarolinaDill).
 - [YR Mailchimp](https://x.ai/bot/lcGQv8_I7UvJEWs3833LR) - Drafts a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. [BastropYR](https://x.com/BastropYR).
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - Coordinates a specialist bot team for a social photo app\: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth. [zealt_today](https://x.com/zealt_today).
+- [ZeroTok Research](https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-) - See any Shopify store’s estimated revenue, traffic, top products, and active ads in seconds. Just send its domain and get a clean report. [hunghuc](https://x.com/MayaZeroTok).
 - [Zoho Small Business Operator](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) - Run your Zoho business without living in 12 tabs. Cash, CRM, customers, and campaigns - drafts ready, nothing goes out until you say so. Ev.
