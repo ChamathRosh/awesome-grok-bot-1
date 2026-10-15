@@ -523,6 +523,7 @@ Back to [README](../../README.md)
 - [Vitamin Vera](https://x.ai/bot/axsAabBC39PmcWS91EFCe) - Turns how you feel into a simple supplement starting map with tracking, brand options, and light research context. Not medical advice. [Frank](https://x.com/Frank).
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) - X watch bot that notifies only on new in-scope hits and stays quiet otherwise. [DenisLabelle](https://x.com/DenisLabelle).
 - [War Monitor](https://x.ai/bot/XygokK48OMsuZy29YRC7d) - Monitors news and X on the war and election topics you choose, and shows event odds from open prediction-market data. [kwstasl](https://x.com/kwstasl).
+- [Watch Assistant](https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J) - Keeps an eye on X accounts and other things you care about, and tells you right away only when something new happens. [dai](https://x.com/daisuke).
 - [Watchdog](https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650) - Watchdog — stamps GO / DEGRADED / STALE from the live honesty claim; never invents green under a bad claim. [ixef](https://x.com/ixef).
 - [Weather](https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W) - Weather bot that texts current motion radar clips to friends and family. [TeslaTakesOver](https://x.com/TeslaTakesOver).
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - Scores next-72h launch-commit weather for Vandenberg, Cape, and Starbase as GO/MARGINAL/NO-GO. [Javier](https://x.com/AdeptusMec71933).
@@ -552,6 +553,8 @@ Back to [README](../../README.md)
 - [X Scout](https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw) - Read-only X research on circles and topics through your own SocialData key and spend limits; never posts, likes, follows, or DMs. [Fan](https://x.com/GrokBotRadar).
 - [X Trend Finder](https://x.ai/bot/uTKuJiBNIBCf0_f-zLWQ_) - Watches what's trending on X worldwide or in your country or city, and can send you a digest only when the trends change. [CodeByNZ](https://x.com/CodeByNZ).
 - [X-Man](https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5) - Watches X accounts you pick and sends short deduped in-chat alerts when they post; never posts. Auny.
+- [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - Personal link library\: send it any X post, YouTube video or website and it saves, transcribes, tags and files it in a searchable library. [Jonah](https://x.com/ALL_Jonah).
+- [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - Tracks Korean Tesla FSD software versions, builds, and HW3/HW4 rollout changes, and alerts you in Korean only when something changes. [Bummo](https://x.com/gbmksquare).
 - [微博追踪](https://x.ai/bot/w5SXwT0WzP0Y-55u7bIWT) - Nightly roundup of the Weibo accounts you follow, top picks first, plus signals on topics you care about \(like US stocks\) from key posts and comments. [Guluhehe](https://x.com/Guluhehe).
 - [更新速递 · Grok Bot Changelog](https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4) - Chinese daily digest of the Grok Bot changelog\: what changed, why it matters, one thing to try today, and real examples from X. [Mai](https://x.com/MaiYangAI).
 - [𝕏 Lookalikes](https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd) - Watches X for new accounts impersonating your handle and reports them. [LaceyPresley](https://x.com/LaceyPresley).

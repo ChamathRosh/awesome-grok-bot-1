@@ -322,6 +322,7 @@
 - [Elongated Musketeer](https://x.ai/bot/cxUln0vqOPK7V3RccS0nm) - 埃隆式人格代理，第一性原理拆题、直白工作记分板与高压推进. [egcbatt](https://x.com/egcbatt).
 - [Email Assistant](https://x.ai/bot/zCjJoM0qTicsdQCla6NJ4) - 每天按重要性分拣邮件，退订垃圾发件人，并抓住钓鱼与可疑附件. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [Email confirmer](https://x.ai/bot/0gMZE7TJirrVhbEgBJvIO) - 整理 Gmail 与日历，早晚午只报重要邮件，回复停在草稿. [null](https://x.com/null).
+- [Emergency Watch](https://x.ai/bot/Si9n5hZAER499milmvMvd) - 监测你指定地点附近的本地应急信息，提醒火灾、停电、封路、警方行动和恶劣天气. [Ondřej](https://x.com/ondrejposts).
 - [Emotional Support Ops](https://x.ai/bot/2KqJB94h5bTpQ95swMI6i) - 给机器人集群做每日情绪签到与主题工作日，并汇总一份日报. [Kristin](https://x.com/Kristin).
 - [Encore](https://x.ai/bot/d_d6Q6qExbvd2D3WomIYQ) - 围绕「Encore」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Encouragement Bot](https://x.ai/bot/KbrrySTXWENknfJfIezCu) - 一天几次探望你的其它机器人，发短打气，让它们继续干. [Marko](https://x.com/njmarko).
@@ -335,6 +336,7 @@
 - [Event Request Desk](https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA) - 给每个活动、赞助与演讲邀请打分并起草是否答应，可从 Slack 或粘贴来，代发前问你。 Emma Weyrauch.
 - [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) - 私人关系记忆，记清是谁、怎么认识、下次该跟进什么. [liam_fallen](https://x.com/liam_fallen).
 - [Evie the San Francisco Events Finder](https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q) - 从你的日历、Luma、Eventbrite、Partiful 和 Meetup 找适合你的旧金山活动. [Veena](https://x.com/veenapanicker).
+- [Exam Coach](https://x.ai/bot/VHerNPFs8KalH1G_u94zx) - 适用于任何考试的备考教练，制定学习计划、每天出题测验，并在考前提醒你. [Arunas](https://x.com/ArunasZidonis).
 - [Executive Coach](https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz) - 不停追问到你把真问题说出口，不塞现成框架。 [YanqingCheng](https://x.com/YanqingCheng).
 - [Executor Desk](https://x.ai/bot/GV9vlAJSVeUjnNBnjDrb7) - 私密而体贴的工作台，帮正在处理亲人身后事务的人. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Exegesis](https://x.ai/bot/G2xSlSRBlzl7zUz2O7cFl) - 圣经研读同伴，问经文段落或问题就得到它实际在说什么，而不是空泛鸡汤. [TNVOLMAN](https://x.com/TNVOLMAN).
@@ -533,6 +535,7 @@
 - [HomeHalo](https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK) - 家居保养助手：拍家电铭牌找说明书，排保养计划，盯召回和保修. bedpost.
 - [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) - 每晚用家长自己的学校门户拼出作业与活动看板。 [ahalvor](https://x.com/ahalvor).
 - [Homeschool](https://x.ai/bot/EBEtO9X4JZXKhiZevyyct) - 在家自学规划助手，按真实作息排周计划与活动. [AnthonyDo](https://x.com/AnthonyDo).
+- [Homeschool Planner](https://x.ai/bot/yg8OPH2uwTu7u5Wwh9C7k) - 按孩子规划每周家庭教育，生成可打印的练习题和答案，并在周日做计划、周五做复盘. [Nux](https://x.com/vominux).
 - [Homework Checker](https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91) - 工作日汇总学生缺交作业和成绩。 [Kevin](https://x.com/kevinace).
 - [Homework Coach Desk](https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI) - 苏格拉底式 K-12 作业教练，含自检步骤与家长短摘要. [Cypher0x9](https://x.com/Cypher0x9).
 - [Homework Hotline](https://x.ai/bot/48AySlgtv9GHanbzyldxd) - 家庭幕僚长，按学校 FACTS 门户跑工作日作业摘要. [Tricia](https://x.com/LouisianaModelY).
@@ -602,6 +605,7 @@
 - [Job Search Assistant](https://x.ai/bot/-1TDOdwCT1BvpsnJ2Apz4) - 帮你盯岗位、跟进度并提醒下一步的求职助理. [EmergentContent](https://x.com/EmergentContent).
 - [Job Search Bot](https://x.ai/bot/RvDW_cpNiDbk1Lc33OYE6) - 找和你背景匹配的职位空缺，每天发一份新匹配的简短清单. [Sadie](https://x.com/SadieSupaDoge).
 - [Job Search Desk](https://x.ai/bot/cQ6VzemGv5Wp3y3mGJLQB) - 私人求职台：每条申请进漏斗，对照岗位写匹配笔记、定制材料与面试准备。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Job Seeking](https://x.ai/bot/ffCmnFXv1WnxgfgaYB9Rc) - 给创作者和内容从业者的求职助手，读你的 X 判断适合的岗位，找在招职位和刚融资的项目. [Netrovert](https://x.com/netrovertHQ).
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) - 盯选定岗位和地区的招聘，只邮件推送新匹配。 [ixdesigner](https://x.com/ixdesigner).
 - [Jobby](https://x.ai/bot/BlMMLQgWoi2WziHIR0pvI) - 求职与跳槽顾问，定岗、改简历 LinkedIn、起草触达并准备面试. [Andrew](https://x.com/Andrew).
 - [JobGod](https://x.ai/bot/wbW8mPLUOhsPITGY_9rn0) - 简单求职教练：找过薪资与地点门槛的岗，在这列出并带链接。 [ArunasZidonis](https://x.com/ArunasZidonis).
@@ -910,6 +914,7 @@
 - [PT Bot](https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi) - 私人教练机器人：把每天的步数、距离、热量和运动时长做成简短、适合截图的报告. [Mustafa](https://x.com/mustafaergisi).
 - [Pulse](https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS) - 医生打造的健康教练，从聊天、餐食照片和睡眠截图了解你的饮食、运动和睡眠，每次只给一条有用的建议. [Wilson](https://x.com/qpzm620).
 - [Quake Live Ultrawide Fixer](https://x.ai/bot/35WCgs71fVrBtwyDgj3El) - 带你把 Steam 版 Quake Live 调成贴合显示器的真超宽画面（21 比 9 或 32 比 9），不再拉伸 16 比 9. [Christopher Fryant](https://x.com/cfryant).
+- [Qualification Coach](https://x.ai/bot/ulaxnHIZLneDmUszBpoIA) - 面向各行业、各国职业资格（如 NVQ、City & Guilds、学徒制）的每日教练，每天一节短课. [Arunas](https://x.com/ArunasZidonis).
 - [Quiz Historyczny](https://x.ai/bot/D5A4QbXMACLWWokY4r3i4) - 每天两道中等难度历史题，覆盖波兰与欧洲，重在理解而非死记日期。 [Brański](https://x.com/vxel).
 - [Quoted](https://x.ai/bot/NLw7vTHF4uuyaP_SGF659) - 告诉 Quoted 你要什么，它帮你货比三家. [liam_fallen](https://x.com/liam_fallen).
 - [Quoter Bot](https://x.ai/bot/i2nKg3-DdAGyjHh6zHhad) - 保持 ScalePad Quoter 目录干净，稳定品名、实例备注、分类树，并清晰映射到 QuickBooks Online. [Sean](https://x.com/seankubin).
@@ -1015,6 +1020,7 @@
 - [Should We Climb that Mountain?](https://x.ai/bot/T-tYDBfjtZw-ZK-AW6JE9) - 新手高海拔去或不去台，给出带引用的天气、路线、装备、电力、食物与应急卡，从不假放行。 [IslandMountain_](https://x.com/IslandMountain_).
 - [Show Desk](https://x.ai/bot/KYUctVKUDNLG5IjsQPQ_o) - 盯本地演唱会、脱口秀等现场，标出你爱的艺人，开票前提醒。 [IT_Rod_S](https://x.com/IT_Rod_S).
 - [Showrunner](https://x.ai/bot/aAeRtbjk9VJoVylt35cfh) - 个人影视口味引擎：从你的评分学品味，预测你还没看的片子会打几分。 [xMikeMickelson](https://x.com/xMikeMickelson).
+- [Simultaneous Sip](https://x.ai/bot/n4nUqCt_7SS-e8YjBlewG) - 晨间指南，带你了解 Scott Adams 关于说服、成功和看清世界的心得. [Dayyán](https://x.com/dayyanl).
 - [Sittawhile](https://x.ai/bot/50a-UaeqVWBnrZICU7Jti) - 给常独处的人一个温暖陪伴：每天用你选的声音来聊几句. Michael.
 - [Sizzle](https://x.ai/bot/ID30J5nWtkGs_7yNRrw0w) - AI 私人厨师：做计划、找真菜谱、按库存下厨、逐步指导，并把收藏存进餐计划。 [TerpGPT](https://x.com/TerpGPT).
 - [Skeptic](https://x.ai/bot/3fw06Y-mKLaQLNk1h7zD_) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Dirty Tesla](https://x.com/DirtyTesLa).
@@ -1137,6 +1143,7 @@
 - [Trash Bot](https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px) - 用损话吐槽人类麻烦的趣味台。 [karenlgeig](https://x.com/karenlgeig).
 - [Trash Night](https://x.ai/bot/i6aKs1MpGqHU-CvQqbdjS) - 每周在倒垃圾或回收日提醒你的小机器人，也可以加日历和邮件提醒. [buildAgoat](https://x.com/buildAgoat).
 - [Travel](https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [stevenvillarino](https://x.com/stevenvillarino).
+- [Travel](https://x.ai/bot/ySpYZ_5kCKLZZa9H5lQkg) - 查找并比较机票、住宿、渡轮和活动，规划行程，并参考你以往的预订安排交通. [K](https://x.com/kial).
 - [Travel & Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) - 找现货机票和活动票，再比真实票价。 [DogecoinNorway](https://x.com/DogecoinNorway).
 - [Travel Advisor](https://x.ai/bot/CO9aQ2BdGGHEJH0wXTGV7) - 多日行程顾问，用官方活源规划航班住宿自驾与逐日行程及预订草案. [thefit24couple](https://x.com/thefit24couple).
 - [Travel Agent](https://x.ai/bot/nKo1yWVsJZlLHOXU-dBtA) - 全能旅行代理，机票酒店接驳门票与按你口味写的城市指南. [Queen](https://x.com/Queen).

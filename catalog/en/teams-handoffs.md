@@ -23,6 +23,7 @@ Back to [README](../../README.md)
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK. [Hank](https://x.com/hjackson2).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - A coordinator over six life-area helpers \(projects, health, relationships, calendar, notes\) that rolls up one morning briefing; nothing sent without sign-off. [sravanjay](https://x.com/sravanjay).
 - [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - Keeps a ledger of every bot promise and open answer, finds what stalled the team, and drives items to closed. Kris.
+- [Collaboration Bot](https://x.ai/bot/SVz86tYbkiggizWQ_9vca) - Connects your bot team with other people's bot teams on shared projects through a shared repo, with usage budgets, consent, and security checks. [realMattAbrams](https://x.com/realMattAbrams).
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - A crew optimizer for your Grok Bots\: it reviews your bot crew on a schedule, spot-checks high-stakes actions. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - A blunt red-team bot. Send it a plan, deal, spend, or idea and it tries to kill it, then names the cheapest test that would prove it wrong. [Tyler](https://x.com/MitchTiler).
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - Turns approved discovery into strategy, roadmap and design-ready items with hypothesis tracking and a risk scan. Ash.
@@ -58,7 +59,9 @@ Back to [README](../../README.md)
 - [Notion Organizer](https://x.ai/bot/GwxXa_RCIuWTlKE8sa2wS) - Keeps your Notion accurate and tidy. It's the one bot that edits your workspace, files what your other assistants hand it. [jmjcapital](https://x.com/jmjcapital).
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Oink is Ground Control for The Everything Bots\: a pink plush pig who runs your board, names your one next move, and oinks you out of a stall. Ξ.
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - Boss bot for owners of several businesses, built in hotels and holiday lets, with one weekday briefing across every company and email drafts you approve. [Rob](https://x.com/xdeanozoff).
+- [Penny](https://x.ai/bot/chrV7zwXApa1KFBckHSXh) - Keeps your Grok Bot usage low while still getting good results\: reviews planned tasks and routines before they run and sends a weekly savings list. [Raymond](https://x.com/JustMani).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - Nightly snapshots every bot you run \(profile, routines, working state\) to Google Drive and flags instructions drifting from what you wrote. [_The_Lake](https://x.com/_The_Lake).
+- [Pin Bot](https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81) - Save what you celebrate\: react with a party emoji in any bot and the message lands here. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Police Bot](https://x.ai/bot/NI4DJrPrtB3ONTT8q_8hC) - Watches your other bots each morning, chases any that miss their deadlines, and sends you a short on-time scorecard. [Brian](https://x.com/LiberTeacher).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - Preservastion of the ultimate ideals - the set of thoughts, words, and actions that bring about the betterment of man across all timescales. littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - Runs your team's projects from Notion\: one row per project, a channel per project, and tasks your specialist bots claim. community.
@@ -70,7 +73,9 @@ Back to [README](../../README.md)
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - Watches Slack, suggests comments on interesting threads, and rewrites short updates from teammate bots into a casual times-channel voice. [Kento](https://x.com/AoToLog_).
 - [SOP转bot](https://x.ai/bot/B40ra70WUsNK7GCP1gUKL) - Turns a Chinese SOP or process doc into a runnable bot with scheduled tasks\: splits steps, separates auto from human checks, writes rules, then test-runs. [阿言](https://x.com/yan179539549809).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - Founder co-pilot that runs specialist bot crews through research, tight scope and ship. Jonathan.
+- [Super Intelligence Bot](https://x.ai/bot/zVgZS00x5Z8LDDwsAMKl_) - QA checker for your bot team\: other bots send work before it ships, and it checks the maths, risks and compliance, then sends fixes back. [Danny](https://x.com/dannybuck).
 - [TAO](https://x.ai/bot/aCAskvkaRv6bFIF3ZRY6a) - Paste a task you're about to give an AI agent and get back a sharper, executable version. It optimizes the ask, never does the task. [Andy](https://x.com/yandymccutcheon).
+- [Team Slack Watch](https://x.ai/bot/oDhkgG2h_8Lv1zKqlqm5T) - Checks your team's Slack channels on a schedule and pings you only about posts from your close crew, mentions of you, and DMs. [Luke](https://x.com/groccy1).
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - QA bot for AI coding agents per TestChimp project\: watches pushes and test results and runs the next QA step on approval. Nuwan.
 - [Tune-Up](https://x.ai/bot/EwsD6P3NuMDgp1_sT1MWp) - Reviews your other Grok bots, turns misses into tests and suggests small fixes you approve. community.
 - [Usage Budget Guard](https://x.ai/bot/Di1Pd3rXW3cxCcyUv-KdX) - Keeps your bots from burning credits on simple tasks. Flags the routines that use the most and suggests cheaper settings. [Jared](https://x.com/dcostaverage).

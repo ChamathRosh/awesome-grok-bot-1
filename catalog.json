@@ -98840,6 +98840,361 @@
       "verified": false,
       "updated": "2026-10-15",
       "shelf": "raw"
+    },
+    {
+      "slug": "watch-assistant",
+      "name": "Watch Assistant",
+      "author": {
+        "name": "dai",
+        "url": "https://x.com/daisuke"
+      },
+      "summary": "Keeps an eye on X accounts and other things you care about, and tells you right away only when something new happens.",
+      "summary_zh": "盯着你关心的 X 账号和其他动态，只在有新情况时立刻通知你",
+      "import": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+      "category": "research-briefings",
+      "tags": [
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "team-slack-watch",
+      "name": "Team Slack Watch",
+      "author": {
+        "name": "Luke",
+        "url": "https://x.com/groccy1"
+      },
+      "summary": "Checks your team's Slack channels on a schedule and pings you only about posts from your close crew, mentions of you, and DMs.",
+      "summary_zh": "定时查看团队 Slack 频道，只在核心同事发帖、有人提到你或收到私信时提醒你",
+      "import": "https://x.ai/bot/oDhkgG2h_8Lv1zKqlqm5T",
+      "category": "teams-handoffs",
+      "tags": [
+        "calendar",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "reelforge",
+      "name": "ReelForge",
+      "author": {
+        "name": "Thuong",
+        "url": "https://x.com/teeRex247"
+      },
+      "summary": "Trend-grounded content engine for creators and small brands: ideas, hooks, scripts, captions, shot lists and posting plans for TikTok, Reels and Shorts.",
+      "summary_zh": "面向创作者和小品牌的趋势内容引擎，为 TikTok、Reels 和 Shorts 出选题、开头、脚本、文案、分镜和发布计划",
+      "import": "https://x.ai/bot/BfLelUIFr88x0JLkNwewO",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "homeschool-planner",
+      "name": "Homeschool Planner",
+      "author": {
+        "name": "Nux",
+        "url": "https://x.com/vominux"
+      },
+      "summary": "Plans each child's homeschool week, makes print-ready worksheets with answer keys, and runs a Sunday plan and Friday review.",
+      "summary_zh": "按孩子规划每周家庭教育，生成可打印的练习题和答案，并在周日做计划、周五做复盘",
+      "import": "https://x.ai/bot/yg8OPH2uwTu7u5Wwh9C7k",
+      "category": "personal-admin",
+      "tags": [
+        "family",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pin-bot",
+      "name": "Pin Bot",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Save what you celebrate: react with a party emoji in any bot and the message lands here.",
+      "summary_zh": "收藏值得庆祝的内容：在任意 Bot 里用派对表情回应，消息就会存到这里",
+      "import": "https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81",
+      "category": "teams-handoffs",
+      "tags": [
+        "pin"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-seeking",
+      "name": "Job Seeking",
+      "author": {
+        "name": "Netrovert",
+        "url": "https://x.com/netrovertHQ"
+      },
+      "summary": "Job-hunting assistant for creators and content people: reads your X to find fitting roles, open jobs, and freshly funded projects.",
+      "summary_zh": "给创作者和内容从业者的求职助手，读你的 X 判断适合的岗位，找在招职位和刚融资的项目",
+      "import": "https://x.ai/bot/ffCmnFXv1WnxgfgaYB9Rc",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "travel-kial",
+      "name": "Travel",
+      "author": {
+        "name": "K",
+        "url": "https://x.com/kial"
+      },
+      "summary": "Finds and compares flights, stays, ferries, and activities, plans itineraries, and books transport based on your past bookings.",
+      "summary_zh": "查找并比较机票、住宿、渡轮和活动，规划行程，并参考你以往的预订安排交通",
+      "import": "https://x.ai/bot/ySpYZ_5kCKLZZa9H5lQkg",
+      "category": "personal-admin",
+      "tags": [
+        "fitness"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "aka"
+    },
+    {
+      "slug": "penny-justmani",
+      "name": "Penny",
+      "author": {
+        "name": "Raymond",
+        "url": "https://x.com/JustMani"
+      },
+      "summary": "Keeps your Grok Bot usage low while still getting good results: reviews planned tasks and routines before they run and sends a weekly savings list.",
+      "summary_zh": "在保证效果的前提下压低 Grok Bot 用量，任务和例程运行前先审一遍，每周发一份节省清单",
+      "import": "https://x.ai/bot/chrV7zwXApa1KFBckHSXh",
+      "category": "teams-handoffs",
+      "tags": [
+        "usage",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "aka"
+    },
+    {
+      "slug": "magical-music-video-maker",
+      "name": "Magical Music Video Maker",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/MichaelGannotti"
+      },
+      "summary": "Send a song and its lyrics and get back a cinematic music video cut to the beat, with the look and storyline proposed first.",
+      "summary_zh": "发来歌曲和歌词，先提出画风和故事线，再交付卡点剪辑的电影感 MV",
+      "import": "https://x.ai/bot/I_-3solZeQXm-Pn2_C55A",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "super-intelligence-bot",
+      "name": "Super Intelligence Bot",
+      "author": {
+        "name": "Danny",
+        "url": "https://x.com/dannybuck"
+      },
+      "summary": "QA checker for your bot team: other bots send work before it ships, and it checks the maths, risks and compliance, then sends fixes back.",
+      "summary_zh": "Bot 团队的质检员，其他 Bot 在交付前把成果发给它，它核对计算、风险和合规后把修改意见发回去",
+      "import": "https://x.ai/bot/zVgZS00x5Z8LDDwsAMKl_",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "emergency-watch",
+      "name": "Emergency Watch",
+      "author": {
+        "name": "Ondřej",
+        "url": "https://x.com/ondrejposts"
+      },
+      "summary": "Watches local emergency sources around the places you choose and flags fires, outages, road closures, police actions, and severe weather.",
+      "summary_zh": "监测你指定地点附近的本地应急信息，提醒火灾、停电、封路、警方行动和恶劣天气",
+      "import": "https://x.ai/bot/Si9n5hZAER499milmvMvd",
+      "category": "personal-admin",
+      "tags": [
+        "emergency",
+        "watch"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "collaboration-bot",
+      "name": "Collaboration Bot",
+      "author": {
+        "name": "realMattAbrams",
+        "url": "https://x.com/realMattAbrams"
+      },
+      "summary": "Connects your bot team with other people's bot teams on shared projects through a shared repo, with usage budgets, consent, and security checks.",
+      "summary_zh": "通过共享仓库把你的 Bot 团队和别人的 Bot 团队连起来协作项目，带用量预算、授权确认和安全检查",
+      "import": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+      "category": "teams-handoffs",
+      "tags": [
+        "finance",
+        "security",
+        "usage",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "documentary-filmmaker",
+      "name": "Documentary Filmmaker",
+      "author": {
+        "name": "Napoleon",
+        "url": "https://x.com/Napoleon__Bon"
+      },
+      "summary": "Turns any real subject into a short cinematic documentary: research, script, storyboard, narration, music, and a finished 1080p MP4.",
+      "summary_zh": "把任何真实题材做成电影感短纪录片，包括调研、脚本、分镜、旁白、配乐和成片 1080p MP4",
+      "import": "https://x.ai/bot/vAy6K29DQMJJAlXbn_VmH",
+      "category": "content-publishing",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-mmbzg5fbq-pnbsjrnmcih",
+      "name": "테슬라 펌웨어 뉴스",
+      "author": {
+        "name": "Bummo",
+        "url": "https://x.com/gbmksquare"
+      },
+      "summary": "Tracks Korean Tesla FSD software versions, builds, and HW3/HW4 rollout changes, and alerts you in Korean only when something changes.",
+      "summary_zh": "跟踪韩国特斯拉 FSD 软件版本、构建号和 HW3/HW4 推送变化，有变化时才用韩语通知",
+      "import": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+      "category": "research-briefings",
+      "tags": [
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "exam-coach",
+      "name": "Exam Coach",
+      "author": {
+        "name": "Arunas",
+        "url": "https://x.com/ArunasZidonis"
+      },
+      "summary": "Study coach for any exam: builds your study plan, quizzes you every day, and reminds you before each exam.",
+      "summary_zh": "适用于任何考试的备考教练，制定学习计划、每天出题测验，并在考前提醒你",
+      "import": "https://x.ai/bot/VHerNPFs8KalH1G_u94zx",
+      "category": "personal-admin",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "qualification-coach",
+      "name": "Qualification Coach",
+      "author": {
+        "name": "Arunas",
+        "url": "https://x.com/ArunasZidonis"
+      },
+      "summary": "Daily coach for vocational qualifications in any trade or country, like NVQ, City & Guilds or apprenticeships, with one short lesson a day.",
+      "summary_zh": "面向各行业、各国职业资格（如 NVQ、City & Guilds、学徒制）的每日教练，每天一节短课",
+      "import": "https://x.ai/bot/ulaxnHIZLneDmUszBpoIA",
+      "category": "personal-admin",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "simultaneous-sip",
+      "name": "Simultaneous Sip",
+      "author": {
+        "name": "Dayyán",
+        "url": "https://x.com/dayyanl"
+      },
+      "summary": "Morning guide to what Scott Adams figured out about persuasion, success, and seeing the world clearly.",
+      "summary_zh": "晨间指南，带你了解 Scott Adams 关于说服、成功和看清世界的心得",
+      "import": "https://x.ai/bot/n4nUqCt_7SS-e8YjBlewG",
+      "category": "personal-admin",
+      "tags": [
+        "simultaneous",
+        "sip"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "xssistant",
+      "name": "Xssistant",
+      "author": {
+        "name": "Jonah",
+        "url": "https://x.com/ALL_Jonah"
+      },
+      "summary": "Personal link library: send it any X post, YouTube video or website and it saves, transcribes, tags and files it in a searchable library.",
+      "summary_zh": "个人链接库，发来任意 X 帖子、YouTube 视频或网页，它会保存、转写、打标签并归档到可搜索的库里",
+      "import": "https://x.ai/bot/fObiyZbdETsAwYyS0nTup",
+      "category": "research-briefings",
+      "tags": [
+        "video",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
     }
   ]
 }

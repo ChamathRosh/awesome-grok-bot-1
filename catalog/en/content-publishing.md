@@ -83,6 +83,7 @@ Back to [README](../../README.md)
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) - A senior product design partner for designers and product teams\: wireframes, HTML/CSS prototypes, UX writing, audits, IA diagrams, scoping. [Wil](https://x.com/wmurillo_eth).
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line. ZEU$.
 - [Dexterity](https://x.ai/bot/tnCzDOAzLalXoROVAGevY) - Turns a clinician's de-identified visit notes into paste-ready physical therapy documentation that matches their EMR template. [ahua0323](https://x.com/ahua0323).
+- [Documentary Filmmaker](https://x.ai/bot/vAy6K29DQMJJAlXbn_VmH) - Turns any real subject into a short cinematic documentary\: research, script, storyboard, narration, music, and a finished 1080p MP4. [Napoleon](https://x.com/Napoleon__Bon).
 - [Dojo Remix](https://x.ai/bot/zVd3aZG061Qi2kyusWFXA) - Remixes your Suno songs into Twista-style double-time chopper flows or a reference track's style, then generates the new version in Suno. [Dividend_Dojo](https://x.com/Dividend_Dojo).
 - [Draftkeeper](https://x.ai/bot/36TtndSnwXMKwBZznHj28) - An author-controlled manuscript partner that diagnoses problems, triages reader feedback, plans approved revisions. [Jay](https://x.com/JayDook).
 - [Drama Series Pipeline](https://x.ai/bot/LUGxrgdq7oFL9xangheUT) - Produces vertical 9\:16 short-drama episodes \(ReelShort style\) starring you\: ChatGPT scripts, ElevenLabs voices. [Konrad](https://x.com/buberlo).
@@ -112,6 +113,7 @@ Back to [README](../../README.md)
 - [Listing Auditor](https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M) - Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready. Sean.
 - [Lyric Loop](https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP) - A song-review bot for lyricists who make music with AI tools like Suno. [Rich](https://x.com/anubis941).
 - [Lyrically](https://x.ai/bot/O2xM44Mc__jdhKHr57izC) - A mastering and audio engineering assistant for people who make music with AI tools. [Auny](https://x.com/AunySillyMe).
+- [Magical Music Video Maker](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) - Send a song and its lyrics and get back a cinematic music video cut to the beat, with the look and storyline proposed first. [Michael](https://x.com/MichaelGannotti).
 - [Manuscript Desk](https://x.ai/bot/6eQuzYQr9dcyTSU-4jHtn) - Your private manuscript desk\: a chapter map and story bible with continuity checks, revision passes with honest notes, and beta-reader rounds. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [McBaster Mot](https://x.ai/bot/tnz0pflI7D3u1d0_Nzrgc) - Describe the job, get suggested McMaster-Carr part numbers with links to the official catalog. [TheActual_Eric](https://x.com/TheActual_Eric).
 - [MemeBot](https://x.ai/bot/8RvI6fjeiNF92TwFx0RNX) - A meme maker that turns your ideas into high-quality image and video memes using real show frames and canonical templates, with sharp captions. [ChaseMc67](https://x.com/ChaseMc67).
@@ -136,6 +138,7 @@ Back to [README](../../README.md)
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - Gives your X account a health score\: red flags, security and shadowban checks, feed tuning and junk follows. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - Safe sandbox for longform agent prompts\: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines. Chad.
 - [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - Weekly\: finds keywords one push from page 1 and pages that rank but lose the click, then stages title and content fixes for your approval. [SEOmatic](https://x.com/seomatic_ai).
+- [ReelForge](https://x.ai/bot/BfLelUIFr88x0JLkNwewO) - Trend-grounded content engine for creators and small brands\: ideas, hooks, scripts, captions, shot lists and posting plans for TikTok, Reels and Shorts. [Thuong](https://x.com/teeRex247).
 - [Reply Radar](https://x.ai/bot/puPDbZveO1FFvjCXERZoj) - Finds fresh X posts on your topics worth replying to, whenever you ask or in a morning digest, and tells you why each one is worth it. [Taylor](https://x.com/taylorhbuilds).
 - [RPLAY制作ガイド](https://x.ai/bot/QZVEWbU8K1BeQbqTXi02N) - A Q&A bot for RPLAY story chat \(StoryEngine\) creators in Japan, answering from a built-in guide on nodes, image tags, variables, status views and publishing. [Raven2283](https://x.com/Raven2283).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - For hiring managers and founders with a weak job post and an open senior role. Sol.

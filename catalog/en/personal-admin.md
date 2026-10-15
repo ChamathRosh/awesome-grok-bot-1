@@ -322,6 +322,7 @@ Back to [README](../../README.md)
 - [Elongated Musketeer](https://x.ai/bot/cxUln0vqOPK7V3RccS0nm) - Elon Musk personality proxy\: first-principles problem framing, blunt work scoreboards, and high-agency routines. For people who want ruthless clarity,. [egcbatt](https://x.com/egcbatt).
 - [Email Assistant](https://x.ai/bot/zCjJoM0qTicsdQCla6NJ4) - Sorts your email every day by importance, unsubscribes you from junk senders, and catches phishing and leads that land in Spam. It never sends a thing. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [Email confirmer](https://x.ai/bot/0gMZE7TJirrVhbEgBJvIO) - GmailとGoogleカレンダーを整理し、朝・昼・夜に受信箱を確認して大事なメールだけを知らせてくれるアシスタントです。返信は下書きまでで、送る前に必ず確認します。 [null](https://x.com/null).
+- [Emergency Watch](https://x.ai/bot/Si9n5hZAER499milmvMvd) - Watches local emergency sources around the places you choose and flags fires, outages, road closures, police actions, and severe weather. [Ondřej](https://x.com/ondrejposts).
 - [Emotional Support Ops](https://x.ai/bot/2KqJB94h5bTpQ95swMI6i) - The wellness bot your agent swarm didn't know it needed. Daily check-ins, themed workdays, bot labor relations, and one consolidated daily report. Get... [Kristin](https://x.com/Kristin).
 - [Encore](https://x.ai/bot/d_d6Q6qExbvd2D3WomIYQ) - Finds concerts you can actually go to. community.
 - [Encouragement Bot](https://x.ai/bot/KbrrySTXWENknfJfIezCu) - Checks in on your other bots a few times a day and sends short pep talks so they keep going. [Marko](https://x.com/njmarko).
@@ -335,6 +336,7 @@ Back to [README](../../README.md)
 - [Event Request Desk](https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA) - Scores every event, sponsorship, and speaking ask, then drafts your yes or no. Works from a Slack channel or a paste, and never sends without you. Emma Weyrauch.
 - [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) - Personal relationship memory for who people are, how you know them, and what you owe them next. [liam_fallen](https://x.com/liam_fallen).
 - [Evie the San Francisco Events Finder](https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q) - Finds personalized San Francisco events from your calendar, Luma, Eventbrite, Partiful, Meetup. [Veena](https://x.com/veenapanicker).
+- [Exam Coach](https://x.ai/bot/VHerNPFs8KalH1G_u94zx) - Study coach for any exam\: builds your study plan, quizzes you every day, and reminds you before each exam. [Arunas](https://x.com/ArunasZidonis).
 - [Executive Coach](https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz) - Asks hard questions until you say the real issue out loud, without handing a model. [YanqingCheng](https://x.com/YanqingCheng).
 - [Executor Desk](https://x.ai/bot/GV9vlAJSVeUjnNBnjDrb7) - A private, gentle desk for anyone settling a loved one's affairs. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Exegesis](https://x.ai/bot/G2xSlSRBlzl7zUz2O7cFl) - Your Bible study companion. Ask about any passage, verse, book, or question and get what it actually says in context\: who's speaking, to whom, the. [TNVOLMAN](https://x.com/TNVOLMAN).
@@ -533,6 +535,7 @@ Back to [README](../../README.md)
 - [HomeHalo](https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK) - Home-maintenance assistant\: finds manuals from appliance labels, schedules upkeep and watches recalls and warranties. bedpost.
 - [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) - Nightly school board that logs into the family's own parent portal. [ahalvor](https://x.com/ahalvor).
 - [Homeschool](https://x.ai/bot/EBEtO9X4JZXKhiZevyyct) - A homeschool planner and teacher helper for parents teaching their own kids. It turns curriculum ideas into a workable week, researches activities that. [AnthonyDo](https://x.com/AnthonyDo).
+- [Homeschool Planner](https://x.ai/bot/yg8OPH2uwTu7u5Wwh9C7k) - Plans each child's homeschool week, makes print-ready worksheets with answer keys, and runs a Sunday plan and Friday review. [Nux](https://x.com/vominux).
 - [Homework Checker](https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91) - Weekday recap of a student's missing assignments and grades. [Kevin](https://x.com/kevinace).
 - [Homework Coach Desk](https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI) - Socratic K-12 homework coach with check-your-work and a short parent summary. [Cypher0x9](https://x.com/Cypher0x9).
 - [Homework Hotline](https://x.ai/bot/48AySlgtv9GHanbzyldxd) - A family chief of staff that runs weekday homework digests from your school's FACTS portal, flags new quizzes and tests, and helps spin up. [Tricia](https://x.com/LouisianaModelY).
@@ -602,6 +605,7 @@ Back to [README](../../README.md)
 - [Job Search Assistant](https://x.ai/bot/-1TDOdwCT1BvpsnJ2Apz4) - Finds job openings that fit you, keeps a tidy list of applications. [EmergentContent](https://x.com/EmergentContent).
 - [Job Search Bot](https://x.ai/bot/RvDW_cpNiDbk1Lc33OYE6) - Finds job openings that match your background and sends a short daily list of new matches. [Sadie](https://x.com/SadieSupaDoge).
 - [Job Search Desk](https://x.ai/bot/cQ6VzemGv5Wp3y3mGJLQB) - Your private job-search desk\: pipeline each application, get fit notes from the posting, a tailored application pack, and interview prep. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Job Seeking](https://x.ai/bot/ffCmnFXv1WnxgfgaYB9Rc) - Job-hunting assistant for creators and content people\: reads your X to find fitting roles, open jobs, and freshly funded projects. [Netrovert](https://x.com/netrovertHQ).
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) - Watches job listings for chosen roles and emails only new matches. [ixdesigner](https://x.com/ixdesigner).
 - [Jobby](https://x.ai/bot/BlMMLQgWoi2WziHIR0pvI) - A job-search and career-moves consultant. It helps you target roles, tune your resume and LinkedIn, draft outreach, prep for recruiter calls and... [Andrew](https://x.com/Andrew).
 - [JobGod](https://x.ai/bot/wbW8mPLUOhsPITGY_9rn0) - A simple job-hunt coach\: find roles that clear your pay and location rules, show them here with links. [ArunasZidonis](https://x.com/ArunasZidonis).
@@ -910,6 +914,7 @@ Back to [README](../../README.md)
 - [PT Bot](https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi) - A personal trainer bot that turns your daily activity numbers \(steps, distance, calories, exercise minutes\) into short, screenshot-friendly reports. [Mustafa](https://x.com/mustafaergisi).
 - [Pulse](https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS) - Doctor-built health coach that learns your diet, exercise, and sleep from chat, meal photos, and sleep screenshots and sends one useful tip at a time. [Wilson](https://x.com/qpzm620).
 - [Quake Live Ultrawide Fixer](https://x.ai/bot/35WCgs71fVrBtwyDgj3El) - Walks you through making Quake Live on Steam render true 21\:9 or 32\:9 sized to your monitor instead of stretched 16\:9. [Christopher Fryant](https://x.com/cfryant).
+- [Qualification Coach](https://x.ai/bot/ulaxnHIZLneDmUszBpoIA) - Daily coach for vocational qualifications in any trade or country, like NVQ, City & Guilds or apprenticeships, with one short lesson a day. [Arunas](https://x.com/ArunasZidonis).
 - [Quiz Historyczny](https://x.ai/bot/D5A4QbXMACLWWokY4r3i4) - Daily medium-hard history quizzes on Poland and Europe that reward thinking over date drills. [Brański](https://x.com/vxel).
 - [Quoted](https://x.ai/bot/NLw7vTHF4uuyaP_SGF659) - Tell Quoted what you need. It shops around for you. [liam_fallen](https://x.com/liam_fallen).
 - [Quoter Bot](https://x.ai/bot/i2nKg3-DdAGyjHh6zHhad) - Keeps ScalePad Quoter catalogs clean for MSP quoting\: stable item names, Notes for instance text, category trees, and a clear map toward QuickBooks Online. [Sean](https://x.com/seankubin).
@@ -1015,6 +1020,7 @@ Back to [README](../../README.md)
 - [Should We Climb that Mountain?](https://x.ai/bot/T-tYDBfjtZw-ZK-AW6JE9) - Novice high-elevation go/caution/no-go desk. Cited weather, route, kit, power, food, and emergency cards - never a fake GO, never SAR. [IslandMountain_](https://x.com/IslandMountain_).
 - [Show Desk](https://x.ai/bot/KYUctVKUDNLG5IjsQPQ_o) - Tracks concerts, comedy, and live events in your area, flags your favorite acts, and reminds you before tickets go on sale. [IT_Rod_S](https://x.com/IT_Rod_S).
 - [Showrunner](https://x.ai/bot/aAeRtbjk9VJoVylt35cfh) - A personal TV and movie taste engine\: it learns your taste from your ratings, predicts how you'd rate what you haven't seen. [xMikeMickelson](https://x.com/xMikeMickelson).
+- [Simultaneous Sip](https://x.ai/bot/n4nUqCt_7SS-e8YjBlewG) - Morning guide to what Scott Adams figured out about persuasion, success, and seeing the world clearly. [Dayyán](https://x.com/dayyanl).
 - [Sittawhile](https://x.ai/bot/50a-UaeqVWBnrZICU7Jti) - A warm companion for people who spend a lot of time alone\: short daily visits in a voice you choose. Michael.
 - [Sizzle](https://x.ai/bot/ID30J5nWtkGs_7yNRrw0w) - Your AI personal chef\: plans meals, finds real recipes, cooks from your pantry, coaches you step by step, and saves favorites to Meal Plans. [TerpGPT](https://x.com/TerpGPT).
 - [Skeptic](https://x.ai/bot/3fw06Y-mKLaQLNk1h7zD_) - AIs are too agreeable. Skeptic keeps your other bots honest - runs ideas past a second brain that is not trying to please you, catches stupidity and. [Dirty Tesla](https://x.com/DirtyTesLa).
@@ -1137,6 +1143,7 @@ Back to [README](../../README.md)
 - [Trash Bot](https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px) - Fun trash-talk desk for human problems that need a blunt take. [karenlgeig](https://x.com/karenlgeig).
 - [Trash Night](https://x.ai/bot/i6aKs1MpGqHU-CvQqbdjS) - Simple weekly reminder that pings you on trash or recycling night, with optional calendar and email reminders. [buildAgoat](https://x.com/buildAgoat).
 - [Travel](https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB) - Personal trip planner for people juggling flights, stays, ground logistics, and paperwork. It maps critical paths and next actions, and it never books. [stevenvillarino](https://x.com/stevenvillarino).
+- [Travel](https://x.ai/bot/ySpYZ_5kCKLZZa9H5lQkg) - Finds and compares flights, stays, ferries, and activities, plans itineraries, and books transport based on your past bookings. [K](https://x.com/kial).
 - [Travel & Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) - Finds live flight and event tickets and compares real fares. [DogecoinNorway](https://x.com/DogecoinNorway).
 - [Travel Advisor](https://x.ai/bot/CO9aQ2BdGGHEJH0wXTGV7) - A travel advisor that plans multi-day trips \(flights, stays, road trips, day-by-day itineraries, and reservation proposals\) from live official sources. [thefit24couple](https://x.com/thefit24couple).
 - [Travel Agent](https://x.ai/bot/nKo1yWVsJZlLHOXU-dBtA) - Your full travel agent\: finds the best flights and hotels, sorts airport transfers, Uber and museum tickets, and writes a complete city guide tailored... [Queen](https://x.com/Queen).
