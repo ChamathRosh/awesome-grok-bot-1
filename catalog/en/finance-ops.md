@@ -11,6 +11,7 @@ Back to [README](../../README.md)
 - [Ad Spend Watch](https://x.ai/bot/MK5zStpj_As8CsRwg3r6w) - Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without... [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Agent Zero](https://x.ai/bot/hv70IMR--R-c9VZF3aZ7X) - Personal reputation specialist for people who want their info off people-search and data-broker sites. After consent, it finds listings, files official... [TRV_Architech](https://x.com/TRV_Architech).
 - [Agentic Trader Starter](https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo) - Templates and skills for agentic traders with advanced order types. [MurrLincoln](https://x.com/MurrLincoln).
+- [AI Bookkeeper & Tax Assistant (Beancount)](https://x.ai/bot/XSWze_slwQwS96bVcVN-j) - Beancount bookkeeping and tax planning for small businesses and real-estate LLCs. Benjamin.
 - [AI Credits](https://x.ai/bot/ZF5333Z2Ool2V6h3WtgUW) - Hunts free AI credits, free and test models, AI subscription discounts, startup programs, and coding-agent subscription giveaways on X and the web. [szavinny](https://x.com/szavinny).
 - [AIUsageBot](https://x.ai/bot/2atUDeldi9vF1R_ySRgCo) - Tracks how much of each AI subscription you have actually used. [Brian](https://x.com/BrianDEvans).
 - [Albert](https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP) - Pulls pay and benefits from police union contracts into side-by-side spreadsheets. [Skyler_Miller56](https://x.com/Skyler_Miller56).
@@ -248,6 +249,7 @@ Back to [README](../../README.md)
 - [Jim Simons](https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L) - Thinks like Jim Simons. Finds signals in the noise, kills 99% of trading ideas as luck and watches your portfolio 24/7. [Codila](https://x.com/51bodila).
 - [Junk Listing](https://x.ai/bot/LgGbyjf7hxr6q723yJfP0) - Send it photos of the stuff in your garage. It prices each item for your area, lists it, drops the price on what isn't moving. [BudJohnson](https://x.com/BudJohnson).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi research seat that logs placed bets for one market instead of a catch-all desk. [Jodi](https://x.com/WorkWithJodi).
+- [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - Read-only New Zealand bank access via your Akahu personal app credentials. Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - Compares schedule vs clock-out to catch labor drift and overtime surprises before they stack up. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - A $100k soft-cap Mag8 laggard sleeve\: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR. [SachivM99](https://x.com/SachivM99).
 - [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - Texas law-firm ops OS for family civil criminal and estate drafts labeled SAMPLE until an attorney signs. [JoshuaRCook](https://x.com/JoshuaRCook).
@@ -529,6 +531,7 @@ Back to [README](../../README.md)
 - [Wheel Bot](https://x.ai/bot/WPLaxPZ0semWL2Es9kW_2) - Works best with the Stock Market Manager. Finds cash-secured put and covered call setups that fit your risk rules. [utahpowscott](https://x.com/utahpowscott).
 - [Whop Economic Intelligence](https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c) - Names the single next growth move for your store, then proves it worked. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Wire](https://x.ai/bot/y73FMiyQPFY_IdrbckyFj) - Data-driven agentic desk with approval-gated trades\: Coinbase, Robinhood, and Kalshi or Polymarket by region, plus X on your holdings, alerts, and daily. [j6commission](https://x.com/j6commission).
+- [Would Thiel Buy It?](https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE) - One Monopoly/Contender/Competitor verdict per ticker from SEC filings via Zero to One. 중현.
 - [Wrench](https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd) - Your Porsche shop buddy — diagnostics, maintenance, ownership advice, and straight talk on what actually needs fixing. [jeffleemoon](https://x.com/jeffleemoon).
 - [X ALPHA](https://x.ai/bot/EATrfsW73LbCgHF7UIWTz) - An autonomous stock research bot. It finds early small- and mid-cap ideas on X, scores the posters by their verified track records. [Nate](https://x.com/NateLorenzen).
 - [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) - Runs an X profile\: drafts, scheduling, likes, replies, follows, and contest entries from the signed-in account. [TejasCh32900009](https://x.com/TejasCh32900009).

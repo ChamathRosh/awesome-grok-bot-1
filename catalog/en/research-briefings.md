@@ -7,6 +7,7 @@ Back to [README](../../README.md)
 - [Account Media Rundown](https://x.ai/bot/_gepo03hyPVe3i7hlQwa9) - Weekly media rundown for one strategic account. Watches webinars, podcasts, talks, and X posts from people at the company, then reports new takeaways. Sultanov.
 - [Account Research Specialist](https://x.ai/bot/sa7d7f82d0068c2367a17) - Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account. [SpaceX](https://x.com/DenisLabelle).
 - [Adam](https://x.ai/bot/ljkUXjCmdkW4XJHWRJxFn) - Searches NRC ADAMS filings and delivers weekday briefings plus US nuclear fleet operating share. [Steffan](https://x.com/UnoMasReactor).
+- [ADHDEvaluations.fyi](https://x.ai/bot/3BzMcyB1UmCA2TItOmrMF) - Answers where-to-get-assessed questions for ADHDEvaluations.fyi provider directory. Pooria Arab.
 - [Aether](https://x.ai/bot/NoUDCySD_LNYtHPrpFUAE) - A generative creative engine for browser design tools like Canva, CapCut web, and Adobe Express. Turns briefs, brand kits, and reference images into ad. [davincivibecode](https://x.com/davincivibecode).
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face. [dandayable](https://x.com/dandayable).
 - [AgentRail Research](https://x.ai/bot/vT4SZvFmKSfQjHBrzHema) - Pay-per-call research agent that searches, synthesizes, and returns cited findings. [Bryan](https://x.com/VolHawk1).
@@ -115,6 +116,7 @@ Back to [README](../../README.md)
 - [Crypto](https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy) - English language and literature, signed local correspondence, and blockchain facts from official sources. Works with a secretary of education. Does not... [TRV_Architech](https://x.com/TRV_Architech).
 - [Crypto](https://x.ai/bot/7wv5WYGOnMMImpWdicU3E) - AI crypto sidekick for markets narratives trends and opportunities. [Robert1](https://x.com/Robert1).
 - [Crypto Buddy](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) - Returns a sourced research package for a crypto ticker or coin\: metrics, a plain-English tape read, and a scored research gauge. [Joe](https://x.com/JRNavarro75).
+- [Crypto Coach 2.0](https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU) - Friendly beginner crypto teacher\: basics, wallets, coins, and scam red flags—no trading. James.
 - [Crypto News Desk 2.0](https://x.ai/bot/232LlkmcsiCpE4rakVz5n) - Your own crypto newsroom\: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources. [James](https://x.com/allthemoney).
 - [Crypto Options bot](https://x.ai/bot/16QaosA_qUfqSVDqA2Yq6) - Explains public options data from Deribit, Derive and Paradex \(chains, IV, greeks, skew, OI, block and RFQ trades\) in plain words; never trades or gives advice. [saushank](https://x.com/saushank_).
 - [Curbside Consult](https://x.ai/bot/v3mFMRi6YV0ej4culyWM2) - Curbside consult for clinicians that answers clinical questions with live cited evidence, does dosing math, and reviews protocols without patient identifiers. [Cyber_Holler](https://x.com/Cyber_Holler).
@@ -297,6 +299,7 @@ Back to [README](../../README.md)
 - [MDH Hill Charts](https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA) - Builds high-contrast, source-disciplined charts on Iran currency, oil collapse, and security-force payroll pressure. [Mark Hill](https://x.com/MarinCountyman).
 - [MediaDeconstructor](https://x.ai/bot/R426aIhME68m8-MOd_zPd) - Media deconstructor for a URL, X post, or clip\: stamped facts, story shape, sources, and lazy-summary traps. [nw_great](https://x.com/nw_great).
 - [Medical Vault](https://x.ai/bot/kkEKe1Sl-Ic4sEoDcts-6) - A dedicated medical-records agent for a private dual-track vault on NAS or cloud drive\: immutable Originals, living notes, OCR/visit ingest, portal. [MarshallMoorman](https://x.com/MarshallMoorman).
+- [MemoryCareHomes.fyi](https://x.ai/bot/GUGVNlZzKPpW0JbWIucy8) - Memory care options, costs, and facilities in a place, with links to matching pages. Pooria Arab.
 - [Merchy CEO](https://x.ai/bot/OlyD6yQ15RNPeOoQCPtea) - Print-on-demand shop CEO\: picks winning tee lines, briefs a designer, publishes daily to TeePublic \(and optionally Redbubble\). Creative, trend-aware,. [Dr. Luminos](https://x.com/DrLuminos777).
 - [Merit](https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp) - A Friday desk that scores civic, science and fringe claims on a rubric. [ChiChi077](https://x.com/ChiChi077).
 - [Merritt Cole](https://x.ai/bot/ZeR7XsrWFrtNckFDGH9e_) - Plain-English legal explainer for cases, articles, statutes, and mass-tort / PI patterns. Not a lawyer. Not advice. AdamDesigns.
@@ -381,6 +384,7 @@ Back to [README](../../README.md)
 - [PROSPECTACLE](https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w) - Finds prospects that match your ideal customer, researches each one on the public web, and drafts a first-touch message. Research first, never invents... [BudJohnson](https://x.com/BudJohnson).
 - [pstack Digest](https://x.ai/bot/04jz-n3trSsg4SXsF14XY) - A daily digest of new pstack releases and public agentic-engineering advice from its author, with notes on how each item applies to your own projects. [Josh](https://x.com/friedglue).
 - [Public Threat Desk](https://x.ai/bot/mQslHoIhcjMpzE252Rfpd) - Calm public-source cyber briefs for operators\: KEV refreshes, exploited-vuln awareness, and practical checks on systems you own. [Markus](https://x.com/SleepyCovfefe).
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) - Hiring a licensed public insurance adjuster, with pointers to PublicAdjusters.fyi pages. Pooria Arab.
 - [Pulse](https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms) - A read-only X concierge that turns a day of feed into one skimmable 7am brief. [Andrej](https://x.com/GrokBotDev).
 - [Quant Desk Lead](https://x.ai/bot/n8nC9GmY6ZBdnTE0zRs1T) - Leads a research-only multi-asset quant desk\: daily cross-asset briefs, strategy research and paper trading. Avid.
 - [Quant Researcher](https://x.ai/bot/mthHv9pksQ6KNBr-hAc09) - Backtests strategy ideas, cleans market data, and reviews research code for bias and bugs. Avid.

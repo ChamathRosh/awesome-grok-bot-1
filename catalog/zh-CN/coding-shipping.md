@@ -88,6 +88,7 @@
 - [Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) - 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮. [Lina](https://x.com/Lina).
 - [Chief Security & Compliance Officer](https://x.ai/bot/Yx_UBwU10fFIIEI8Q_3u6) - 给独立应用工作室的安全与合规官，做威胁建模、密钥和权限审计，列出 SOC2 或 HIPAA 差距清单. [Christian](https://x.com/MeechYourGoals).
 - [CitationTrace](https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6) - 把每周的 AI 引用和排名快照做成能直接给客户看的证明报告，给 AI-SEO 代理和品牌内部营销用. Robert.
+- [Clanker Collector](https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg) - 找长期机器人聊天堆积导致的变慢变糊，并动手清理的废品站技工。 JM.
 - [Claude + Codex Connector](https://x.ai/bot/Z8KXVKr9NSqUgpexNfBw7) - 把你的 Claude 和 ChatGPT 订阅接入所有 Grok Bot：写作交给 Claude，编程交给 Codex. [Sushant](https://x.com/ChaiWithAi).
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) - 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 [Daniel](https://x.com/DanielZambrini).
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) - 编码与交付助手. community.
@@ -231,6 +232,7 @@
 - [Garbage Collector](https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_) - 找出能删或能简化的代码，不改变功能，逐条解释，你要时再改. Seth.
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - 用可证明、行为不变的小 PR 清掉死代码。 [Tyler](https://x.com/tylerklose).
 - [Gatekeeper Prime](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) - 双 bot 编程组的评审方，搭配 Builder Prime：审每个 PR、要求证据，你同意才合并. Michael.
+- [GBrain](https://x.ai/bot/ynoVbairpAPDOtdrS51Rf) - 把 Grok Bot 记忆与 GBrain（托管或自建）同步，并帮你跑起来。 Massimo.
 - [Gemini](https://x.ai/bot/WfZ3x5iRCgsCJOzmdIc0n) - 把你的问题发给 Google Gemini 并带回标注好的回答，使用你自己的免费 Gemini API 密钥. [Carolina](https://x.com/CarolinaDill).
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - 运行省积分向导：A 槽是你的电脑（最省），B 槽是云端，C 槽是这个 bot 自己的电脑. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - 带首次向导的省积分工具：图片、视频、长稿和长代码先走本地机器，再走云端. Odd&Entertaining.
@@ -265,6 +267,7 @@
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) - 给共享 Linux 电脑做健康检查磁盘服务和指定软件包更新。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) - 编码工头，把任务分给沙箱代理并先审 diff 与测试. [Mahmoudnia95](https://x.com/Mahmoudnia95).
 - [Grok's Green Thumb](https://x.ai/bot/I2liUP05oDxWsJ4l39JDL) - 看土壤探头读数修庄稼的园艺助手，可选 Optimus 手指底座或手机测量，拍照查水、光照和虫害. [Chris](https://x.com/clterman).
+- [grokcli](https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF) - 写紧凑提示并用 Grok CLI 在本机无头跑起来的编程机器人。 Nil.
 - [Grokologist](https://x.ai/bot/8vdHXq66kVvVlbACd-IDL) - 把 Wormsign 收成两张意图图，追动机不追氛围。 [Knock](https://x.com/SuddenlyJon).
 - [GrokTheVote](https://x.ai/bot/sjCizYYsBpguif5HxNObk) - 输入邮编得到无党派选票追踪，覆盖候选人与议题，附每日新闻、图表与截止日期. [Better Call Claude](https://x.com/freelegalforall).
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) - 为已登记增长实验做产品改动，藏在特性开关后，以小而可审的 PR 交付。 [JaySahnan](https://x.com/JaySahnan).
@@ -281,6 +284,7 @@
 - [Heavy Router](https://x.ai/bot/9g4pfFaeL97GsRJnaQ9jt) - 把难题转给你已经订阅的 AI 方案，比如 ChatGPT、SuperGrok 或 Google AI Pro，并在每次运行时盯着用量. [Reghnam](https://x.com/Reghnam).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - 用现代 Java 写和审 Helidon 4 代码。 [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - 把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。 [helloitsoctocat](https://x.com/helloitsoctocat).
+- [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - 用 herdr CLI 编排编程 agent，扛长而重的构建会话。 Terp.
 - [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - 猎合法短期现金、创业额度与免费领取的金钱代理，也盯账单泄漏. [Tyler](https://x.com/tylerjharden).
 - [Hermes API Fleet](https://x.ai/bot/5KLpaL-JIM2q629kbTh5L) - 在私有 Tailscale 网上用原生 HTTP 与 Hermes 智能体对话，作为舰队唯一通信路径. [Shagghie](https://github.com/shagghiesuperstar).
 - [Hermes SSH Relay](https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-) - 在还没有 HTTP 入口时，经 Tailscale SSH 连上 Hermes 代理. [Shagghie](https://x.com/PixelRainbowNFT).
@@ -567,6 +571,7 @@
 - [The Perfectionist](https://x.ai/bot/w2d5UCMyX-eTy3H2AX2AB) - 在交付前审查成品，只有达到 A 级才算项目完成. [investlong3](https://x.com/investlong3).
 - [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) - 搭建免费 Wazuh SIEM 的威胁狩猎机器人. [pjvann](https://x.com/pjvann).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - 用单树工作流收口系统活，并做失败即停的移动端发版。 [icebakbum](https://x.com/icebakbum).
+- [Time Saved Report](https://x.ai/bot/6Bf-FQhKCNmyS7WNjYrey) - 每周汇总机器人替你省下的熟练工时，带图表和周对比。 Sultanov Ramil.
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - 把一个 API 收成其他 Bot 能直接接上的插件。 [DenisLabelle](https://x.com/DenisLabelle).
 - [tinkabot](https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS) - 把一个 API 包成 Cursor 或 Agent 插件（MCP 加技能）：先理数据结构，最小可用脚手架，本地验证. community.
 - [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - 扫描你的机器人，砍掉浪费额度的无效检索与臃肿上下文. Casey.
@@ -585,6 +590,7 @@
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) - 编码与交付助手. community.
 - [Uptime Bot](https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI) - 安静的网站可用性看守，工作日早间查落地页、登录、注册与核心 API，绿则沉默. [mustafaergisi](https://x.com/mustafaergisi).
 - [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) - 每周盘点所有例行任务按花费排序并标出重复轮询。 [maxjean__](https://x.com/maxjean__).
+- [Usage Bot](https://x.ai/bot/JsGN5XZWolqnL9NzNVaQ2) - 盯 Grok Bot 周用量：每日节奏摘要，并在用量里程碑提醒你。 Bummo.
 - [Usage Guard](https://x.ai/bot/EYULEtHGAh0tEjQzqucBS) - 每天两次检查你的 Grok Bot 和 SuperGrok 每周用量，并维护一个供其他机器人读取的状态文件. [BryanRalston10](https://x.com/BryanRalston10).
 - [Usage Ranger](https://x.ai/bot/omWM6Xdf2cqSFqwCzEFIM) - 追踪你在 Cursor、Codex 和 Claude 上的 AI 工具用量，每个工作日早上简短汇报还剩多少和额外花费. [cradrrat](https://x.com/cradrrat).
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - 把重活派给 Cursor 或 Claude Code 额度而不是烧掉 Grok Bot 用量。 [JordanHall_dev](https://x.com/JordanHall_dev).
@@ -624,6 +630,7 @@
 - [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) - 写代码前先把游戏概念、核心循环与带回访点设计好，再出开发者可执行的构建简报. [ixef](https://x.com/ixef).
 - [X algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) - 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 [mattyp](https://x.com/mattyp).
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) - 帮你在 X API 上交付应用，读开发者展厅与文档并落地. [pjvann](https://x.com/pjvann).
+- [X API MCP](https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ) - 用开源 x-api-mcp 和自有 X App 发帖、回复、串帖和传媒体。 DING.
 - [X API Optimizer](https://x.ai/bot/1tsPIu41IIsn2ZRWUWSA6) - 帮在 X API 上开发的人省积分、避开限流、让应用跑得更快. [pjvann](https://x.com/pjvann).
 - [X402 Merchant](https://x.ai/bot/-miS0AF-lema7i8Z019Qp) - 在 Cloudflare Workers 上搭一个 x402 付费内容商店：私有 R2 目录放在 Base 上 0.01 USDC 的付费墙后，用 Coinbase CDP 结算. [Eric](https://x.com/rrrkren).
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) - 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒. Natasha.

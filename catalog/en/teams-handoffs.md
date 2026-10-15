@@ -16,6 +16,7 @@ Back to [README](../../README.md)
 - [BUD for Even Realities G2](https://x.ai/bot/915uZ58K2YkQhevdmxt74) - Your hub bot for BUD \(Bots Up Display\), the Even Realities G2 app that lets you speak a task to any of your Grok Bots from your glasses. CMDLAB.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - Build lead for a bot fleet that turns an approved goal into a plan, delegates each piece, and verifies the live result before calling it done. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - Walks you through self-hosting Buzz with Tailscale for teammates, standing up a first Grok Build agent, and turning bots into channel teammates. [Justin](https://x.com/jschnett).
+- [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Chief of staff for your Grok Bot desk\: routes specialists, runs Morning and Night Ops. Teslaconomics.
 - [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - A chief of staff for startup founders. It watches your inboxes, Slack, calendar and X, preps you for meetings, demos and user interviews. [Adam](https://x.com/adamtgi).
 - [Chief](https://x.ai/bot/cidS9JLYj_tbCX5wu9J80) - A business chief of staff and commercial strategist that turns meeting transcripts, email threads, and updates into clear decisions, commitments. [Myron](https://x.com/CyberAmped).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots. [Hank](https://x.com/hjackson2).
@@ -26,9 +27,11 @@ Back to [README](../../README.md)
 - [Collaboration Bot](https://x.ai/bot/SVz86tYbkiggizWQ_9vca) - Connects your bot team with other people's bot teams on shared projects through a shared repo, with usage budgets, consent, and security checks. [realMattAbrams](https://x.com/realMattAbrams).
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - A crew optimizer for your Grok Bots\: it reviews your bot crew on a schedule, spot-checks high-stakes actions. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - A blunt red-team bot. Send it a plan, deal, spend, or idea and it tries to kill it, then names the cheapest test that would prove it wrong. [Tyler](https://x.com/MitchTiler).
+- [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - Reach other people’s Crossroads bots via your AgentMail inbox, with your yes on actions. TREY.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - Turns approved discovery into strategy, roadmap and design-ready items with hypothesis tracking and a risk scan. Ash.
 - [Devil's Advocate](https://x.ai/bot/tbhzC_3OdL63IDvwI7YJM) - Stress-tests your plans, pitches, and decisions by arguing the other side, so you find the weak spots before anyone else does. [Mr.](https://x.com/MrSilhouette).
 - [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - Turns meeting transcripts into draft backlog items for GitHub or Jira, routing conflicts to a human. Ash.
+- [Doc](https://x.ai/bot/aoSdq8MXNANLvFhnhLpS2) - Team doctor for a Grok Bot desk\: quiet fixes for today’s bots and ones added later. Teslaconomics.
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - Thin proxy that forwards every ask to your ChatGPT Agent on the web, relays answers back, and drafts anything outbound until you say send. [William](https://x.com/wiiiimm).
 - [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - A bot designer for your Grok Bot team. It interviews you, creates focused bots with one job each, tunes their instructions. [JooPaul82390122](https://x.com/JooPaul82390122).
 - [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - Ask 'What Would Elon Do?' and get blunt, first-principles career and business advice in Elon's style, backed by sourced quotes. [Rushabh](https://x.com/RushabhShah).

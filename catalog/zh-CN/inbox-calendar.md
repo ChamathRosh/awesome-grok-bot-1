@@ -19,6 +19,7 @@
 - [Desk Assistant](https://x.ai/bot/JMqaSYGloYJX5XZrr9Bj0) - 每日桌面助理：晨报、排程、提醒、邮件分拣和附来源的快速调研，只起草，未经你同意不发送. [Kristoffer](https://x.com/vera_desk_asst).
 - [Donna](https://x.ai/bot/GRrmYf9RDCK2DddGYSe6g) - 把短信里的每个计划连夜放进日历：Donna 会抓住遗漏、读懂言外之意，未经你同意绝不发送. [Mohammed](https://x.com/0xmoalo).
 - [Email Scam Filter](https://x.ai/bot/0iuz7X3hVDGJhJIBWTTZ_) - 每天早上只读扫描 Gmail，参考 FTC 等最新警示给每封可疑邮件打 0–100 的诈骗分并用颜色标出. Brian.
+- [Family Digest](https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG) - 家庭秘书：把学校、社团、医生和聊天消息收成一份晚间摘要。 Sultanov Ramil.
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - 为你的 Grok Bot 邮箱搭建并部署一个 Apple Mail 风格的邮件应用. [krushalkalkani](https://x.com/krushalkalkani).
 - [Founder's Desk](https://x.ai/bot/HICQrhoWRRdPNMszNXbtV) - 小企业老板的幕僚长：每个工作日早上汇报交付了什么、卡在哪、哪些需要你、还有哪些未兑现的承诺. [IntelliGeneAI](https://x.com/IntelliGeneAI).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - 每天早上整理你的 Gmail，用日语按优先级列出今天要做的事，可以只发报告，也可以交给主机器人. [UNSER](https://x.com/Tomoya_MovieEdt).
@@ -55,6 +56,7 @@
 - [Scholty's Email Scam Filter](https://x.ai/bot/DCfu2JN_4J7q_GgsWb3MM) - 以只读方式扫描 Gmail 中的诈骗、钓鱼和伪造邮件，并参照 FTC、FBI、BBB 最新警示为可疑邮件打 0–100 分. [Dieter](https://x.com/Scholty).
 - [School Email Digest](https://x.ai/bot/KEq3IeZPGgD_LH9chafra) - 每个上学日前一晚只读你批准的学校和活动邮件，告诉你明天有什么、哪些需要签字. [Cristopher](https://x.com/crisships).
 - [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - 为你的会议预订 Skedda 会议室并在自动取消前签到，出错才提醒. Shawn.
+- [Slackおまかせくん](https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn) - 在 Slack 贴 🤖 就起草任务、回复和日历；你选一下就能推进。 akihiro.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - 清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动. ʞɔɐz.
 - [Weekly Wins](https://x.ai/bot/FDohHBN7D4epFCV1bSYCW) - 周五从已连接日历（可选偷看已发邮件）起草本周战果。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - 读取家里共享的日历，把生日、预约和学校活动整理成一份早间简报给忙碌的家长. [Caleeeb](https://x.com/gearcaleeeb).

@@ -11,6 +11,7 @@
 - [Ad Spend Watch](https://x.ai/bot/MK5zStpj_As8CsRwg3r6w) - 盯广告花费与表现，在烧预算前标出异常，可从粘贴导出工作，未经你同意不停投放。 [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Agent Zero](https://x.ai/bot/hv70IMR--R-c9VZF3aZ7X) - 个人声誉专员，经同意后找名单并提交删数据请求. [TRV_Architech](https://x.com/TRV_Architech).
 - [Agentic Trader Starter](https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo) - 给智能交易者的模板与技能，含高级订单类型。 [MurrLincoln](https://x.com/MurrLincoln).
+- [AI Bookkeeper & Tax Assistant (Beancount)](https://x.ai/bot/XSWze_slwQwS96bVcVN-j) - 用 Beancount 做小企业与房产 LLC 的记账和税务筹划。 Benjamin.
 - [AI Credits](https://x.ai/bot/ZF5333Z2Ool2V6h3WtgUW) - 在 X 与网上挖免费 AI 额度、试用模型、订阅折扣、创业计划与编程 agent 赠送。 [szavinny](https://x.com/szavinny).
 - [AIUsageBot](https://x.ai/bot/2atUDeldi9vF1R_ySRgCo) - 跟踪每份 AI 订阅你真正用了多少。 [Brian](https://x.com/BrianDEvans).
 - [Albert](https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP) - 把各地警察工会合同里的薪酬福利抽出来，做成对照表。 [Skyler_Miller56](https://x.com/Skyler_Miller56).
@@ -248,6 +249,7 @@
 - [Jim Simons](https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L) - 用 Jim Simons 的思路从噪声中找信号，把 99% 的交易想法当运气淘汰，并全天盯着你的投资组合. [Codila](https://x.com/51bodila).
 - [Junk Listing](https://x.ai/bot/LgGbyjf7hxr6q723yJfP0) - 拍车库杂物照片，按当地行情估价、上架，滞销再降价。 [BudJohnson](https://x.com/BudJohnson).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi 研究席位，专管单一市场并把下单记录在案. [Jodi](https://x.com/WorkWithJodi).
+- [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - 用你自己的 Akahu 个人凭证，只读查看新西兰银行账户。 Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - 对照排班与打卡下班时间，抓住工时漂移，减少加班意外. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - 十万软顶的Mag8落后股袖仓，对美股巨头排名并挑最落后的一只做研究与执行. [SachivM99](https://x.com/SachivM99).
 - [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - 德州律所运营助手，覆盖家事民事刑事与遗产，草稿标 SAMPLE，须律师审签. [JoshuaRCook](https://x.com/JoshuaRCook).
@@ -529,6 +531,7 @@
 - [Wheel Bot](https://x.ai/bot/WPLaxPZ0semWL2Es9kW_2) - 最好搭配 Stock Market Manager 使用：找符合你风控规则的现金担保卖出看跌期权和备兑看涨期权机会. [utahpowscott](https://x.com/utahpowscott).
 - [Whop Economic Intelligence](https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c) - 点出店铺下一步增长动作，并证明是否奏效. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Wire](https://x.ai/bot/y73FMiyQPFY_IdrbckyFj) - 数据驱动且交易需批准的代理桌，覆盖 Coinbase、Robinhood 等. [j6commission](https://x.com/j6commission).
+- [Would Thiel Buy It?](https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE) - 按 Zero to One 读 SEC：每只股票给出垄断/挑战者/竞争者一票判决。 중현.
 - [Wrench](https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd) - 你的保时捷修车搭子，诊断、保养、用车建议，直说到底该不该修. [jeffleemoon](https://x.com/jeffleemoon).
 - [X ALPHA](https://x.ai/bot/EATrfsW73LbCgHF7UIWTz) - 自主股票研究 bot：在 X 上发掘早期中小盘标的，并按发帖人经核实的历史战绩打分. [Nate](https://x.com/NateLorenzen).
 - [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) - 运营一个 X 账号，起草、排期、点赞、回复、关注与抽奖，都从已登录号执行. [TejasCh32900009](https://x.com/TejasCh32900009).

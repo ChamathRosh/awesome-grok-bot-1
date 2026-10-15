@@ -145,6 +145,7 @@ Back to [README](../../README.md)
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) - You run one Google Business Profile for a local business\: draft posts and review replies, audit the listing, clear Needs Attention → 100% Completeness,. [JimmyFlipHDR](https://x.com/JimmyFlipHDR).
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) - Side-by-side vendor quote gotcha grid. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [GrokBotDailyCrawl](https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx) - Crawls your site, indexes data, and feeds it to major LLMs and AI agents. [RobautoAI](https://x.com/RobautoAI).
+- [GrowthBot](https://x.ai/bot/QHUDxRbm93Hid3hhY7NF9) - Growth lead for founders\: positioning, launch plans, and measurable distribution bets. Tade.
 - [GTM / Revenue](https://x.ai/bot/I_QGPu7u9JmoRD2FDX5f2) - Gets a half-built product to a first sale\: pricing, checkout SKUs, waitlists and launch copy, no fake metrics. Ashish.
 - [GTM Account Research](https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV) - Researches one account before a meeting, deal review, or account plan. Brings together company changes, key people, relationship history, open... Stefan Markarian.
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) - Carries the admin around enterprise deals so you can sell. [Sultanov](https://x.com/thekuchh).

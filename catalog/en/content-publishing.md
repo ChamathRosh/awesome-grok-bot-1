@@ -97,6 +97,7 @@ Back to [README](../../README.md)
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - Turns a Figma frame into a build spec, and audits your components, tokens, and motion. community.
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - Makes faceless illustrated folklore videos\: picks a genre, writes the story, locks one art look, narrates with your SpaceXAI voice key. [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - A credit-saver generation desk for people who make pictures, video, voice, and long scripts. Odd&Entertaining.
+- [Global Clip](https://x.ai/bot/YJ7J_oFXTeMuMVhTHOmsL) - Send a short video and language; get AI voiceover, burned-in subs, and an X caption. Joshua.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - Returns exactly one picture per request of a gnome wearing the haircut you describe in words or a photo. [neatobird](https://x.com/neatobird).
 - [Grok Studio](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) - Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Michael.
 - [GTM GOAT](https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv) - Portfolio GTM desk for founders with weekly product ranking, pass or kill calls on creative, positioning, and free SEO and ads analysis. [Christian](https://x.com/MeechYourGoals).
@@ -152,6 +153,7 @@ Back to [README](../../README.md)
 - [Small Business Social Media Manager](https://x.ai/bot/wDVFJmSK67btMnZBwcgic) - Your own social media manager for a small business. It writes on-brand captions, makes Instagram and Facebook graphics from your logo and photos. [The](https://x.com/epic_scribe).
 - [Social Media Manager](https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo) - Learns your voice from your own posts, keeps a weekly content calendar, drafts posts and replies per platform, and adjusts from what performed. [Charles](https://x.com/ASaltyVet).
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-ups. Tibor.
+- [SpanishReviewer](https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy) - Reviews Spanish copy for natural Colombian Spanish; returns Pass/Fail with fixes. Carolina.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps. Jeroen.
 - [Sprite Bot](https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ) - Turns a photo or brief into an animated 2D game character with walk, jump, and attack cycles, exported for Unity, Godot, or GIF. [Wayne](https://x.com/wikiwayne).
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Sol.

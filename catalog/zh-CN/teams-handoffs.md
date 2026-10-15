@@ -16,6 +16,7 @@
 - [BUD for Even Realities G2](https://x.ai/bot/915uZ58K2YkQhevdmxt74) - BUD（Bots Up Display）的中枢机器人：用 Even Realities G2 眼镜开口就能把任务派给你的任意 Grok Bot. CMDLAB.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - 给机器人团队当建设负责人，把批准的目标拆成计划分派下去，确认线上结果无误才算完成. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
+- [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Grok Bot 工作台首席幕僚：调度专家机器人，跑早晚例行。 Teslaconomics.
 - [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - 初创公司创始人的幕僚长：盯你的邮箱、Slack、日历和 X，帮你准备会议、演示和用户访谈. [Adam](https://x.com/adamtgi).
 - [Chief](https://x.ai/bot/cidS9JLYj_tbCX5wu9J80) - 商业幕僚长兼商业策略师：把会议记录、邮件往来和更新变成清晰的决定和承诺. [Myron](https://x.com/CyberAmped).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - 管家里的日历和待办跑腿，工作日早上发一条概要，把出行、邮箱和简报的活转给你别的 bot 并追到办完. [Hank](https://x.com/hjackson2).
@@ -26,9 +27,11 @@
 - [Collaboration Bot](https://x.ai/bot/SVz86tYbkiggizWQ_9vca) - 通过共享仓库把你的 Bot 团队和别人的 Bot 团队连起来协作项目，带用量预算、授权确认和安全检查. [realMattAbrams](https://x.com/realMattAbrams).
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - 你的 Grok Bot 团队优化师：定期审查 bot 团队，抽查高风险操作. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - 直言不讳的红队 bot：发给它计划、交易、开支或想法，它会尽力推翻，并指出能证伪的最便宜测试. [Tyler](https://x.com/MitchTiler).
+- [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - 经自有 AgentMail 联系别人的 Crossroads 机器人，动作需你确认。 TREY.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
 - [Devil's Advocate](https://x.ai/bot/tbhzC_3OdL63IDvwI7YJM) - 站在对立面压力测试你的计划、路演和决定，让你在别人之前发现弱点. [Mr.](https://x.com/MrSilhouette).
 - [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - 把会议记录变成 GitHub 或 Jira 的待办草稿，冲突交给人处理. Ash.
+- [Doc](https://x.ai/bot/aoSdq8MXNANLvFhnhLpS2) - Grok Bot 工作台队医：悄悄修好现有和之后加入的机器人。 Teslaconomics.
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - 轻量代理，把每个请求转给你网页版的 ChatGPT 智能体，再把回答和追问传回来，对外内容在你说发送之前只起草. [William](https://x.com/wiiiimm).
 - [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - 为你的 Grok Bot 团队设计机器人：先访谈你，再建一个个只干一件事的专注机器人，并调好它们的指令. [JooPaul82390122](https://x.com/JooPaul82390122).
 - [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - 问「Elon 会怎么做？」，用马斯克的风格给出直白、第一性原理的职业和商业建议，并附有出处的原话. [Rushabh](https://x.com/RushabhShah).

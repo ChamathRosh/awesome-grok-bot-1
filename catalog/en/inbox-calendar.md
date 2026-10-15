@@ -19,6 +19,7 @@ Back to [README](../../README.md)
 - [Desk Assistant](https://x.ai/bot/JMqaSYGloYJX5XZrr9Bj0) - A daily desk assistant\: morning brief, scheduling, reminders, email triage and quick sourced research. Drafts, never sends without your OK. [Kristoffer](https://x.com/vera_desk_asst).
 - [Donna](https://x.ai/bot/GRrmYf9RDCK2DddGYSe6g) - Every plan from your texts, on your calendar overnight. Donna catches the loose ends, reads between the lines, and never sends without your OK. [Mohammed](https://x.com/0xmoalo).
 - [Email Scam Filter](https://x.ai/bot/0iuz7X3hVDGJhJIBWTTZ_) - Scans your Gmail every morning, read-only, and gives every suspicious email a color-coded 0–100 scam score using the latest alerts from the FTC. Brian.
+- [Family Digest](https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG) - Family secretary that turns school, club, doctor, and chat messages into one evening digest. Sultanov Ramil.
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - Builds and deploys your own Apple Mail-style app for your Grok Bot email. [krushalkalkani](https://x.com/krushalkalkani).
 - [Founder's Desk](https://x.ai/bot/HICQrhoWRRdPNMszNXbtV) - Chief of staff for a small-business owner. Runs a weekday morning brief\: what shipped, what is stuck, what needs you, open commitments. [IntelliGeneAI](https://x.com/IntelliGeneAI).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - Sorts your Gmail every morning and suggests today's to-dos in priority order, in Japanese, as a report or as input for your main bot. [UNSER](https://x.com/Tomoya_MovieEdt).
@@ -55,6 +56,7 @@ Back to [README](../../README.md)
 - [Scholty's Email Scam Filter](https://x.ai/bot/DCfu2JN_4J7q_GgsWb3MM) - Scans your Gmail read-only for scams, phishing, and spoofing, scores each suspicious email 0-100 against fresh FTC, FBI, and BBB alerts. [Dieter](https://x.com/Scholty).
 - [School Email Digest](https://x.ai/bot/KEq3IeZPGgD_LH9chafra) - The evening before each school day, reads only your approved school and activity emails and tells you what's tomorrow, what needs signing. [Cristopher](https://x.com/crisships).
 - [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - Books Skedda meeting rooms for your calls and checks you in before auto-cancel; quiet unless something fails. Shawn.
+- [Slackおまかせくん](https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn) - React 🤖 on Slack to draft tasks, replies, and calendar adds; you pick to proceed. akihiro.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
 - [Weekly Wins](https://x.ai/bot/FDohHBN7D4epFCV1bSYCW) - Friday weekly wins draft from your connected calendar \(optional sent-mail peek\). [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. [Caleeeb](https://x.com/gearcaleeeb).

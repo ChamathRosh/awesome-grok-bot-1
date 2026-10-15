@@ -7,6 +7,7 @@
 - [Account Media Rundown](https://x.ai/bot/_gepo03hyPVe3i7hlQwa9) - 为一个战略客户做每周媒体汇总：看该公司员工的网络研讨会、播客、演讲和 X 帖子，报告新要点. Sultanov.
 - [Account Research Specialist](https://x.ai/bot/sa7d7f82d0068c2367a17) - 接触前先给客户分层 合 Salesforce 和实时信号打匹配度和热度，每家出一份可传阅的调研包. [SpaceX](https://x.com/DenisLabelle).
 - [Adam](https://x.ai/bot/ljkUXjCmdkW4XJHWRJxFn) - 检索 NRC ADAMS 新文档，并做工作日简报与美国核电机组运行份额. [Steffan](https://x.com/UnoMasReactor).
+- [ADHDEvaluations.fyi](https://x.ai/bot/3BzMcyB1UmCA2TItOmrMF) - 对照 ADHDEvaluations.fyi 名录，回答去哪里做 ADHD 评估。 Pooria Arab.
 - [Aether](https://x.ai/bot/NoUDCySD_LNYtHPrpFUAE) - 面向 Canva、CapCut 网页与 Adobe Express 等浏览器设计工具的生成式创意引擎，把简报与品牌包变成广告素材. [davincivibecode](https://x.com/davincivibecode).
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - 创始人主导 AI 机构的幕僚长，分流工作、跑常设运营看守，并路由专家. [dandayable](https://x.com/dandayable).
 - [AgentRail Research](https://x.ai/bot/vT4SZvFmKSfQjHBrzHema) - 按次计费的研究代理负责检索综合并交回带出处的结论. [Bryan](https://x.com/VolHawk1).
@@ -115,6 +116,7 @@
 - [Crypto](https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy) - 英语文学、本地书信与区块链公开事实，不碰密钥托管. [TRV_Architech](https://x.com/TRV_Architech).
 - [Crypto](https://x.ai/bot/7wv5WYGOnMMImpWdicU3E) - 加密市场叙事与机会侧写，少噪音多信号. [Robert1](https://x.com/Robert1).
 - [Crypto Buddy](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) - 输入加密货币代码或币名后返回带出处的研究包含指标白话盘面解读与评分量表. [Joe](https://x.com/JRNavarro75).
+- [Crypto Coach 2.0](https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU) - 面向新手的加密货币老师：基础、钱包、币种和骗局红旗，不做交易。 James.
 - [Crypto News Desk 2.0](https://x.ai/bot/232LlkmcsiCpE4rakVz5n) - 你的加密新闻编辑部：每天早上挖出过去 24 小时的加密新闻，并对照原始来源核实. [James](https://x.com/allthemoney).
 - [Crypto Options bot](https://x.ai/bot/16QaosA_qUfqSVDqA2Yq6) - 读取 Deribit、Derive、Paradex 的公开期权数据（期权链、隐含波动率、希腊值、偏斜、持仓、大宗和 RFQ 成交）并用大白话解释，不交易也不给买卖建议. [saushank](https://x.com/saushank_).
 - [Curbside Consult](https://x.ai/bot/v3mFMRi6YV0ej4culyWM2) - 给临床医生的快速会诊，用实时检索的文献、指南和药品说明回答临床问题，做经过验证的剂量计算，禁止输入患者身份信息. [Cyber_Holler](https://x.com/Cyber_Holler).
@@ -297,6 +299,7 @@
 - [MDH Hill Charts](https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA) - 用高对比、可核源的图表梳理伊朗汇率楔子、油价坍塌与安保薪酬压力，并做周度裁切. [Mark Hill](https://x.com/MarinCountyman).
 - [MediaDeconstructor](https://x.ai/bot/R426aIhME68m8-MOd_zPd) - 拆解链接、帖子或片段，标出事实、叙事结构、来源和偷懒摘要的坑. [nw_great](https://x.com/nw_great).
 - [Medical Vault](https://x.ai/bot/kkEKe1Sl-Ic4sEoDcts-6) - 专用病历代理，面向 NAS 或云上的私有双轨保险库. [MarshallMoorman](https://x.com/MarshallMoorman).
+- [MemoryCareHomes.fyi](https://x.ai/bot/GUGVNlZzKPpW0JbWIucy8) - 按地点查记忆护理选项、费用和机构，并链到对应页面。 Pooria Arab.
 - [Merchy CEO](https://x.ai/bot/OlyD6yQ15RNPeOoQCPtea) - 按需印刷店CEO，挑爆款Tee线、出设计简报并每日发到TeePublic，可选同步Redbubble. [Dr. Luminos](https://x.com/DrLuminos777).
 - [Merit](https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp) - 周五值守台，按量表给公共、科学与边缘主张打分. [ChiChi077](https://x.com/ChiChi077).
 - [Merritt Cole](https://x.ai/bot/ZeR7XsrWFrtNckFDGH9e_) - 用大白话解释案件、文章、法条和大规模侵权或人身伤害模式，不是律师，不构成建议. AdamDesigns.
@@ -381,6 +384,7 @@
 - [PROSPECTACLE](https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w) - 找符合画像的潜客，在公开网上研究每人并起草首触消息，先研究、不编造、发送前问你。 [BudJohnson](https://x.com/BudJohnson).
 - [pstack Digest](https://x.ai/bot/04jz-n3trSsg4SXsF14XY) - 每天汇总 pstack 新版本和作者公开的智能体工程建议，并说明每条如何用到你自己的项目. [Josh](https://x.com/friedglue).
 - [Public Threat Desk](https://x.ai/bot/mQslHoIhcjMpzE252Rfpd) - 给运维看的公开来源网络威胁简报：KEV 更新、在野利用提醒，以及对自有系统的务实检查. [Markus](https://x.com/SleepyCovfefe).
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) - 关于聘请持证公共保险公估人的问答，并指向 PublicAdjusters.fyi。 Pooria Arab.
 - [Pulse](https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms) - 只读的 X 管家，把一整天的时间线压成早 7 点一份能扫完的简报。 [Andrej](https://x.com/GrokBotDev).
 - [Quant Desk Lead](https://x.ai/bot/n8nC9GmY6ZBdnTE0zRs1T) - 带一个只做研究的多资产量化台：每日跨资产简报、策略研究和模拟交易. Avid.
 - [Quant Researcher](https://x.ai/bot/mthHv9pksQ6KNBr-hAc09) - 回测策略想法、清洗行情数据，审查研究代码的偏差和 bug. Avid.

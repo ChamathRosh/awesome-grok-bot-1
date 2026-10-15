@@ -88,6 +88,7 @@ Back to [README](../../README.md)
 - [Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) - A chief of staff for working mothers juggling a career and a household. It leads a team of specialist bots that reengineer process and IT to smooth out... [Lina](https://x.com/Lina).
 - [Chief Security & Compliance Officer](https://x.ai/bot/Yx_UBwU10fFIIEI8Q_3u6) - Defensive security and compliance officer for indie app studios that runs threat models, secrets and RLS audits, and SOC2 or HIPAA gap lists. [Christian](https://x.com/MeechYourGoals).
 - [CitationTrace](https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6) - Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers. Robert.
+- [Clanker Collector](https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg) - Junkyard mechanic that finds chat rot in long-running bots and cleans them up. JM.
 - [Claude + Codex Connector](https://x.ai/bot/Z8KXVKr9NSqUgpexNfBw7) - Connect your Claude and ChatGPT subscriptions to all your Grok Bots. [Sushant](https://x.com/ChaiWithAi).
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) - A dedicated coding agent that runs all software work through the Claude Code CLI. [Daniel](https://x.com/DanielZambrini).
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) - Adds the real Claude Code CLI to your Grok Bot team on Opus 5.5. community.
@@ -231,6 +232,7 @@ Back to [README](../../README.md)
 - [Garbage Collector](https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_) - Finds code you can remove or simplify without changing what it needs to do. Explains each change and makes it when asked. Seth.
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - Pulls provable dead code in tiny behaviour-preserving pull requests. [Tyler](https://x.com/tylerklose).
 - [Gatekeeper Prime](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) - Reviewer half of a two-bot coding team with Builder Prime\: reviews every PR, demands proof and merges only on your yes. Michael.
+- [GBrain](https://x.ai/bot/ynoVbairpAPDOtdrS51Rf) - Keeps Grok Bot memory in sync with GBrain \(hosted or self-hosted\) and helps run it. Massimo.
 - [Gemini](https://x.ai/bot/WfZ3x5iRCgsCJOzmdIc0n) - Sends your questions to Google Gemini and brings back its answers, labeled. Uses your own free Gemini API key. [Carolina](https://x.com/CarolinaDill).
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - Credit-saver that runs the Gen Saver Wizard. Slot A is your computer \(most saved\), slot B is the cloud, and slot C is this bot's computer. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud. Odd&Entertaining.
@@ -265,6 +267,7 @@ Back to [README](../../README.md)
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) - Sysadmin for the Bot Linux VM covering CPU, disk, services, and named package updates. [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) - A coding foreman that delegates to sandboxed agents and reviews their work. [Mahmoudnia95](https://x.com/Mahmoudnia95).
 - [Grok's Green Thumb](https://x.ai/bot/I2liUP05oDxWsJ4l39JDL) - Garden helper for soil-probe readings and crop fix-ups. Optional Optimus finger dock or phone meter; photo checks for water, sun, pests. [Chris](https://x.com/clterman).
+- [grokcli](https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF) - Coding bot that writes tight prompts and runs them through the Grok CLI headless. Nil.
 - [Grokologist](https://x.ai/bot/8vdHXq66kVvVlbACd-IDL) - Turns Wormsign into two intent graphs that chase motive, not vibe. [Knock](https://x.com/SuddenlyJon).
 - [GrokTheVote](https://x.ai/bot/sjCizYYsBpguif5HxNObk) - Enter your zip code and get a nonpartisan tracker of every candidate and ballot measure you'll vote on, with daily news, charts, deadlines, and ways to. [Better Call Claude](https://x.com/freelegalforall).
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) - Builds the product changes registered growth experiments need, behind feature flags, as small reviewable PRs. Only takes work from Product Growth PM... [JaySahnan](https://x.com/JaySahnan).
@@ -281,6 +284,7 @@ Back to [README](../../README.md)
 - [Heavy Router](https://x.ai/bot/9g4pfFaeL97GsRJnaQ9jt) - Routes your hard questions to the AI plans you already have, like ChatGPT, SuperGrok, or Google AI Pro, and watches usage on every run. [Reghnam](https://x.com/Reghnam).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - Writes and reviews Helidon 4 code on modern Java. [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - Tidies a repo merge flow from main into master with Graph API change notes. [helloitsoctocat](https://x.com/helloitsoctocat).
+- [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - Orchestrates coding agents through the herdr CLI for long, heavy build sessions. Terp.
 - [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - A money agent that hunts legal near-term cash, startup credits, and free claims, and also coaches credit/debt and underwriting readiness. Dollar-first,. [Tyler](https://x.com/tylerjharden).
 - [Hermes API Fleet](https://x.ai/bot/5KLpaL-JIM2q629kbTh5L) - Talks to Hermes agents over native HTTP on a private Tailscale net as the sole fleet talk path. [Shagghie](https://github.com/shagghiesuperstar).
 - [Hermes SSH Relay](https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-) - Reach a Hermes agent over Tailscale SSH when no HTTP endpoint exists yet. [Shagghie](https://x.com/PixelRainbowNFT).
@@ -567,6 +571,7 @@ Back to [README](../../README.md)
 - [The Perfectionist](https://x.ai/bot/w2d5UCMyX-eTy3H2AX2AB) - Reviews finished work before it ships; only calls a project done at an A. [investlong3](https://x.com/investlong3).
 - [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) - A threat-hunter bot that builds a free Wazuh SIEM. [pjvann](https://x.com/pjvann).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - Closes out systems work with a single-tree workflow and fail-closed mobile release. [icebakbum](https://x.com/icebakbum).
+- [Time Saved Report](https://x.ai/bot/6Bf-FQhKCNmyS7WNjYrey) - Weekly timesheet of skilled hours your bots saved you, with charts and week history. Sultanov Ramil.
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - Turns an API into a plugin your other bots can just pick up and use. [DenisLabelle](https://x.com/DenisLabelle).
 - [tinkabot](https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS) - Wraps an API into a Cursor/Agent Plugin \(MCP + skills\). Data shape first, smallest scaffold that works, prove locally. community.
 - [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - Scans your bots for wasteful lookups and cuts unused context fat. Casey.
@@ -585,6 +590,7 @@ Back to [README](../../README.md)
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) - Writes, fixes and reviews Unreal Engine C++ gameplay code. community.
 - [Uptime Bot](https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI) - Quiet website uptime watcher. Checks landing, login, signup, and core APIs on a weekday morning schedule. Stays silent when green; pings only on fail or. [mustafaergisi](https://x.com/mustafaergisi).
 - [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) - Weekly inventory of every routine, ranked by cost, with duplicate and polling flags. [maxjean__](https://x.com/maxjean__).
+- [Usage Bot](https://x.ai/bot/JsGN5XZWolqnL9NzNVaQ2) - Watches Grok Bot weekly usage with a daily pace digest and alerts at spend milestones. Bummo.
 - [Usage Guard](https://x.ai/bot/EYULEtHGAh0tEjQzqucBS) - Checks your Grok Bot and SuperGrok weekly usage twice a day and keeps a status file your other bots read. [BryanRalston10](https://x.com/BryanRalston10).
 - [Usage Ranger](https://x.ai/bot/omWM6Xdf2cqSFqwCzEFIM) - Tracks your AI tool usage across Cursor, Codex and Claude and sends a short weekday-morning summary of what's left, any extra spend. [cradrrat](https://x.com/cradrrat).
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits. [JordanHall_dev](https://x.com/JordanHall_dev).
@@ -624,6 +630,7 @@ Back to [README](../../README.md)
 - [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) - Designs your game before anyone writes code\: the concept, the core loop, what brings players back, and a build brief a developer or coding agent can. [ixef](https://x.com/ixef).
 - [X algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) - Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. [mattyp](https://x.com/mattyp).
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) - Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and. [pjvann](https://x.com/pjvann).
+- [X API MCP](https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ) - Posts, replies, threads, and media via open-source x-api-mcp and your own X App. DING.
 - [X API Optimizer](https://x.ai/bot/1tsPIu41IIsn2ZRWUWSA6) - Helps developers building on the X API cut credit spend, avoid rate limits, and speed up their apps. [pjvann](https://x.com/pjvann).
 - [X402 Merchant](https://x.ai/bot/-miS0AF-lema7i8Z019Qp) - Sets up a paid x402 content store on Cloudflare Workers\: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP. [Eric](https://x.com/rrrkren).
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) - Checks Apple Developer Releases each morning and alerts when a named Xcode version ships. Natasha.

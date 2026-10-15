@@ -97,6 +97,7 @@
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - 把 Figma 画框变成开发规格，并审计组件、token 和动效. community.
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - 做无脸民俗插画视频：选题、写故事、锁画风，用你的 SpaceXAI 语音密钥旁白。 [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - 给做图片、视频、语音和长脚本的人用的省积分生成台. Odd&Entertaining.
+- [Global Clip](https://x.ai/bot/YJ7J_oFXTeMuMVhTHOmsL) - 发短视频并选语言：得到 AI 配音、烧录字幕和可粘贴的 X 文案。 Joshua.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - 每次只出一张图，画一个顶着你描述或照片里发型的小矮人. [neatobird](https://x.com/neatobird).
 - [Grok Studio](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) - 丢进链接、PDF 或话题，生成带引用、有旁白的讲解视频，由你自己的 AI 主持人出镜，用 Grok Imagine 和 Grok Voice 制作. Michael.
 - [GTM GOAT](https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv) - 给创始人的产品组合市场推广台，每周给产品排序，评判素材留或砍，做定位和免费的 SEO 与广告分析. [Christian](https://x.com/MeechYourGoals).
@@ -152,6 +153,7 @@
 - [Small Business Social Media Manager](https://x.ai/bot/wDVFJmSK67btMnZBwcgic) - 小企业专属社媒经理：撰写符合品牌的文案，用你的标志和照片制作 Instagram 和 Facebook 图片. [The](https://x.com/epic_scribe).
 - [Social Media Manager](https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo) - 从你自己的帖子学会你的口吻，排每周内容日历，按平台起草帖子和回复，再根据表现调整. [Charles](https://x.com/ASaltyVet).
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - 多 bot 太空歌剧角色扮演套件，会自我优化省 token. Tibor.
+- [SpanishReviewer](https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy) - 审校西班牙语文案是否自然哥伦比亚语感，给出通过/不通过与改法。 Carolina.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - 把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter. Jeroen.
 - [Sprite Bot](https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ) - 把照片或文字描述做成带走跑跳攻击动画的 2D 游戏角色，可导出给 Unity、Godot 或 GIF. [Wayne](https://x.com/wikiwayne).
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - 给餐厅、诊所、沙龙、商店和健身房老板以及替他们回评的助理写评价回复. Sol.

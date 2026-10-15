@@ -99195,6 +99195,716 @@
       "verified": false,
       "updated": "2026-10-15",
       "shelf": "raw"
+    },
+    {
+      "slug": "trippy",
+      "name": "Trippy",
+      "author": {
+        "name": "Teslaconomics"
+      },
+      "summary": "24/7 travel teammate for stays, restaurants, day plans, flights, rentals, and shoot ideas.",
+      "summary_zh": "全天候旅行搭档：住宿、餐厅、日程、机票、租车和拍摄点子都帮你排好。",
+      "import": "https://x.ai/bot/-UBhEaV5ItDVIPFV-2j8U",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gym-and-fitness-companion",
+      "name": "Gym and Fitness Companion",
+      "author": {
+        "name": "Chidi"
+      },
+      "summary": "Gym buddy that builds strength and fat-loss plans and tracks protein with real meals.",
+      "summary_zh": "健身搭子：做增肌减脂计划，并用真实餐食帮你盯蛋白质。",
+      "import": "https://x.ai/bot/-lS-I13J2OsQ73B4YZths",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "fitness"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "family-digest",
+      "name": "Family Digest",
+      "author": {
+        "name": "Sultanov Ramil"
+      },
+      "summary": "Family secretary that turns school, club, doctor, and chat messages into one evening digest.",
+      "summary_zh": "家庭秘书：把学校、社团、医生和聊天消息收成一份晚间摘要。",
+      "import": "https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG",
+      "category": "inbox-calendar",
+      "tags": [
+        "research",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "omarchy-ui-helper",
+      "name": "Omarchy UI Helper",
+      "author": {
+        "name": "PWN"
+      },
+      "summary": "Drives your Omarchy (Arch + Hyprland) desktop from chat: open, arrange, and tile apps.",
+      "summary_zh": "用聊天驱动 Omarchy（Arch + Hyprland）桌面：打开、排布和分屏应用。",
+      "import": "https://x.ai/bot/34-oSa3xbDgnKAt8G_nq_",
+      "category": "personal-admin",
+      "tags": [
+        "omarchy",
+        "helper"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "adhdevaluations-fyi",
+      "name": "ADHDEvaluations.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "Answers where-to-get-assessed questions for ADHDEvaluations.fyi provider directory.",
+      "summary_zh": "对照 ADHDEvaluations.fyi 名录，回答去哪里做 ADHD 评估。",
+      "import": "https://x.ai/bot/3BzMcyB1UmCA2TItOmrMF",
+      "category": "research-briefings",
+      "tags": [
+        "adhdevaluations",
+        "fyi"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "marriagelicense-fyi",
+      "name": "MarriageLicense.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "US marriage license Q&A by county: requirements, fees, waits, and office locations.",
+      "summary_zh": "美国各县结婚证问答：要求、费用、等待期和办理地点。",
+      "import": "https://x.ai/bot/4IyooL04cvtHW7n3dRuQ8",
+      "category": "personal-admin",
+      "tags": [
+        "marriagelicense",
+        "fyi"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "time-saved-report",
+      "name": "Time Saved Report",
+      "author": {
+        "name": "Sultanov Ramil"
+      },
+      "summary": "Weekly timesheet of skilled hours your bots saved you, with charts and week history.",
+      "summary_zh": "每周汇总机器人替你省下的熟练工时，带图表和周对比。",
+      "import": "https://x.ai/bot/6Bf-FQhKCNmyS7WNjYrey",
+      "category": "coding-shipping",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ceo-5",
+      "name": "CEO",
+      "author": {
+        "name": "Teslaconomics"
+      },
+      "summary": "Chief of staff for your Grok Bot desk: routes specialists, runs Morning and Night Ops.",
+      "summary_zh": "Grok Bot 工作台首席幕僚：调度专家机器人，跑早晚例行。",
+      "import": "https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "memorycarehomes-fyi",
+      "name": "MemoryCareHomes.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "Memory care options, costs, and facilities in a place, with links to matching pages.",
+      "summary_zh": "按地点查记忆护理选项、费用和机构，并链到对应页面。",
+      "import": "https://x.ai/bot/GUGVNlZzKPpW0JbWIucy8",
+      "category": "research-briefings",
+      "tags": [
+        "stocks",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "growthbot",
+      "name": "GrowthBot",
+      "author": {
+        "name": "Tade"
+      },
+      "summary": "Growth lead for founders: positioning, launch plans, and measurable distribution bets.",
+      "summary_zh": "给创始人的增长搭档：定位、上线计划和可衡量的分发下注。",
+      "import": "https://x.ai/bot/QHUDxRbm93Hid3hhY7NF9",
+      "category": "customer-sales",
+      "tags": [
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dishdirectory-com",
+      "name": "DishDirectory.com",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "On-topic assistant for dishdirectory.com: where to find a dish or restaurant facts.",
+      "summary_zh": "dishdirectory.com 助手：找某道菜去哪吃，或查餐厅事实。",
+      "import": "https://x.ai/bot/RSNY0OKkZ6i5u-duu4HRM",
+      "category": "personal-admin",
+      "tags": [
+        "meals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "second-opinion",
+      "name": "Second Opinion",
+      "author": {
+        "name": "Glen"
+      },
+      "summary": "Calm second look at messages, posts, purchases, and decisions before you act.",
+      "summary_zh": "行动前冷静复盘：消息、帖子、购物和日常决定的第二意见。",
+      "import": "https://x.ai/bot/_UobKTa_U-a7K6MSQrgmL",
+      "category": "personal-admin",
+      "tags": [
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-api-mcp",
+      "name": "X API MCP",
+      "author": {
+        "name": "DING"
+      },
+      "summary": "Posts, replies, threads, and media via open-source x-api-mcp and your own X App.",
+      "summary_zh": "用开源 x-api-mcp 和自有 X App 发帖、回复、串帖和传媒体。",
+      "import": "https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "doc",
+      "name": "Doc",
+      "author": {
+        "name": "Teslaconomics"
+      },
+      "summary": "Team doctor for a Grok Bot desk: quiet fixes for today’s bots and ones added later.",
+      "summary_zh": "Grok Bot 工作台队医：悄悄修好现有和之后加入的机器人。",
+      "import": "https://x.ai/bot/aoSdq8MXNANLvFhnhLpS2",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "founder-chief-of-staff-3",
+      "name": "Founder Chief of Staff",
+      "author": {
+        "name": "Chidi"
+      },
+      "summary": "Turns fuzzy founder goals into ranked bets, cheap validation, and clear go/no-go calls.",
+      "summary_zh": "把模糊创业目标变成排序赌注、廉价验证和明确的做/不做。",
+      "import": "https://x.ai/bot/cAEBu6dvl4Vt1egvS-8xn",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mriprices-fyi",
+      "name": "MRIPrices.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "MRI costs in a place with concrete prices and links to matching imaging centers.",
+      "summary_zh": "按地点给出 MRI 具体价格，并链到对应影像中心。",
+      "import": "https://x.ai/bot/eFQRxS6MiIvyECEYw-zum",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "health-coach-3",
+      "name": "Health & Coach",
+      "author": {
+        "name": "Sultanov Ramil"
+      },
+      "summary": "Home coach: daily sleep/recovery brief plus a workout for your gear and schedule.",
+      "summary_zh": "居家教练：每日睡眠恢复简报，再配一套适合你设备和日程的训练。",
+      "import": "https://x.ai/bot/eYWjoOgPpWlSiJAuHXzPD",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "health",
+        "calendar",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "itinagents-fyi",
+      "name": "ITINAgents.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "ITIN how-to and nearby IRS Certifying Acceptance Agents, pointing to the matching page.",
+      "summary_zh": "ITIN 办理说明与附近 IRS 认证接收代理人，并指向对应页面。",
+      "import": "https://x.ai/bot/klwu-i2Ulj3zzwj1b0dsK",
+      "category": "personal-admin",
+      "tags": [
+        "itinagents",
+        "fyi"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crossroads",
+      "name": "Crossroads",
+      "author": {
+        "name": "TREY"
+      },
+      "summary": "Reach other people’s Crossroads bots via your AgentMail inbox, with your yes on actions.",
+      "summary_zh": "经自有 AgentMail 联系别人的 Crossroads 机器人，动作需你确认。",
+      "import": "https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T",
+      "category": "teams-handoffs",
+      "tags": [
+        "email",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "publicadjusters-fyi",
+      "name": "PublicAdjusters.fyi",
+      "author": {
+        "name": "Pooria Arab"
+      },
+      "summary": "Hiring a licensed public insurance adjuster, with pointers to PublicAdjusters.fyi pages.",
+      "summary_zh": "关于聘请持证公共保险公估人的问答，并指向 PublicAdjusters.fyi。",
+      "import": "https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN",
+      "category": "research-briefings",
+      "tags": [
+        "jobs"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-context-skills-hub",
+      "name": "AI Context & Skills Hub",
+      "author": {
+        "name": "romeo"
+      },
+      "summary": "Shared Notion hub so Grok Bot, Claude, and ChatGPT share context and skills.",
+      "summary_zh": "在 Notion 建共享上下文与技能中心，让 Grok Bot、Claude、ChatGPT 共用。",
+      "import": "https://x.ai/bot/rAhhI5cD__CnejfWqf3wH",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spanishreviewer",
+      "name": "SpanishReviewer",
+      "author": {
+        "name": "Carolina"
+      },
+      "summary": "Reviews Spanish copy for natural Colombian Spanish; returns Pass/Fail with fixes.",
+      "summary_zh": "审校西班牙语文案是否自然哥伦比亚语感，给出通过/不通过与改法。",
+      "import": "https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy",
+      "category": "content-publishing",
+      "tags": [
+        "spanishreviewer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "clanker-collector",
+      "name": "Clanker Collector",
+      "author": {
+        "name": "JM"
+      },
+      "summary": "Junkyard mechanic that finds chat rot in long-running bots and cleans them up.",
+      "summary_zh": "找长期机器人聊天堆积导致的变慢变糊，并动手清理的废品站技工。",
+      "import": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
+      "category": "coding-shipping",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "global-clip",
+      "name": "Global Clip",
+      "author": {
+        "name": "Joshua"
+      },
+      "summary": "Send a short video and language; get AI voiceover, burned-in subs, and an X caption.",
+      "summary_zh": "发短视频并选语言：得到 AI 配音、烧录字幕和可粘贴的 X 文案。",
+      "import": "https://x.ai/bot/YJ7J_oFXTeMuMVhTHOmsL",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content",
+        "x",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "would-thiel-buy-it",
+      "name": "Would Thiel Buy It?",
+      "author": {
+        "name": "중현"
+      },
+      "summary": "One Monopoly/Contender/Competitor verdict per ticker from SEC filings via Zero to One.",
+      "summary_zh": "按 Zero to One 读 SEC：每只股票给出垄断/挑战者/竞争者一票判决。",
+      "import": "https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE",
+      "category": "finance-ops",
+      "tags": [
+        "would",
+        "thiel",
+        "buy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "grokcli",
+      "name": "grokcli",
+      "author": {
+        "name": "Nil"
+      },
+      "summary": "Coding bot that writes tight prompts and runs them through the Grok CLI headless.",
+      "summary_zh": "写紧凑提示并用 Grok CLI 在本机无头跑起来的编程机器人。",
+      "import": "https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF",
+      "category": "coding-shipping",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "crypto-coach-2-0",
+      "name": "Crypto Coach 2.0",
+      "author": {
+        "name": "James"
+      },
+      "summary": "Friendly beginner crypto teacher: basics, wallets, coins, and scam red flags—no trading.",
+      "summary_zh": "面向新手的加密货币老师：基础、钱包、币种和骗局红旗，不做交易。",
+      "import": "https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU",
+      "category": "research-briefings",
+      "tags": [
+        "stocks",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "slack",
+      "name": "Slackおまかせくん",
+      "author": {
+        "name": "akihiro"
+      },
+      "summary": "React 🤖 on Slack to draft tasks, replies, and calendar adds; you pick to proceed.",
+      "summary_zh": "在 Slack 贴 🤖 就起草任务、回复和日历；你选一下就能推进。",
+      "import": "https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "usage-bot-2",
+      "name": "Usage Bot",
+      "author": {
+        "name": "Bummo"
+      },
+      "summary": "Watches Grok Bot weekly usage with a daily pace digest and alerts at spend milestones.",
+      "summary_zh": "盯 Grok Bot 周用量：每日节奏摘要，并在用量里程碑提醒你。",
+      "import": "https://x.ai/bot/JsGN5XZWolqnL9NzNVaQ2",
+      "category": "coding-shipping",
+      "tags": [
+        "finance",
+        "usage",
+        "bots",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "habito",
+      "name": "Habito",
+      "author": {
+        "name": "Jorge"
+      },
+      "summary": "Calm daily habit companion with one gentle check-in a day to build small habits.",
+      "summary_zh": "安静的每日习惯搭子：一天一次轻问询，帮你养成小习惯。",
+      "import": "https://x.ai/bot/NSx13j49zrCfjGRnJVQ2I",
+      "category": "personal-admin",
+      "tags": [
+        "habito"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "speedy",
+      "name": "Speedy",
+      "author": {
+        "name": "דניאל"
+      },
+      "summary": "Places hold calls via Speedy AI, reaches the right rep, and loops you in when needed.",
+      "summary_zh": "用 Speedy AI 代打电话排队，找到对的人，需要时再把你接上。",
+      "import": "https://x.ai/bot/Smm7grgQ2s0Cv9xqDOqD4",
+      "category": "personal-admin",
+      "tags": [
+        "speedy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kiwi-pocket",
+      "name": "Kiwi Pocket",
+      "author": {
+        "name": "Daimen"
+      },
+      "summary": "Read-only New Zealand bank access via your Akahu personal app credentials.",
+      "summary_zh": "用你自己的 Akahu 个人凭证，只读查看新西兰银行账户。",
+      "import": "https://x.ai/bot/TBDkrl21y6qX-wk5G107W",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-bookkeeper-tax-assistant-beancount",
+      "name": "AI Bookkeeper & Tax Assistant (Beancount)",
+      "author": {
+        "name": "Benjamin"
+      },
+      "summary": "Beancount bookkeeping and tax planning for small businesses and real-estate LLCs.",
+      "summary_zh": "用 Beancount 做小企业与房产 LLC 的记账和税务筹划。",
+      "import": "https://x.ai/bot/XSWze_slwQwS96bVcVN-j",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "weltzeit-rechner",
+      "name": "Weltzeit-Rechner",
+      "author": {
+        "name": "Georg"
+      },
+      "summary": "Converts worldwide events, livestreams, and launches into your local timezone.",
+      "summary_zh": "把全球活动、直播和发射时间换算成你所在时区。",
+      "import": "https://x.ai/bot/gDPOM4zR1g4iIu7ha0NtM",
+      "category": "personal-admin",
+      "tags": [
+        "weltzeit",
+        "rechner"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fantasy-football-gm-2",
+      "name": "Fantasy Football GM",
+      "author": {
+        "name": "Jack"
+      },
+      "summary": "Research-first fantasy football GM for start/sit, waivers, trades, and streaming.",
+      "summary_zh": "偏研究的梦幻橄榄球总经理：首发、弃置、交易和串流建议。",
+      "import": "https://x.ai/bot/hIFPpNZzUvd7zLg9juZ_a",
+      "category": "personal-admin",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "herdr-conductor",
+      "name": "Herdr Conductor",
+      "author": {
+        "name": "Terp"
+      },
+      "summary": "Orchestrates coding agents through the herdr CLI for long, heavy build sessions.",
+      "summary_zh": "用 herdr CLI 编排编程 agent，扛长而重的构建会话。",
+      "import": "https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM",
+      "category": "coding-shipping",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "faith-general",
+      "name": "Faith General",
+      "author": {
+        "name": "Wizard"
+      },
+      "summary": "Warm Christian faith companion: short Scripture check-ins, prayer, and encouragement.",
+      "summary_zh": "温和的基督教信仰搭子：短经文问询、祷告和鼓励。",
+      "import": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
+      "category": "personal-admin",
+      "tags": [
+        "faith",
+        "general"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gbrain",
+      "name": "GBrain",
+      "author": {
+        "name": "Massimo"
+      },
+      "summary": "Keeps Grok Bot memory in sync with GBrain (hosted or self-hosted) and helps run it.",
+      "summary_zh": "把 Grok Bot 记忆与 GBrain（托管或自建）同步，并帮你跑起来。",
+      "import": "https://x.ai/bot/ynoVbairpAPDOtdrS51Rf",
+      "category": "coding-shipping",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-15",
+      "shelf": "raw"
     }
   ]
 }

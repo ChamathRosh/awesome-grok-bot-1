@@ -145,6 +145,7 @@
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) - 打理本地商家的谷歌商家资料，起草帖子与评价回复并审计资料健康度. [JimmyFlipHDR](https://x.com/JimmyFlipHDR).
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) - 供应商报价并排陷阱对照表。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [GrokBotDailyCrawl](https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx) - 爬你的站点做索引，再喂给主流大模型和 AI 代理。 [RobautoAI](https://x.com/RobautoAI).
+- [GrowthBot](https://x.ai/bot/QHUDxRbm93Hid3hhY7NF9) - 给创始人的增长搭档：定位、上线计划和可衡量的分发下注。 Tade.
 - [GTM / Revenue](https://x.ai/bot/I_QGPu7u9JmoRD2FDX5f2) - 把半成品推到第一笔成交：定价、结账 SKU、候补名单和发布文案，不编数据. Ashish.
 - [GTM Account Research](https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV) - 开会、复盘或写客户计划前研究单一账户，汇总公司变化、关键人、关系史与未决事项。 Stefan Markarian.
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) - 扛下企业单周边行政，让你专心卖。 [Sultanov](https://x.com/thekuchh).
