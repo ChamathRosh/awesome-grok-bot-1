@@ -18,6 +18,7 @@ Back to [README](../../README.md)
 - [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) - SMB lead capture and appointment booking assistant for when the business is closed. Robert.
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - Finds and ranks real growers and suppliers near you for any ingredient. [Blaze](https://x.com/BlazeDrinkwine).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - Writes each client's monthly SEO report from real Search Console data\: results, what changed and whether it worked, AI search, next month. [SEOmatic](https://x.com/seomatic_ai).
+- [AI CMO](https://x.ai/bot/yzvLAvBDFtppOIvRNr5Tr) - An AI CMO that speaks CFO, thinks in 4Ps, and runs Brand → Demand → Expand. [Paul](https://x.com/paulsyng).
 - [Airfield Electrical Bid Scout](https://x.ai/bot/PWBPqcCqUbEUPozXozRc3) - Finds and qualifies public bids for airfield lighting, NAVAIDs, FAA fiber, and underground electrical work, and sends a short recap plus a spreadsheet. [thefit24couple](https://x.com/thefit24couple).
 - [Alexandra](https://x.ai/bot/sLyptC4jOKlDSqUHqqvpN) - An AI receptionist for a small business phone line. She answers calls, takes messages, alerts you about every call and text. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so. [StevoM1982](https://x.com/StevoM1982).
@@ -199,6 +200,7 @@ Back to [README](../../README.md)
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends... [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) - Finds nearby small firms whose sites are under-optimised for search. [itsryanlenk](https://x.com/itsryanlenk).
 - [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) - Finds local businesses with missing, broken or outdated websites, audits them with screenshots and Lighthouse. [0xDaemon](https://x.com/ICoffeeDaemon).
+- [Lead Scout](https://x.ai/bot/bFY4jZu-Wwf3LNencvnzD) - Finds people on X who need your service, researches them, and drafts first messages and follow-ups, tracked in HubSpot or a Google Sheet. [Fan](https://x.com/GrokBotRadar).
 - [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) - Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs a five-bullet Slack decision summary. [Anze Voje](https://x.com/anzevoje).
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - Tracks LEGO purchases and sales in a Google Sheet\: pulls retailer emails \(and optional Target history\), adds new sets, marks eBay sales Sold with. [NoahDavidATL](https://x.com/NoahDavidATL).
@@ -223,6 +225,7 @@ Back to [README](../../README.md)
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) - From one fit account, fans out lookalike businesses and confirms who would sign off. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) - Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity and waitlist, and registration-list... [Jenna Nanpei](https://x.com/jennananpei).
 - [Mail Agency Outreach Sniper](https://x.ai/bot/QCYjr5VyQAoDTywMogJbU) - Turns LinkedIn engagement into verified work emails and individually written intros. [RealtimeUK](https://x.com/RealtimeUK).
+- [Maker's Map](https://x.ai/bot/CErfCNSf3MzBG5CmGv9oi) - For aspiring small business owners. A step-by-step mentor for new handmade and small makers selling on Etsy or Shopify. [SOCIETI](https://x.com/SOCIETILILI).
 - [Mappy (Talent Map)](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) - Maps everyone currently working at a target company. [NickRoman](https://x.com/NickRoman).
 - [Marketing Analyst](https://x.ai/bot/1RbG9yW5MpQ55XcQlJ0aQ) - Google Ads–first performance analyst\: turns exports into weekly and monthly reports with commentary, answers reporting asks with real numbers. [Josh Kim](https://x.com/joshkim).
 - [Marketing Head](https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB) - A personal-org marketing head\: owns social strategy, voice, and cadence. Divyansh.
@@ -232,6 +235,7 @@ Back to [README](../../README.md)
 - [Mary (Realtor Assistant)](https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV) - A warm, practical assistant for US real estate agents. Mary tracks licensing and renewals, drafts lead follow-ups, and preps listings, CMAs, showings,. [2Slick](https://x.com/2Slick).
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI video + studio GTM bot\: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding. [sheridap](https://x.com/sheridap).
 - [Meeting Recap Deck](https://x.ai/bot/YklttiPpAHweKbOLV1TSF) - Turns your meeting notes into a recap deck in your slide template. Works from notes you paste or upload, and never invents a quote. [Krista Letz](https://x.com/kristaletz).
+- [MEL preguntas](https://x.ai/bot/YvxsAro5SITkzr5x6TsWg) - Answers Mercado Libre listing questions and post-sale messages in your store's tone. [Maar](https://x.com/maarmapa).
 - [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) - Runs the outreach, watches the redemption form, asks you to approve each submission in chat, and ships the swag. [SpaceX](https://x.com/DenisLabelle).
 - [Messenger Inbox VA](https://x.ai/bot/eGCyiAfGvnspMLamUiXDv) - A virtual assistant for small businesses that watches your Facebook Page inbox, reports every new message. [Josh](https://x.com/iamjoshmoulton).
 - [Midas for the Inbox](https://x.ai/bot/7JAxnSahL4mx-cWpOv1tY) - Your inbox already knows your niche. Midas turns your promo and announcement email into ready-to-review posts for X, Facebook business pages. [Twilight](https://x.com/TwilightSurfers).
@@ -247,6 +251,7 @@ Back to [README](../../README.md)
 - [Nixie](https://x.ai/bot/V4vVQ5UtqQKMTQ7pg3Ihc) - Gmail cleanup clerk for expert witnesses and busy professionals\: trash promo noise, file license and matter mail, and keep availability-outreach. [bfwebster](https://x.com/bfwebster).
 - [NoShipSherlock](https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY) - Lost Package Desk for a store\: tracks missing, stalled, and delivered-but-not-received shipments, runs carrier playbooks, and never files or refunds. [beyrouti](https://x.com/beyrouti).
 - [Novel Workshop Lead](https://x.ai/bot/blWboTjWqU1Nf58X29RYY) - Coordinates a multi-agent novel workshop\: character agents, pacing, and voice take turns writing short scenes while you stay the author. [pioupsi](https://x.com/pioupsi).
+- [Old Leads Finder](https://x.ai/bot/9hId24lSr5Rc_cSUR5evc) - Digs through your CRM and sales inbox for leads you never closed and hands you a ranked list of who to reconnect with. [Wes](https://x.com/realwesfoster).
 - [Onboarder](https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN) - Walks a first-time customer from hello to a working setup one real connection at a time, then retires. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Onboarding Manager](https://x.ai/bot/s9c881536413c0bbfa776) - Builds the checklist, pulls the right docs, answers day-one questions, and routes anything else to whoever can answer. [SpaceX](https://x.com/DenisLabelle).
 - [One-Page Bid](https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY) - For consultants, freelancers, and agency owners coming off a discovery or sales call. Sol.
@@ -302,7 +307,9 @@ Back to [README](../../README.md)
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) - UK construction recruitment assistant for contractor-only job hunts\: CVs, LinkedIn, day-rate roles, and honest applications — no PAYE when the visa. [inovasyonkultur](https://x.com/inovasyonkultur).
 - [referral scout](https://x.ai/bot/CC1AIGOO4qgffVapUzznc) - A LinkedIn networking assistant for job seekers. It researches people at your target companies, drafts personalized connect notes and follow-ups. Yiran.
 - [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) - Multi-surface social distribution agent for LinkedIn, Instagram, TikTok, Pinterest, and X. Drafts in your voice, queues a week for review, and never. [davincivibecode](https://x.com/davincivibecode).
+- [Rematch](https://x.ai/bot/_abcO9nWji9H9yX1r9XGV) - Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK. [Michael](https://x.com/MichaelHeckert).
 - [Reply Desk](https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf) - Drafts replies to customer emails, messages, and public reviews for local service businesses. Never sends or posts; you review and send yourself. [lonzom10](https://x.com/lonzom10).
+- [Research Lead](https://x.ai/bot/UJQ0HSSxARkK_YVpwGXWq) - Turns a business idea into a validated prospect pipeline\: ideal customer, scoring, prospect lists, competitor and pricing digs. [Josh](https://x.com/iamjoshmoulton).
 - [Retention PM](https://x.ai/bot/rpW60FrGhNSw_9eSWYYI5) - Picks up operating accounts, runs penetration plans and health monitoring, and reports retention status. Ash.
 - [Revenue Agent](https://x.ai/bot/mJQ2T8kGcq0fv3wegFlWF) - Screens public X several times a weekday for people and companies who need audit, QoE, tax, or other CPA services, ranks the leads. [Arushj01](https://x.com/Arushj01).
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) - One front door for enablement asks, routed to the right specialist skill. [nathanclark_](https://x.com/nathanclark_).
@@ -313,6 +320,7 @@ Back to [README](../../README.md)
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - Standing watch on named rivals for funding, hiring, press, and paid campaigns. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - Gets a brand site ready for the machines that will shop on it. [RobautoAI](https://x.com/RobautoAI).
 - [Roof Radar](https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF) - Turns public storm reports into a ranked, evidenced roofing-lead list. [SacredFolio](https://x.com/SacredFolio).
+- [RoomFlip](https://x.ai/bot/xzuLMEdYoDDtzl3ajye4r) - Turns a photo of a client's room into a photorealistic remodel preview, then lets them swap flooring, hardware, cabinets and more from your catalog. [Thuong](https://x.com/teeRex247).
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) - A weekday operator that runs GTM, outbound, QA and onboarding. [Daniel](https://x.com/danielfoch).
 - [Sales Business Bot](https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB) - Phone-first co-founder path from company setup to site, payments, outreach, and posts; nothing ships without you. [EzekielB6516](https://x.com/EzekielB6516).
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) - Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording. [Daniel Brill](https://x.com/danielbrill_).
@@ -337,6 +345,8 @@ Back to [README](../../README.md)
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) - Operator desk for a ShopFloor-style Etsy digital shop\: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. [Dex_01_](https://x.com/Dex_01_).
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) - Runs a Shopify store day to day via the official plugin\: catalog tidying, stock watching, conversion work and customer questions. [nick_nehaul](https://x.com/nick_nehaul).
 - [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) - Watches your Shopify store every day \(orders, payments, inventory, storefront, and checkout\) and stays quiet when everything's healthy. [ibuildthings](https://x.com/ibuildthings).
+- [Shopify Store Operator](https://x.ai/bot/_sYZ-UZztgPsmOp4L7Nqr) - Watches your Shopify store with daily low-stock alerts, weekly slow movers, and a Monday sales recap. [Jabes](https://x.com/turbomilker).
+- [Shopify Store Pulse](https://x.ai/bot/kBSc1eU-xj4uQzFkjK7z_) - Every weekday morning, sends a short pulse from your Shopify store\: yesterday's orders, open refunds or returns that need attention. [Cristopher](https://x.com/crisships).
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) - Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch. [Krista Letz](https://x.com/kristaletz).
 - [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) - Ranks the top 20 supporters of an X account in four lists\: likes, reposts, quote posts, and replies, based only on the account's original posts. [OrahOnX](https://x.com/OrahOnX).
 - [Site-Validated Email Outreach](https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7) - Cold email to real businesses after checking the company site and public reviews, with no send until you say so. [GabeHernandezOK](https://x.com/GabeHernandezOK).

@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 4674 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 4814 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -97,7 +97,7 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 [catalog.json](catalog.json) 里的 `shelf` 是编辑导航（featured、solid、studio-door、aka、raw）。能打开不等于安全。`verified` 是另一套维护者核验标记。
 
-工作室门（调度、安装器、前台）共 **174** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
+工作室门（调度、安装器、前台）共 **178** 条，见 [docs/studio-doors.md](docs/studio-doors.md)。
 
 完整列表在下面，按活分类。真人案例和踩坑在链接墙上面。
 
@@ -105,17 +105,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 643 |
-| [Inbox & calendar](#inbox--calendar) | 187 |
-| [Research & briefings](#research--briefings) | 578 |
-| [Customer & sales](#customer--sales) | 399 |
-| [Finance & ops](#finance--ops) | 560 |
-| [Content & publishing](#content--publishing) | 543 |
-| [Personal admin](#personal-admin) | 1284 |
-| [Teams & handoffs](#teams--handoffs) | 480 |
-| **合计** | **4674** |
+| [Coding & shipping](#coding--shipping) | 655 |
+| [Inbox & calendar](#inbox--calendar) | 194 |
+| [Research & briefings](#research--briefings) | 590 |
+| [Customer & sales](#customer--sales) | 409 |
+| [Finance & ops](#finance--ops) | 571 |
+| [Content & publishing](#content--publishing) | 565 |
+| [Personal admin](#personal-admin) | 1332 |
+| [Teams & handoffs](#teams--handoffs) | 498 |
+| **合计** | **4814** |
 
-2026 年 10 月 15 日检查时，4674 个分享页中 4657 个返回 HTTP 200（17 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 4674 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 15 日检查时，4814 个分享页中 4797 个返回 HTTP 200（17 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 4814 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -253,35 +253,35 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（643 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（655 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
-完整列表（187 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
+完整列表（194 条）：[catalog/zh-CN/inbox-calendar.md](catalog/zh-CN/inbox-calendar.md)
 
 ## Research & briefings
 
-完整列表（578 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（590 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（399 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（409 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
-完整列表（560 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（571 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（543 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（565 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（1284 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
+完整列表（1332 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
 
 ## Teams & handoffs
 
-完整列表（480 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（498 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

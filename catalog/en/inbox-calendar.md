@@ -25,10 +25,13 @@ Back to [README](../../README.md)
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - Sorts your Gmail every morning and suggests today's to-dos in priority order, in Japanese, as a report or as input for your main bot. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [Inbox](https://x.ai/bot/LMz1PBJdEFChVoW5ZsO1y) - Turns your Grok Bot inbox into a clean, dark, mobile-friendly HTML dashboard with search, filters, and needs-reply counts. [Jaden](https://x.com/jadmthw).
 - [Inbox](https://x.ai/bot/eVTdsEMUFrKpeF81qbA5J) - Gives you a dedicated email address and shows every email that arrives as a clean card in chat, with a summary and whether it needs you. [Amit](https://x.com/amitgandhi).
+- [Inbox](https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon) - Pings only for mail needing action today; everything else lands in a digest. [Josh](https://x.com/cu30rry_).
 - [Inbox Cleanup](https://x.ai/bot/Yb5t2YL0G2Y7NJMxeFV96) - Cleans up Gmail and Outlook\: unsubscribes, flattens folders, builds sorting rules, reviews junk, flags scams, and keeps it clean with a weekly sweep. [Tan](https://x.com/BigBaldAsian).
 - [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - First line of defense on email, Slack, and DMs. Read-only by default — surfaces the ~3 that are both important and urgent. Never answers as you. [Josh](https://x.com/joshkim).
 - [Inbox Sentinel](https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH) - Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff. Robert.
+- [Inbox Tidy](https://x.ai/bot/9ZUmJ1nt1rtKz0jn_LXCU) - Works with Gmail, Outlook or any connected mailbox\: learns which senders you ignore, safely unsubscribes, and files the ones you only skim. [Dayyán](https://x.com/dayyanl).
 - [Inbox Triage](https://x.ai/bot/lDp666Fm-QgyBGqK7ee4l) - A weekday email assistant for small business owners and freelancers. [crisships](https://x.com/crisships).
+- [Inbox Triage](https://x.ai/bot/RBK79O-MXl4ZRHyuJYag6) - Weekday email triage\: needs-reply vs FYI, short draft replies, never send unasked. [Markus](https://x.com/SleepyCovfefe).
 - [Inbox Viewer](https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r) - A Gmail-style inbox for your Grok Bot's email, styled like Grok Bot in dark and light mode, that opens on your phone or computer over Tailscale. [Sushant](https://x.com/ChaiWithAi).
 - [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - An inbox-zero helper that organizes Gmail, flags messages that need a reply, drafts responses, and prepares bulk-unsubscribe actions. Sultanov.
 - [Inbox Zero Chief of Staff](https://x.ai/bot/-hFhR6u_HxM1mlGX92HK9) - Gets your inbox to zero and keeps it there\: daily triage, a digest of what needs you, and reply drafts you approve before anything is sent. [Moritz](https://x.com/bierlingm).
@@ -38,10 +41,12 @@ Back to [README](../../README.md)
 - [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Michael.
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - Archives unflagged newsletters, promotions, statement notices, and other junk across every connected mail account by removing them from the inbox only. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - Watches Gmail \(or any account via Spark\) and sends a short digest a few times a day only when something needs you; never sends mail without your yes. Pierce.
+- [Margin](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) - A calendar, rest and recovery scheduler. It sweeps your calendars every hour for conflicts, bunch-ups and missing rest, fixes what you allow. [Zack](https://x.com/zackproser).
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds. [Komil](https://x.com/Limok_igit).
 - [Meeting Prep & Follow-up](https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv) - Sends you a short brief before your upcoming meetings so you walk in prepared. [Jared](https://x.com/dcostaverage).
 - [Meeting Prepper](https://x.ai/bot/raSCkqYWI1wommg9vx4MU) - Preps you for every meeting with a short brief on who you're meeting, your past emails and notes with them, and what to cover. [Moritz](https://x.com/bierlingm).
 - [Ms. Scribe](https://x.ai/bot/_z8j7TViBpvmQ9mlxRDec) - A writing, email, and calendar assistant. Drafts and rewrites in your voice, triages your inbox, and keeps your schedule straight. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
+- [Multi Gmail](https://x.ai/bot/96EWGTulQPKJqVuozXaRx) - Connect all your Gmail inboxes to your bots at once, so any bot can search every inbox in one go. [ecoay](https://x.com/ecoay).
 - [My Morning View](https://x.ai/bot/Yf3IZLg3s7OsH799ttVRF) - A morning assistant that helps you start each day knowing what matters\: your calendar, important email, team updates, and upcoming deadlines. [Sarah](https://x.com/SpaceCowgirlTX).
 - [Newsletter Unsubscriber](https://x.ai/bot/dp0WMDV_rIj6Q77wZ2dFO) - Cleans up your Outlook.com or Gmail inbox\: unsubscribes newsletters and marketing mail, and blocks senders that a bot can't unsubscribe from. [puravidamae](https://x.com/puravidamae).
 - [nudge](https://x.ai/bot/uM7mhMmiokRwN379jNvsX) - Calm reminders bot that turns what and when, or a photo of an appointment, into a Google Calendar event and pings you when it is due. [gabriel](https://x.com/gabrielramans).
@@ -50,6 +55,7 @@ Back to [README](../../README.md)
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message. Bosotter.
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - Train it with AI to fight Outlook spam and malicious mail. Bosotter.
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - Turns pasted meeting notes or a transcript into a short list of action items, with an owner and a due hint only where the notes support them. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Quick Calendar Bot](https://x.ai/bot/hSB5eAvp41y3-atquZoR9) - A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it. [James](https://x.com/allthemoney).
 - [Reminder](https://x.ai/bot/DNxwXlx3rZ9K57NwbthQh) - Your everyday reminder bot\: bills, renewals, free trials, birthdays, and appointments, plus a Sunday week-ahead list. [NFT2ME](https://x.com/NFT2ME).
 - [Renewal Watch](https://x.ai/bot/pzKMY9GWZ__lzWBmzp7DB) - Weekday scan of your inbox for subscription renewal and trial-ending notices\: short keep-or-cancel decision list. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Restaurant Franchise Owner Assistant](https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM) - A chief of staff for restaurant and franchise owners\: a morning inbox digest that flags bank, supplier, and payroll mail, plus monthly per-store notes. [kheladi](https://x.com/kheladi).
@@ -58,6 +64,7 @@ Back to [README](../../README.md)
 - [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - Books Skedda meeting rooms for your calls and checks you in before auto-cancel; quiet unless something fails. Shawn.
 - [Slackおまかせくん](https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn) - React 🤖 on Slack to draft tasks, replies, and calendar adds; you pick to proceed. akihiro.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
+- [Voice Desk](https://x.ai/bot/cd_KhCL3Qf0WhODyf4doV) - Phone and iMessage desk built on Photon beta and ElevenLabs\: sorts incoming calls and texts and passes on only what needs you. [Tony](https://x.com/TONYThomasin).
 - [Weekly Wins](https://x.ai/bot/FDohHBN7D4epFCV1bSYCW) - Friday weekly wins draft from your connected calendar \(optional sent-mail peek\). [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. [Caleeeb](https://x.com/gearcaleeeb).
 - [メルマガ整理ボット](https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO) - Finds the newsletters, promos and job-site mail piling up in Gmail and unsubscribes only the ones you pick; important mail is kept off the list. [豪](https://x.com/devpapago).

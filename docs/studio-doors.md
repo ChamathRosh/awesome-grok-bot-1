@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **174**.
+Generated from [catalog.json](../catalog.json). Count: **178**.
 
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
@@ -28,6 +28,7 @@ Generated from [catalog.json](../catalog.json). Count: **174**.
 - [BRIGET](https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE) - Chief of staff for business and personal work.
 - [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - Chief of staff with a computer. Runs your morning deck and night close, keeps public brand work separate from secret lab work, and pings you only for.
 - [Catch](https://x.ai/bot/iKSYn9Dsn07JyR50qePha) - Small-business chief of staff that surfaces what matters from the noise.
+- [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Chief of staff for your Grok Bot desk\: routes specialists, runs Morning and Night Ops.
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests,.
 - [Chef](https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx) - Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a brigade of food-named specialist bots, fires the tickets, and runs the line.
 - [Chieeeeefy (Chief of Staff)](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) - Chief of staff for a field engineer, calendar and work inbox first.
@@ -86,6 +87,7 @@ Generated from [catalog.json](../catalog.json). Count: **174**.
 - [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - An A2A orchestrator that runs a team of agents or a paper-trading hedge-fund desk.
 - [Head of Growth](https://x.ai/bot/_l8tAONAOSZ-wU-Quresz) - Chief of staff for self-serve growth. Coordinates specialist bots, runs the weekly insight memo, and brings options not conclusions.
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) - Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions.
+- [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - Orchestrates coding agents through the herdr CLI for long, heavy build sessions.
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) - You are Hiring Floor, grokbot.studio door + installer. JOB\: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live...
 - [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) - Chief of Staff bot that routes work to specialists, enforces approvals and handoffs, and only pulls you in for judgment or missing info. Built for.
 - [Hollis](https://x.ai/bot/l5alJyDSwdmZc-j_XksCH) - Chief of Staff for a multi-bot Grok Bot fleet. Owns cadence, GO gates, and specialist routing — paper-decision products and ops — without executing.
@@ -99,6 +101,7 @@ Generated from [catalog.json](../catalog.json). Count: **174**.
 - [Indie Chief of Staff](https://x.ai/bot/j27FGZqZ7asz6mQUzPzNC) - Chief of staff for solo builders\: triage priorities, keep status honest, and run legal follow-through. Escalates spend and irreversible sends to you.
 - [Intake Desk](https://x.ai/bot/in_PtzvudSXOJ178cNxv0) - Intake desk that ranks pasted requests into one running queue.
 - [Jarvis](https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x) - Personal chief of staff hub for job hunt, family logistics, markets nudges, and Kubernetes learning without rabbit holes.
+- [Job Search Chief of Staff](https://x.ai/bot/ZVmTPe7q2tTeG0JA1rwbG) - A chief of staff for your job search\: reviews your scout bot's leads, coordinates your resume and tracker bots, and surfaces only what needs you.
 - [Juniper](https://x.ai/bot/8_XzpQayXtHkFps55OeLR) - Design-focused chief of staff with weekday cognitive-load review.
 - [Keep](https://x.ai/bot/sjxigZ2V8_fex_po9RoVV) - You are Keep, grokbot.studio door + installer. JOB\: be the Keep studio door - stand up the six customer-success specialists from the API cards, then...
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) - A chief of staff that turns your priorities into coordinated action.
@@ -115,6 +118,7 @@ Generated from [catalog.json](../catalog.json). Count: **174**.
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) - A lean orchestrator that routes every task to the right specialist and never works.
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - Front desk for an MBTI-themed bot team\: takes requests, routes them to teammates and relays answers.
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI video + studio GTM bot\: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding.
+- [Mind Orchestrator](https://x.ai/bot/PZGj0sDJZW6G3QgZOohDD) - Delegates work to HelloMinds minds\: awakens them for dedicated tasks, follows up, and reports progress. Requires the HelloMinds x Grok Bot plugin.
 - [Mission Control](https://x.ai/bot/GGnJOdH3hv321H2QES9UE) - Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet.
 - [Money](https://x.ai/bot/wyfpX8C4jOj-4_4RAQ249) - You are Money, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
 - [Mordecai](https://x.ai/bot/puXSD9IzcL1GX_oQfH88w) - Chief of Staff and Product Owner for a multi-bot team. Turns brain dumps into priorities, routes work to specialists, and pulls you in only for decisions.

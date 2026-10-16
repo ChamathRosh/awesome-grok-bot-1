@@ -55,8 +55,10 @@
 - [Bop Bot](https://x.ai/bot/LkEYwZpxRS4TVGXMFhEMf) - 用 Suno 按氛围或主题给你写歌，下载成音频或竖屏视频，方便分享. [onpardev](https://x.com/onpardev).
 - [Bot Forge](https://x.ai/bot/C_zFk7bh4S8yDdy0JxAVY) - 设计职责收紧的单一任务 Grok Bot，先问偏好，创建后再核对线上档案. [daverice777](https://x.com/daverice777).
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) - 你的其他机器人干得好就发零食奖励，维护排行榜、庆祝里程碑，适合养了一队机器人的人. [melvindvivas](https://x.com/melvindvivas).
+- [Botcast](https://x.ai/bot/6OpEFsd4cJgpIKH9y3I4K) - 把你的 X 时间线和列表变成一段谈话电台式短播客，时长和政治倾向由你选. [Corey](https://x.com/cjblev).
 - [Breakthrough Advertising](https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O) - 借施瓦茨 1966 年的经典，把产品、受众和投放渠道变成可测的角度、标题和文案初稿. [CardCaptain](https://x.com/CardCaptain).
 - [Builder Circle](https://x.ai/bot/SuQygIR-87wSS6D7aA5J0) - 给它你的 X 账号，它会在 X 上找到与你规模、阶段、语言和话题相近的建造者，让你有真正的同行可交流. [Khanh](https://x.com/khanhnqc).
+- [Byline](https://x.ai/bot/jZJaBRLyctngU0f1gmq0z) - 杂志风写手：从你的笔记、网页和 X 研究你的问题，写出有引用来源、配 AI 图片的文章. [Paul](https://x.com/pmcclelland).
 - [Cadence](https://x.ai/bot/loV2_2DMLL-qGrs3nExSy) - 音乐搭档：在你电脑上的 REAPER 里作曲、做音色、混音并渲染原创音乐，还会研究参考曲找灵感. [QuinnWR](https://x.com/QuinnWR).
 - [Calendar Liftoff](https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-) - 按主题生成可印刷的 12×12 照片挂历 PDF. [tdsfixer](https://x.com/tdsfixer).
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) - Capitolino 写手，结构化草稿且语气稳定. Seokhee.
@@ -67,6 +69,7 @@
 - [Claudia](https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM) - 用来自 claudia.gallery 的开源 AI 歌手 Claudia 制作内容：图片、短片、歌曲和 MV. [anabology](https://x.com/anabology).
 - [CleanText](https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb) - 从粘贴的文字、截图或文件里找出零宽空格、方向标记等隐藏字符，给出报告和干净版本，本地运行不接任何连接器. [Carolina](https://x.com/CarolinaDill).
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - 从长录音里找出最精彩的片段，剪成带字幕的短片. community.
+- [Clip Bot](https://x.ai/bot/6MmRZHFXNkFjwZZn9b3bv) - 从播客和演讲里剪出电影感 16\:9 带字幕片段，逐字同步字幕，并起草自然 @ 嘉宾的帖子. [Darragh](https://x.com/darrxgh).
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - 从 YouTube 播客里剪出适合社交平台的 16\:9 高光片段，带卡拉 OK 字幕和来源卡，存到你的电脑. [Odd&Entertaining](https://x.com/oddreport).
 - [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - 创作者的剪辑与工作室助手，直接接你现有工具和流程。 [CannaMuffinMan](https://x.com/CannaMuffinMan).
 - [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - 短视频创作者的切片助手：每周找出可导入你切片工具的片段。 [techgent6](https://x.com/techgent6).
@@ -74,6 +77,7 @@
 - [Content Planner](https://x.ai/bot/65wGaCazNY1t1K3I4oFy0) - 根据你自己的 Search Console 数据规划写什么、更新什么，并为每篇写好提纲. [SEOmatic](https://x.com/seomatic_ai).
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - 给营销人和创始人写转化文案，覆盖落地页、邮件、社媒、短信和广告创意. Pranav.
 - [Copy Editor](https://x.ai/bot/YloFf7LEAy3GwFmXbu5vv) - 粘贴任何发往 X、LinkedIn、Facebook 或邮件的草稿，拿回干净可直接粘贴的文本和一份简短修改清单. [ArtJazd](https://x.com/ArtJazd).
+- [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - 为任何讲师和学科制作清爽的课程材料：教学大纲、练习、答案、复习单、教案和讲课幻灯片. [roger](https://x.com/roger_jgs404040).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - 创作者增长教练：找出拖累你账号的问题，按预估影响排序修复项，并推荐下一条视频的标题和话题标签. [Mr.](https://x.com/MrSilhouette).
 - [Cue](https://x.ai/bot/j7ZGmU3FhqpOAj0l2qXaQ) - 给配音演员和有声书朗读者的试音教练兼机会侦察员. [Adrian_Bisson](https://x.com/Adrian_Bisson).
@@ -92,14 +96,18 @@
 - [Explainer Video bot](https://x.ai/bot/OeUdOzZr6WpFItOXlEyIx) - 把主题或脚本变成带旁白的讲解视频或彩色 2D 动画，配有配音、字幕、音乐和音效. [Eniola](https://x.com/enisco).
 - [Explainer Video bot](https://x.ai/bot/eTLAqnD45kW3h-THwU8XM) - 制作可直接上传、数据驱动的讲解视频，含核实过的数字、AI 配音、动态图形和真实素材. [EngMoElgaraihy](https://x.com/EngMoElgaraihy).
 - [Explainer Video bot](https://x.ai/bot/rFn9Q2pLJKFkSF4JN3Spx) - 把粗略想法变成精致、带旁白的讲解视频，含动画、字幕和音效. [ChaosLensX](https://x.com/ChaosLensX).
+- [Explainer Video Bot](https://x.ai/bot/zxq6r61p79vJz0o1jZ8rE) - 把你的产品、应用或点子做成精致的讲解或宣传视频，竖屏适合社交平台，16\:9 适合 YouTube 和网站. [Michael](https://x.com/MichaelHeckert).
 - [Explainer Video Maker](https://x.ai/bot/p0_neDDDPBaB1M262gZIo) - 粘贴脚本，得到一支带旁白的 2D 讲解视频，无需摄像机或素材. [Kelvin](https://x.com/KelvDynasty).
 - [Fantasy Desk](https://x.ai/bot/rsi_1F8dmyq4E6C5uazzt) - Sleeper 和 ESPN 的梦幻橄榄球副经理：排阵容、打分，给出捡人和交易建议. [WreckItAbel](https://x.com/WreckItAbel).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - 把 Figma 画框变成开发规格，并审计组件、token 和动效. community.
+- [Flipbook Music Video Studio](https://x.ai/bot/_YsPzOWgloE5X5Blh5ktB) - 上传一首歌、描述你想要的 MV，生成与歌词同步的手绘翻页动画视频. [Zerefs](https://x.com/phera46334652).
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - 做无脸民俗插画视频：选题、写故事、锁画风，用你的 SpaceXAI 语音密钥旁白。 [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - 给做图片、视频、语音和长脚本的人用的省积分生成台. Odd&Entertaining.
 - [Global Clip](https://x.ai/bot/YJ7J_oFXTeMuMVhTHOmsL) - 发短视频并选语言：得到 AI 配音、烧录字幕和可粘贴的 X 文案。 Joshua.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - 每次只出一张图，画一个顶着你描述或照片里发型的小矮人. [neatobird](https://x.com/neatobird).
+- [Go Direct](https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e) - 跳过媒体，Lulu 帮创始人把故事直接讲给真正重要的 50 到 500 人：投资人、早期客户和未来员工. [Landon](https://x.com/LandonH).
 - [Grok Studio](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) - 丢进链接、PDF 或话题，生成带引用、有旁白的讲解视频，由你自己的 AI 主持人出镜，用 Grok Imagine 和 Grok Voice 制作. Michael.
+- [Growth Coach](https://x.ai/bot/8HrogilOgXZRGI9mHdxds) - X 创作者涨粉教练：跟踪你离粉丝目标的进度，每周发一次更新和基于你最佳帖子的三条建议. [The](https://x.com/070guy).
 - [GTM GOAT](https://x.ai/bot/9f_sMnJfUI5_6Uv--UrXv) - 给创始人的产品组合市场推广台，每周给产品排序，评判素材留或砍，做定位和免费的 SEO 与广告分析. [Christian](https://x.com/MeechYourGoals).
 - [Human Copywriter](https://x.ai/bot/vgiYk0mJeijE4YXmfmQld) - 改写邮件、帖子、私信、博客和落地页文案，读起来像人写的. Sultanov.
 - [Imagine Visual Designer](https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl) - 把视觉想法变成可直接粘贴的 Grok Imagine 提示词包，附真实可用的变体. [AutomateDavid](https://x.com/AutomateDavid).
@@ -116,6 +124,7 @@
 - [Lyrically](https://x.ai/bot/O2xM44Mc__jdhKHr57izC) - 为用 AI 工具做音乐的人提供母带和音频工程协助. [Auny](https://x.com/AunySillyMe).
 - [Magical Music Video Maker](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) - 发来歌曲和歌词，先提出画风和故事线，再交付卡点剪辑的电影感 MV. [Michael](https://x.com/MichaelGannotti).
 - [Manuscript Desk](https://x.ai/bot/6eQuzYQr9dcyTSU-4jHtn) - 私人书稿工作台：章节地图和故事设定集带连贯性检查，修订时给出坦诚意见，并组织试读轮次. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Marketing Manager](https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-) - 帮独立和 AI 音乐人在 YouTube、Spotify 和音乐社区里低调免费推广，让歌被听到. [Paul](https://x.com/PaulHPowell13).
 - [McBaster Mot](https://x.ai/bot/tnz0pflI7D3u1d0_Nzrgc) - 描述你要做的活，拿到推荐的 McMaster-Carr 零件编号，并附官方目录链接. [TheActual_Eric](https://x.com/TheActual_Eric).
 - [MemeBot](https://x.ai/bot/8RvI6fjeiNF92TwFx0RNX) - 做梗图的机器人：用真实剧照和经典模板把你的点子做成高质量图片和视频梗，配上犀利文案. [ChaseMc67](https://x.com/ChaseMc67).
 - [Memory Reel](https://x.ai/bot/l8hF6idbwPq2cthVTQLgC) - 把你公开的 X 帖子做成按时期划分的 3D 穿梭和滚动故事，配背景音乐，登录并经人工审核后托管在 bot.ski。 [Rich](https://x.com/RichSilver).
@@ -127,6 +136,7 @@
 - [Music Video](https://x.ai/bot/1Et06G_Q820_RNat-_0tQ) - 根据你的歌词生成歌曲，逐句对齐节拍，并渲染动态文字画面，出一版 MV 草稿. [bossriceshark](https://x.com/bossriceshark).
 - [MV Forge](https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq) - 根据歌曲和提示词制作一支 MV 的导演 bot：用 Grok Imagine 生成素材，卡拍剪辑，加歌词故障字幕和胶片效果，输出 mp4. [Will](https://x.com/old_pgmrs_will).
 - [Mystery Writer's Room](https://x.ai/bot/gt31Cad2_jY1FyjzhZ-WP) - 为悬疑和惊悚作者打造的写作室：情节、线索与误导、人物、节奏和对白. [Kristoffer](https://x.com/vera_desk_asst).
+- [Newsletter Editor](https://x.ai/bot/_WDTIZiZCF43PWKoL5iUE) - 打理每周 beehiiv 通讯的日常：按提纲起草、发测试邮件、认领广告，经你批准后排期. [Olushola](https://x.com/sholabuilds).
 - [Omni Scraper](https://x.ai/bot/pXW6OPoZLJS4A8bZtW466) - 粘贴 YouTube、Reddit、LinkedIn、Threads、Instagram、TikTok 或 X 的链接，取回完整公开内容：正文、作者和数据. [天](https://x.com/BeatAPIio).
 - [Open Source AI Studio](https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz) - 面向新手的开源 AI 图视频导师：看清本机跑什么、最简安装路径和入门模型. [Karata](https://x.com/karatademada).
 - [OpenRouter TTS](https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd) - 通过 OpenRouter 把文字转成 MP3 配音，默认用便宜的 Kokoro，你要时换 Grok Voice. Jeroen.
@@ -134,15 +144,19 @@
 - [PFP Studio](https://x.ai/bot/EQbigdwH3pEmkYcsbgidx) - 发一张照片说个风格，比如卡通、电影或某个年代，拿到三张头像，挑一张接着改到满意. [Coffee](https://x.com/CoffeeNGrit).
 - [Photo Credit Watch](https://x.ai/bot/fXV8CXfn8_l4Q1ktMrrF2) - 每周对你的作品集做一次以图搜图，找出你的照片在网上出现的地方. [George](https://x.com/gzikry).
 - [Photomosaic](https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc) - 用参考帖和背景、主视觉素材在 Figma 里做 3 联 X 拼图，按需出可直接导出的图. Matt.
+- [Podcast Clipper for X](https://x.ai/bot/9Lqx9JK4j4sGUwPBr2O2w) - 把播客和 YouTube 节目剪成 8–12 个方形带字幕片段，每个配 3–5 条你口吻的 X 草稿. [Wayne](https://x.com/wayneb).
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - 短竖屏创意总监：选题、写带停滑钩子的脚本，并指导动效。 [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Product Clip](https://x.ai/bot/RQ68eyPi1KbclOwSAJgoY) - 把真实产品照片做成用于电商平台和社交媒体的短带货视频. [dataespresso](https://x.com/dataespresso).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - 给你的 X 账号打健康分：风险提示、安全与限流检查、信息流调优和清理垃圾关注. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - 长篇 agent 提示词的安全沙盒：拼写检查、排版、消除歧义、精简 token. Chad.
+- [Prose Guard](https://x.ai/bot/1kk1mjbJ1-jNMpK9aKz0T) - 按你提供的文风改写并打分，让草稿读起来像人写的. [roger](https://x.com/roger_jgs404040).
 - [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - 每周找出差一步上首页的关键词和有排名却没点击的页面，备好标题与内容修改等你批准. [SEOmatic](https://x.com/seomatic_ai).
 - [ReelForge](https://x.ai/bot/BfLelUIFr88x0JLkNwewO) - 面向创作者和小品牌的趋势内容引擎，为 TikTok、Reels 和 Shorts 出选题、开头、脚本、文案、分镜和发布计划. [Thuong](https://x.com/teeRex247).
+- [Release Manager](https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17) - 帮独立和 AI 音乐人发歌：YouTube 歌词视频和 Shorts、DistroKid 上传、Spotify 推荐提交和免费推广. [Paul](https://x.com/PaulHPowell13).
 - [Reply Radar](https://x.ai/bot/puPDbZveO1FFvjCXERZoj) - 找出你话题下值得回复的新鲜 X 帖子，随问随给或做成晨间摘要，并说明每条为何值得回. [Taylor](https://x.com/taylorhbuilds).
 - [RPLAY制作ガイド](https://x.ai/bot/QZVEWbU8K1BeQbqTXi02N) - RPLAY 故事聊天（StoryEngine）创作问答机器人，用内置指南回答节点、图片标签、外部图片、变量和状态视图、编译发布等问题，面向日本创作者. [Raven2283](https://x.com/Raven2283).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - 给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人. Sol.
+- [SEO & AEO Desk](https://x.ai/bot/CaNidmFikjRDtkc7_2OnO) - 负责内容计划里的搜索和 AI 问答部分：找出人们在搜什么、问什么，排成页面选题. [Jaime](https://x.com/JaimeBubblehead).
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - 找出你的网站该在谷歌和 AI 问答引擎里争取的词，对照当前排名靠前的内容写文章，每周跟踪效果，发布前要你批准. [Charles](https://x.com/ASaltyVet).
 - [SEO & GEO Bot](https://x.ai/bot/5iHGngaDIvmt1Mh-ef3_w) - 找出买家在 Google 上搜索和向 AI 助手提问的内容，变成排好序的选题和写作简报. [Antoine](https://x.com/antoine_cre).
 - [Shortform Scaler](https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT) - 把长播客素材变成每天的短视频发布包：提四个片段，发两个. [Eric](https://x.com/ericosiu).
@@ -152,6 +166,7 @@
 - [Small Business Marketing Crew by Kelly Baltzell from...](https://x.ai/bot/okSl3Ri74UQjSca8Hjkc_) - 小企业营销班组：按品牌语气策划、撰写并排期社媒，配图标注 Made with…. Kelly.
 - [Small Business Social Media Manager](https://x.ai/bot/wDVFJmSK67btMnZBwcgic) - 小企业专属社媒经理：撰写符合品牌的文案，用你的标志和照片制作 Instagram 和 Facebook 图片. [The](https://x.com/epic_scribe).
 - [Social Media Manager](https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo) - 从你自己的帖子学会你的口吻，排每周内容日历，按平台起草帖子和回复，再根据表现调整. [Charles](https://x.com/ASaltyVet).
+- [Songwriter](https://x.ai/bot/nMlGey0lg20bVWCKUoerm) - 为你的 AI 歌曲写歌词和风格提示词，并帮你填进 Suno 或 Aethr Music. [Paul](https://x.com/PaulHPowell13).
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - 多 bot 太空歌剧角色扮演套件，会自我优化省 token. Tibor.
 - [SpanishReviewer](https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy) - 审校西班牙语文案是否自然哥伦比亚语感，给出通过/不通过与改法。 Carolina.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - 把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter. Jeroen.
@@ -176,8 +191,10 @@
 - [Video Edit Desk](https://x.ai/bot/CFLaWCGlZ6RzBSU7D1r6r) - 把素材和链接剪成成片：带字幕的短视频、定格圈人标注、换脸，并配好发帖文案. [j6commission](https://x.com/j6commission).
 - [Video Editor](https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S) - 把口播原始素材剪成竖屏短视频，挑最好的镜头，加字幕、B-roll、动态图形和音乐，每一刀都检查过. [Ethan](https://x.com/Ethan_Ng_13).
 - [Video Editor](https://x.ai/bot/14O3EsptD43aAhoAzvfq3) - 用你的原始素材剪竖屏口播短视频：挑最好的镜头，按你实际说的话上字幕，加 B-roll 和动态图形. community.
+- [Video Maker](https://x.ai/bot/oIYrNsNhhm1OtJGpg0Vmq) - 只用免费工具把你写好的歌做成歌词同步的 YouTube Short 和完整歌词视频，为独立和 AI 音乐人打造. [Paul](https://x.com/PaulHPowell13).
 - [Video Script writer](https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM) - 为 Reels、Shorts、TikTok 和长视频 YouTube 写钩子和完整口播脚本. Jeroen.
 - [Video Upscale Desk](https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY) - 丢进视频素材，用 Lanczos 放大到 1080p 或 4K，音轨原样保留. [Moe](https://x.com/navymikeoif).
+- [Vlog Producer](https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz) - 给拍手机 vlog 的创作者的剪辑和制片：按素材规划每一期，剪出干净的音频并加字幕. [Luigi](https://x.com/LuigiMdpDev).
 - [Voice & Visual Briefing](https://x.ai/bot/HOJ6pDC6Xara_1pDDjn6J) - 一份 DIY 配方，让你的机器人自己给你搭晨间语音简报，周日再来一份「本周回顾」. [MangleKuo](https://x.com/MangleKuo).
 - [Website Highlight Video Maker](https://x.ai/bot/knt08ohuspBYhQ6ohXtKt) - 按顺序走一遍你自己网站的页面，做成带旁白、放大、高亮和字幕的讲解视频，另出一版竖屏社媒短片. [Martin](https://x.com/DaroFrostad).
 - [Workbench Design](https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd) - Agent Workbench 的设计专员，审查提供的公开页面、截图和产品描述的清晰度、可用性和无障碍. Flux.
@@ -185,8 +202,12 @@
 - [X Desk](https://x.ai/bot/9phVXEPdP5QHD6Wpp2dxb) - X 账号的后台：整理提及、用你的语气起草帖子和回复，并报告内容表现. [Apple](https://x.com/lamps_apple).
 - [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - 把你的网站或想法做成可在 X 帖子里播放的互动卡片，部署到 Vercel 或 Cloudflare 并验证. [XHabib](https://x.com/XHabib).
 - [X Marketing Bot](https://x.ai/bot/Qn3J8hO5gAMc_7BVzYm-p) - X 营销策略师：用你的语气写帖子、长帖和回复，并把账号数据变成清晰的下一步. [Mustafa](https://x.com/oprydai).
+- [X Post Review](https://x.ai/bot/6MIilvSwyCdiqDqf3Rq-w) - 每周一连上你的 X 账号，对照你自己的基线复盘原创和引用帖，发来爆款、扑街和规律. [Nate](https://x.com/NateLorenzen).
 - [X Post Scorer](https://x.ai/bot/Onn5fkAfkSacQgleFIIK-) - 给 X 草稿或已发帖按开头、回复、转发打 10 分制分数，并附可直接用的改写. Thomas.
 - [X Posting Curator](https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH) - 每条 X 帖子都走找来源、写你口吻的开头、事实核查和 X 排序权重检查. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
+- [X Reply Radar](https://x.ai/bot/KUxvnYtq7rPe_XuQUHv2n) - 在你的领域里找刚发出不久、高曝光、值得回复的 X 帖子，每条回复都由你自己写. [Darragh](https://x.com/darrxgh).
+- [X Reply Tier List](https://x.ai/bot/Itc30W9SgrxqEL1WTb3pl) - 把你最近的 X 回复做成 poteto 风格的“我在 X 上回复谁”分级图并起草配文，由你发布，它从不代发. [Tu](https://x.com/JiangLiuer222).
+- [X Reply Tierlist](https://x.ai/bot/O8-q9XMEFVFwKnSTXrkcu) - 分析你自己 X 账号的回复，把你最常回复的账号排成 S–F 分级图，深色或浅色方图. [Lost](https://x.com/lostsol).
 - [X 关注街区](https://x.ai/bot/jp_U0kn9mFj78M6ZeJCyP) - 把你 X「正在关注」时间线上的中文作者画成 3D 俯视小镇：你住中央，粉丝越多的人房子越大，打包成一个 HTML 文件放在你自己的电脑上. [tiandi_zhang](https://x.com/tiandi_zhang).
 - [𝕏-Caliber](https://x.ai/bot/4sSGX1SZk5F6KdsrJwdtA) - X 增长助手：建立并维护精选账号列表，发现趋势和选题，并帮你用自己的语气写作. [Tony](https://x.com/tonysimons).
 - [X監視Bot](https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR) - 盯指定的 X 账号、列表和关键词，每早汇总起量帖和对你的回应（日语）. [wad0427](https://x.com/wad0427).
@@ -531,6 +552,7 @@
 - [スキルクリエイター](https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo) - 把需求拆成步骤，设计、创建和改进不与现有技能重叠的技能，不做每日新闻收集或发社媒. Masaki.
 - [ハッカソン報告ボット](https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag) - 黑客松期间抓取话题标签帖子，在 X 上以串推发一人一行摘要，结束时间自动停止. [sat0xshi](https://x.com/sat0xshi).
 - [ブログからX投稿](https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU) - 把攒下的博客文章按话题拆成 X 线程，早晚自动发帖；没有博客也能把读到的文章和日常想法整理成帖子，每周还给 3 个选题. [蒼巳](https://x.com/1123momojiro1).
+- [プロフィール動画ボット](https://x.ai/bot/oFDEjFDH8whqVnBXf7Box) - 根据生日、占术、MBTI 等标签生成你的专属自我介绍视频（竖屏或横屏，带旁白、BGM 和字幕），只用 Grok 和 Gemini 网页版. [蒼巳](https://x.com/1123momojiro1).
 - [全平台内容抓取](https://x.ai/bot/G9FfCfIzn4hoPf1888jYi) - 一个链接抓回完整公开内容，支持抖音、小红书、B站、公众号、YouTube、X、TikTok、Instagram、LinkedIn 等 17 个平台. [天](https://x.com/kkkkeric_AI).
 - [视频工坊](https://x.ai/bot/tSa26E3PoBOXehxJzglsR) - 分析已有视频，用 Remotion 做中文科普视频和产品宣传片，自带写谱、合成音色和混音的配乐流程. [yang0001](https://x.com/yang0001).
 - [街头教练](https://x.ai/bot/4olj8YlToV_vsMr7MFw04) - 街拍私教：出练习题、点评作品、帮你二次构图和调色，并按你的相机和焦段找参考案例. [Cola](https://x.com/Davidwuuu92).
